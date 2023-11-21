@@ -1,0 +1,1004 @@
+{"repo_name": "angular/angular-cli", "stars": 26282, "forks": 12145, "pull_requests": 11, "commits": 14310, "branches": 23}
+{"issue_number": 26438, "created_at": "2023-11-21", "closed_at": null, "labels": [], "State": "open", "Author": "Shosetsu"}
+{"issue_number": 26437, "created_at": "2023-11-20", "closed_at": null, "labels": ["type: bug/fix", "devkit/build-angular:application"], "State": "open", "Author": "MichielNL83"}
+{"issue_number": 26432, "created_at": "2023-11-20", "closed_at": null, "labels": ["type: bug/fix", "devkit/build-angular:application"], "State": "open", "Author": "CarlosTorrecillas"}
+{"issue_number": 26431, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": [], "State": "closed", "Author": "brettaio"}
+{"issue_number": 26429, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": [], "State": "closed", "Author": "rkrisztian"}
+{"issue_number": 26427, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": [], "State": "closed", "Author": "CarlosTorrecillas"}
+{"issue_number": 26423, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": [], "State": "closed", "Author": "Shosetsu"}
+{"issue_number": 26419, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": [], "State": "closed", "Author": "fssrepository"}
+{"issue_number": 26420, "created_at": "2023-11-19", "closed_at": null, "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "open", "Author": "tbprojects"}
+{"issue_number": 26416, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": [], "State": "closed", "Author": "JelleBruisten"}
+{"issue_number": 26414, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": [], "State": "closed", "Author": "albahrawy"}
+{"issue_number": 26413, "created_at": "2023-11-19", "closed_at": "2023-11-20", "labels": [], "State": "closed", "Author": "estrellajm"}
+{"issue_number": 26412, "created_at": "2023-11-18", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/schematics-cli"], "State": "open", "Author": "its-dibo"}
+{"issue_number": 26415, "created_at": "2023-11-18", "closed_at": "2023-11-20", "labels": ["type: bug/fix", "devkit/build-angular:application"], "State": "closed", "Author": "MichalZonis"}
+{"issue_number": 26411, "created_at": "2023-11-18", "closed_at": null, "labels": ["needs: discussion"], "State": "open", "Author": "TheTomasJ"}
+{"issue_number": 26410, "created_at": "2023-11-18", "closed_at": "2023-11-18", "labels": [], "State": "closed", "Author": "SebastianStehle"}
+{"issue_number": 26407, "created_at": "2023-11-17", "closed_at": null, "labels": [], "State": "open", "Author": "dwilches"}
+{"issue_number": 26408, "created_at": "2023-11-17", "closed_at": "2023-11-18", "labels": [], "State": "closed", "Author": "dwilches"}
+{"issue_number": 26406, "created_at": "2023-11-17", "closed_at": "2023-11-20", "labels": [], "State": "closed", "Author": "TanerSaydam"}
+{"issue_number": 26409, "created_at": "2023-11-17", "closed_at": null, "labels": ["type: bug/fix", "devkit/build-angular:application"], "State": "open", "Author": "spock123"}
+{"issue_number": 26396, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": [], "State": "closed", "Author": "WillooWisp"}
+{"issue_number": 26395, "created_at": "2023-11-17", "closed_at": null, "labels": ["type: bug/fix", "needs: more info", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "open", "Author": "LukasKomar"}
+{"issue_number": 26394, "created_at": "2023-11-17", "closed_at": null, "labels": ["needs: repro steps"], "State": "open", "Author": "AmitRDesai"}
+{"issue_number": 26389, "created_at": "2023-11-17", "closed_at": null, "labels": ["needs: repro steps"], "State": "open", "Author": "JoranLive"}
+{"issue_number": 26386, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "devkit/build-angular:i18n", "devkit/build-angular:application"], "State": "closed", "Author": "acohenOT"}
+{"issue_number": 26390, "created_at": "2023-11-16", "closed_at": null, "labels": ["needs: more info"], "State": "open", "Author": "brianmtreese"}
+{"issue_number": 26384, "created_at": "2023-11-16", "closed_at": null, "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "open", "Author": "DariuszOstolski"}
+{"issue_number": 26383, "created_at": "2023-11-16", "closed_at": "2023-11-17", "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "LanderBeeuwsaert"}
+{"issue_number": 26382, "created_at": "2023-11-16", "closed_at": "2023-11-17", "labels": [], "State": "closed", "Author": "trickeyone"}
+{"issue_number": 26379, "created_at": "2023-11-16", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "open", "Author": "toddhd"}
+{"issue_number": 26378, "created_at": "2023-11-16", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "State": "open", "Author": "bjornharvold"}
+{"issue_number": 26377, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": [], "State": "closed", "Author": "fengnian7"}
+{"issue_number": 26376, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": [], "State": "closed", "Author": "LearnGrowAndShare"}
+{"issue_number": 26375, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": [], "State": "closed", "Author": "mylifeandcode"}
+{"issue_number": 26374, "created_at": "2023-11-16", "closed_at": null, "labels": ["needs: repro steps"], "State": "open", "Author": "ogolan-ig"}
+{"issue_number": 26368, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "mcdenhoed"}
+{"issue_number": 26366, "created_at": "2023-11-15", "closed_at": null, "labels": ["state: blocked on upstream"], "State": "open", "Author": "emiryumak"}
+{"issue_number": 26365, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "kupchic"}
+{"issue_number": 26361, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "roedoejet"}
+{"issue_number": 26360, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "shaun-jacks"}
+{"issue_number": 26359, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "JeanMeche"}
+{"issue_number": 26357, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "jsloyer"}
+{"issue_number": 26356, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": [], "State": "closed", "Author": "iqmeta"}
+{"issue_number": 26355, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": [], "State": "closed", "Author": "robertIsaac"}
+{"issue_number": 26354, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": [], "State": "closed", "Author": "Burgov"}
+{"issue_number": 26353, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": ["needs: more info"], "State": "closed", "Author": "enstenr"}
+{"issue_number": 26352, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": ["needs: more info"], "State": "closed", "Author": "its-dibo"}
+{"issue_number": 26350, "created_at": "2023-11-14", "closed_at": null, "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:i18n", "devkit/build-angular:application"], "State": "open", "Author": "destus90"}
+{"issue_number": 26349, "created_at": "2023-11-14", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "open", "Author": "miguellira"}
+{"issue_number": 26347, "created_at": "2023-11-13", "closed_at": null, "labels": ["type: bug/fix", "devkit/build-angular:application"], "State": "open", "Author": "ln-e"}
+{"issue_number": 26345, "created_at": "2023-11-13", "closed_at": "2023-11-15", "labels": ["needs: more info"], "State": "closed", "Author": "zerock54"}
+{"issue_number": 26344, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": [], "State": "closed", "Author": "Burgov"}
+{"issue_number": 26343, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": [], "State": "closed", "Author": "cipchk"}
+{"issue_number": 26342, "created_at": "2023-11-13", "closed_at": "2023-11-14", "labels": [], "State": "closed", "Author": "cexbrayat"}
+{"issue_number": 26339, "created_at": "2023-11-12", "closed_at": "2023-11-15", "labels": ["type: bug/fix", "devkit/build-angular:application"], "State": "closed", "Author": "Guerric-P"}
+{"issue_number": 26338, "created_at": "2023-11-12", "closed_at": null, "labels": ["feature", "devkit/build-angular:i18n", "feature: votes required", "devkit/build-angular:application"], "State": "open", "Author": "zip-fa"}
+{"issue_number": 26337, "created_at": "2023-11-12", "closed_at": "2023-11-15", "labels": ["needs: investigation", "area: angular/cli", "ng update DX"], "State": "closed", "Author": "kibetmasi"}
+{"issue_number": 26336, "created_at": "2023-11-12", "closed_at": "2023-11-16", "labels": [], "State": "closed", "Author": "noguespi"}
+{"issue_number": 26334, "created_at": "2023-11-11", "closed_at": "2023-11-20", "labels": ["type: bug/fix", "needs: more info", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "radekjakubowski"}
+{"issue_number": 26333, "created_at": "2023-11-11", "closed_at": "2023-11-15", "labels": ["type: bug/fix", "devkit/build-angular:application"], "State": "closed", "Author": "inpercima"}
+{"issue_number": 26331, "created_at": "2023-11-11", "closed_at": "2023-11-11", "labels": [], "State": "closed", "Author": "maxfriedmann"}
+{"issue_number": 26332, "created_at": "2023-11-11", "closed_at": "2023-11-13", "labels": ["needs: more info"], "State": "closed", "Author": "Burgov"}
+{"issue_number": 26330, "created_at": "2023-11-10", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "open", "Author": "joergbaier"}
+{"issue_number": 26329, "created_at": "2023-11-10", "closed_at": "2023-11-12", "labels": [], "State": "closed", "Author": "drtobal"}
+{"issue_number": 26326, "created_at": "2023-11-10", "closed_at": null, "labels": [], "State": "open", "Author": "chihab"}
+{"issue_number": 26325, "created_at": "2023-11-10", "closed_at": "2023-11-15", "labels": ["type: bug/fix", "devkit/build-angular:application"], "State": "closed", "Author": "KatzRuslan"}
+{"issue_number": 26324, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": [], "State": "closed", "Author": "Tiiyto"}
+{"issue_number": 26323, "created_at": "2023-11-10", "closed_at": null, "labels": ["devkit/build-angular:dev-server"], "State": "open", "Author": "Ozzcer"}
+{"issue_number": 26320, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": ["state: blocked on upstream"], "State": "closed", "Author": "bagbag"}
+{"issue_number": 26319, "created_at": "2023-11-10", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "alanpurple"}
+{"issue_number": 26318, "created_at": "2023-11-10", "closed_at": "2023-11-17", "labels": ["needs: more info"], "State": "closed", "Author": "tom-laplace"}
+{"issue_number": 26317, "created_at": "2023-11-10", "closed_at": "2023-11-13", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "9kubczas4"}
+{"issue_number": 26316, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": [], "State": "closed", "Author": "anhallbe"}
+{"issue_number": 26315, "created_at": "2023-11-10", "closed_at": "2023-11-13", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: schematics/angular"], "State": "closed", "Author": "djouf007"}
+{"issue_number": 26311, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": [], "State": "closed", "Author": "vlio20"}
+{"issue_number": 26310, "created_at": "2023-11-10", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "cipchk"}
+{"issue_number": 26308, "created_at": "2023-11-09", "closed_at": "2023-11-13", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular"], "State": "closed", "Author": "atsjo"}
+{"issue_number": 26307, "created_at": "2023-11-09", "closed_at": "2023-11-10", "labels": [], "State": "closed", "Author": "jnizet"}
+{"issue_number": 26305, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": [], "State": "closed", "Author": "ssougnez"}
+{"issue_number": 26304, "created_at": "2023-11-09", "closed_at": "2023-11-10", "labels": [], "State": "closed", "Author": "ssougnez"}
+{"issue_number": 26303, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["needs: repro steps"], "State": "closed", "Author": "wartab"}
+{"issue_number": 26301, "created_at": "2023-11-09", "closed_at": "2023-11-15", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "yutamago"}
+{"issue_number": 26299, "created_at": "2023-11-09", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "feature: votes required", "devkit/build-angular:application"], "State": "open", "Author": "muuvmuuv"}
+{"issue_number": 26298, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["needs: repro steps"], "State": "closed", "Author": "Fab1anB"}
+{"issue_number": 26295, "created_at": "2023-11-09", "closed_at": null, "labels": ["feature", "area: angular/cli", "feature: votes required"], "State": "open", "Author": "splincode"}
+{"issue_number": 26292, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["needs: more info", "area: angular/cli", "ng update DX"], "State": "closed", "Author": "SaranshChaudhary"}
+{"issue_number": 26291, "created_at": "2023-11-09", "closed_at": null, "labels": ["feature", "area: devkit/build-angular"], "State": "open", "Author": "dgp1130"}
+{"issue_number": 26290, "created_at": "2023-11-09", "closed_at": null, "labels": ["feature", "area: schematics/angular"], "State": "open", "Author": "dgp1130"}
+{"issue_number": 26288, "created_at": "2023-11-08", "closed_at": "2023-11-09", "labels": [], "State": "closed", "Author": "JosefBredereck"}
+{"issue_number": 26286, "created_at": "2023-11-08", "closed_at": null, "labels": ["needs: discussion"], "State": "open", "Author": "zip-fa"}
+{"issue_number": 26284, "created_at": "2023-11-08", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "AhsanAyaz"}
+{"issue_number": 26283, "created_at": "2023-11-08", "closed_at": "2023-11-09", "labels": [], "State": "closed", "Author": "EliezerB123"}
+{"issue_number": 26282, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": [], "State": "closed", "Author": "yharaskrik"}
+{"issue_number": 26272, "created_at": "2023-11-08", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "feature: votes required"], "State": "open", "Author": "simhnna"}
+{"issue_number": 26260, "created_at": "2023-11-07", "closed_at": "2023-11-08", "labels": [], "State": "closed", "Author": "hakimio"}
+{"issue_number": 26257, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["type: bug/fix", "freq3: high", "severity3: broken", "area: schematics/angular"], "State": "closed", "Author": "fmalcher"}
+{"issue_number": 26256, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26255, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": [], "State": "closed", "Author": "arunkumar30"}
+{"issue_number": 26244, "created_at": "2023-11-06", "closed_at": "2023-11-06", "labels": ["needs: repro steps"], "State": "closed", "Author": "arturober"}
+{"issue_number": 26239, "created_at": "2023-11-06", "closed_at": "2023-11-07", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "closed", "Author": "akhilbiju"}
+{"issue_number": 26235, "created_at": "2023-11-05", "closed_at": "2023-11-06", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "yharaskrik"}
+{"issue_number": 26234, "created_at": "2023-11-05", "closed_at": "2023-11-06", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "yharaskrik"}
+{"issue_number": 26233, "created_at": "2023-11-04", "closed_at": "2023-11-07", "labels": ["needs: repro steps"], "State": "closed", "Author": "edbzn"}
+{"issue_number": 26226, "created_at": "2023-11-03", "closed_at": "2023-11-03", "labels": [], "State": "closed", "Author": "pdaneshmand"}
+{"issue_number": 26223, "created_at": "2023-11-03", "closed_at": "2023-11-09", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular"], "State": "closed", "Author": "pcbowers"}
+{"issue_number": 26216, "created_at": "2023-11-03", "closed_at": "2023-11-03", "labels": [], "State": "closed", "Author": "arturober"}
+{"issue_number": 26215, "created_at": "2023-11-03", "closed_at": "2023-11-03", "labels": ["type: bug/fix", "freq2: medium", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "cexbrayat"}
+{"issue_number": 26213, "created_at": "2023-11-03", "closed_at": "2023-11-03", "labels": ["type: bug/fix", "freq2: medium", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "yjaaidi"}
+{"issue_number": 26209, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": [], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26200, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": [], "State": "closed", "Author": "andrewalderson"}
+{"issue_number": 26199, "created_at": "2023-11-01", "closed_at": "2023-11-03", "labels": ["type: bug/fix", "freq3: high", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "yharaskrik"}
+{"issue_number": 26198, "created_at": "2023-11-01", "closed_at": "2023-11-02", "labels": ["state: blocked on upstream"], "State": "closed", "Author": "manfredsteyer"}
+{"issue_number": 26204, "created_at": "2023-11-01", "closed_at": null, "labels": ["needs: investigation"], "State": "open", "Author": "gsans"}
+{"issue_number": 26192, "created_at": "2023-11-01", "closed_at": "2023-11-02", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26184, "created_at": "2023-10-30", "closed_at": "2023-10-31", "labels": [], "State": "closed", "Author": "gp187"}
+{"issue_number": 26179, "created_at": "2023-10-30", "closed_at": "2023-10-31", "labels": [], "State": "closed", "Author": "naveedahmed1"}
+{"issue_number": 26178, "created_at": "2023-10-30", "closed_at": "2023-11-01", "labels": ["needs: more info"], "State": "closed", "Author": "web-dave"}
+{"issue_number": 26167, "created_at": "2023-10-28", "closed_at": "2023-10-30", "labels": ["type: bug/fix", "area: angular/cli"], "State": "closed", "Author": "robertIsaac"}
+{"issue_number": 26161, "created_at": "2023-10-27", "closed_at": null, "labels": ["needs: more info"], "State": "open", "Author": "AshotAleqsanyan96"}
+{"issue_number": 26154, "created_at": "2023-10-26", "closed_at": "2023-10-27", "labels": [], "State": "closed", "Author": "gbrunow"}
+{"issue_number": 26153, "created_at": "2023-10-26", "closed_at": "2023-10-30", "labels": [], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26151, "created_at": "2023-10-26", "closed_at": "2023-10-31", "labels": [], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26148, "created_at": "2023-10-26", "closed_at": "2023-10-27", "labels": [], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26147, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": [], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26141, "created_at": "2023-10-26", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:ssr-dev-server"], "State": "open", "Author": "iKrishnaSahu"}
+{"issue_number": 26140, "created_at": "2023-10-26", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "feature: votes required", "devkit/build-angular:application"], "State": "open", "Author": "iKrishnaSahu"}
+{"issue_number": 26138, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": [], "State": "closed", "Author": "spock123"}
+{"issue_number": 26135, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": [], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26134, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": [], "State": "closed", "Author": "Neizan93"}
+{"issue_number": 26132, "created_at": "2023-10-25", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "feature: under consideration"], "State": "open", "Author": "dgp1130"}
+{"issue_number": 26114, "created_at": "2023-10-24", "closed_at": "2023-10-30", "labels": ["area: angular/cli"], "State": "closed", "Author": "JeanMeche"}
+{"issue_number": 26106, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": [], "State": "closed", "Author": "pumano"}
+{"issue_number": 26110, "created_at": "2023-10-23", "closed_at": "2023-10-31", "labels": ["type: bug/fix", "freq1: low", "area: schematics/angular"], "State": "closed", "Author": "sonallux"}
+{"issue_number": 26105, "created_at": "2023-10-23", "closed_at": null, "labels": [], "State": "open", "Author": "pumano"}
+{"issue_number": 26101, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": [], "State": "closed", "Author": "Casimodo72"}
+{"issue_number": 26095, "created_at": "2023-10-23", "closed_at": "2023-10-24", "labels": [], "State": "closed", "Author": "AnaA95"}
+{"issue_number": 26093, "created_at": "2023-10-23", "closed_at": "2023-10-25", "labels": [], "State": "closed", "Author": "d9j"}
+{"issue_number": 26092, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": [], "State": "closed", "Author": "JeanMeche"}
+{"issue_number": 26091, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": [], "State": "closed", "Author": "jasonrichdarmawan"}
+{"issue_number": 26090, "created_at": "2023-10-22", "closed_at": "2023-10-25", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "HymanZHAN"}
+{"issue_number": 26088, "created_at": "2023-10-21", "closed_at": "2023-10-23", "labels": [], "State": "closed", "Author": "arambazamba"}
+{"issue_number": 26083, "created_at": "2023-10-20", "closed_at": "2023-10-23", "labels": ["type: bug/fix", "freq3: high", "severity3: broken", "area: schematics/angular"], "State": "closed", "Author": "mcalmus"}
+{"issue_number": 26080, "created_at": "2023-10-20", "closed_at": "2023-10-20", "labels": [], "State": "closed", "Author": "turtleinspace1"}
+{"issue_number": 26074, "created_at": "2023-10-19", "closed_at": "2023-10-20", "labels": ["needs: more info"], "State": "closed", "Author": "robertIsaac"}
+{"issue_number": 26063, "created_at": "2023-10-19", "closed_at": "2023-10-19", "labels": ["type: bug/fix", "freq2: medium", "severity3: broken", "area: schematics/angular"], "State": "closed", "Author": "spock123"}
+{"issue_number": 26057, "created_at": "2023-10-18", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "State": "open", "Author": "MarcoGlauser"}
+{"issue_number": 26050, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": [], "State": "closed", "Author": "DaniyalAlam09"}
+{"issue_number": 26044, "created_at": "2023-10-16", "closed_at": "2023-10-18", "labels": ["type: bug/fix", "severity3: broken", "devkit/build-angular:application"], "State": "closed", "Author": "yusuke-oba1"}
+{"issue_number": 26043, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": [], "State": "closed", "Author": "jpike88"}
+{"issue_number": 26041, "created_at": "2023-10-14", "closed_at": "2023-10-15", "labels": [], "State": "closed", "Author": "lcpichette"}
+{"issue_number": 26042, "created_at": "2023-10-14", "closed_at": "2023-10-15", "labels": [], "State": "closed", "Author": "spock123"}
+{"issue_number": 26040, "created_at": "2023-10-14", "closed_at": "2023-10-16", "labels": [], "State": "closed", "Author": "Razorshnegax018"}
+{"issue_number": 26028, "created_at": "2023-10-13", "closed_at": "2023-10-13", "labels": [], "State": "closed", "Author": "thaoula"}
+{"issue_number": 26026, "created_at": "2023-10-12", "closed_at": "2023-10-20", "labels": ["needs: investigation", "devkit/build-angular:application"], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26025, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": [], "State": "closed", "Author": "DimitriTsikaridze"}
+{"issue_number": 26023, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": [], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26021, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": ["type: bug/fix", "freq3: high", "severity5: regression", "area: devkit/build-angular"], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26014, "created_at": "2023-10-11", "closed_at": "2023-10-12", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26013, "created_at": "2023-10-11", "closed_at": "2023-10-16", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 26012, "created_at": "2023-10-11", "closed_at": "2023-10-18", "labels": ["type: bug/fix", "help wanted", "freq1: low", "severity2: inconvenient", "area: schematics/angular", "good first issue"], "State": "closed", "Author": "ocombe"}
+{"issue_number": 26010, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": [], "State": "closed", "Author": "sercancolak"}
+{"issue_number": 26003, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": [], "State": "closed", "Author": "bruceauyeung"}
+{"issue_number": 26000, "created_at": "2023-10-10", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/schematics"], "State": "open", "Author": "cheng93"}
+{"issue_number": 25998, "created_at": "2023-10-10", "closed_at": "2023-10-10", "labels": [], "State": "closed", "Author": "VincenzoManto"}
+{"issue_number": 25996, "created_at": "2023-10-09", "closed_at": "2023-10-16", "labels": ["needs: more info"], "State": "closed", "Author": "codeunifier"}
+{"issue_number": 25987, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": [], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 25983, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": [], "State": "closed", "Author": "danielhasugian"}
+{"issue_number": 25985, "created_at": "2023-10-08", "closed_at": "2023-10-09", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 25980, "created_at": "2023-10-08", "closed_at": "2023-10-09", "labels": [], "State": "closed", "Author": "digeomel"}
+{"issue_number": 25979, "created_at": "2023-10-07", "closed_at": "2023-10-09", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server", "devkit/build-angular:i18n"], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 25978, "created_at": "2023-10-07", "closed_at": "2023-10-09", "labels": ["type: bug/fix", "freq1: low", "severity2: inconvenient", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 25972, "created_at": "2023-10-06", "closed_at": "2023-10-18", "labels": ["type: bug/fix", "freq2: medium", "severity3: broken", "devkit/build-angular:application"], "State": "closed", "Author": "eneajaho"}
+{"issue_number": 25966, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": [], "State": "closed", "Author": "muhamedkarajic"}
+{"issue_number": 25944, "created_at": "2023-10-04", "closed_at": "2023-10-05", "labels": ["severity6: security", "area: devkit/build-angular"], "State": "closed", "Author": "clusterberries"}
+{"issue_number": 25943, "created_at": "2023-10-04", "closed_at": "2023-10-23", "labels": ["type: bug/fix", "freq2: medium", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "d9j"}
+{"issue_number": 25936, "created_at": "2023-10-02", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: ngtools/webpack"], "State": "open", "Author": "apangr"}
+{"issue_number": 25935, "created_at": "2023-10-02", "closed_at": "2023-10-11", "labels": ["type: bug/fix", "needs: more info", "freq2: medium", "severity4: memory/performance", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "vbraun"}
+{"issue_number": 25929, "created_at": "2023-09-29", "closed_at": "2023-09-29", "labels": [], "State": "closed", "Author": "Potapich"}
+{"issue_number": 25925, "created_at": "2023-09-29", "closed_at": "2023-09-29", "labels": ["ng update DX"], "State": "closed", "Author": "nikita-fuchs"}
+{"issue_number": 25924, "created_at": "2023-09-29", "closed_at": "2023-09-29", "labels": ["type: bug/fix", "freq3: high", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server", "devkit/build-angular:application"], "State": "closed", "Author": "eneajaho"}
+{"issue_number": 25923, "created_at": "2023-09-29", "closed_at": "2023-09-29", "labels": [], "State": "closed", "Author": "nblaudez"}
+{"issue_number": 25921, "created_at": "2023-09-28", "closed_at": "2023-09-29", "labels": [], "State": "closed", "Author": "segevfiner"}
+{"issue_number": 25920, "created_at": "2023-09-28", "closed_at": "2023-09-29", "labels": [], "State": "closed", "Author": "rcsilva83"}
+{"issue_number": 25919, "created_at": "2023-09-28", "closed_at": "2023-10-11", "labels": ["needs: more info"], "State": "closed", "Author": "johncrim"}
+{"issue_number": 25918, "created_at": "2023-09-28", "closed_at": "2023-09-28", "labels": [], "State": "closed", "Author": "chopswil15"}
+{"issue_number": 25915, "created_at": "2023-09-28", "closed_at": "2023-09-28", "labels": [], "State": "closed", "Author": "dev-rajat-bacancy"}
+{"issue_number": 25912, "created_at": "2023-09-27", "closed_at": "2023-10-04", "labels": ["type: bug/fix", "freq3: high", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "psarno"}
+{"issue_number": 25911, "created_at": "2023-09-27", "closed_at": "2023-10-09", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:i18n", "devkit/build-angular:application"], "State": "closed", "Author": "cexbrayat"}
+{"issue_number": 25910, "created_at": "2023-09-27", "closed_at": "2023-10-12", "labels": ["needs: more info"], "State": "closed", "Author": "LennonReid"}
+{"issue_number": 25907, "created_at": "2023-09-27", "closed_at": "2023-09-27", "labels": [], "State": "closed", "Author": "twilker"}
+{"issue_number": 25902, "created_at": "2023-09-26", "closed_at": "2023-09-26", "labels": [], "State": "closed", "Author": "SandorSzilard"}
+{"issue_number": 25897, "created_at": "2023-09-24", "closed_at": "2023-09-24", "labels": [], "State": "closed", "Author": "hubnerd"}
+{"issue_number": 25885, "created_at": "2023-09-21", "closed_at": "2023-10-05", "labels": ["needs: repro steps"], "State": "closed", "Author": "ilyakonrad"}
+{"issue_number": 25883, "created_at": "2023-09-21", "closed_at": null, "labels": ["needs: investigation", "area: devkit/build-angular", "devkit/build-angular:i18n"], "State": "open", "Author": "cexbrayat"}
+{"issue_number": 25874, "created_at": "2023-09-20", "closed_at": null, "labels": ["needs: investigation", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "open", "Author": "shawnweeks"}
+{"issue_number": 25866, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": [], "State": "closed", "Author": "rakNeoQOWS101"}
+{"issue_number": 25865, "created_at": "2023-09-19", "closed_at": "2023-09-22", "labels": [], "State": "closed", "Author": "nicolasduminil"}
+{"issue_number": 25864, "created_at": "2023-09-19", "closed_at": "2023-09-20", "labels": [], "State": "closed", "Author": "rivaros"}
+{"issue_number": 25863, "created_at": "2023-09-18", "closed_at": "2023-09-20", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "devkit/build-angular:application"], "State": "closed", "Author": "DallasHoff"}
+{"issue_number": 25861, "created_at": "2023-09-17", "closed_at": "2023-09-20", "labels": [], "State": "closed", "Author": "cipchk"}
+{"issue_number": 25857, "created_at": "2023-09-15", "closed_at": "2023-09-16", "labels": [], "State": "closed", "Author": "Mike-and-Happy"}
+{"issue_number": 25855, "created_at": "2023-09-15", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "open", "Author": "eneajaho"}
+{"issue_number": 25854, "created_at": "2023-09-15", "closed_at": "2023-09-15", "labels": [], "State": "closed", "Author": "eneajaho"}
+{"issue_number": 25845, "created_at": "2023-09-14", "closed_at": "2023-09-25", "labels": ["needs: investigation"], "State": "closed", "Author": "justintim-es"}
+{"issue_number": 25844, "created_at": "2023-09-14", "closed_at": "2023-09-14", "labels": [], "State": "closed", "Author": "The-MAZZTer"}
+{"issue_number": 25843, "created_at": "2023-09-14", "closed_at": "2023-09-22", "labels": ["needs: repro steps"], "State": "closed", "Author": "directcuteo"}
+{"issue_number": 25842, "created_at": "2023-09-14", "closed_at": "2023-09-14", "labels": [], "State": "closed", "Author": "justintim-es"}
+{"issue_number": 25830, "created_at": "2023-09-13", "closed_at": "2023-09-13", "labels": [], "State": "closed", "Author": "vzakharov-rxnt"}
+{"issue_number": 25824, "created_at": "2023-09-12", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/schematics", "good first issue"], "State": "open", "Author": "Nosfistis"}
+{"issue_number": 25823, "created_at": "2023-09-12", "closed_at": "2023-09-12", "labels": [], "State": "closed", "Author": "akashkriplani"}
+{"issue_number": 25819, "created_at": "2023-09-11", "closed_at": "2023-09-12", "labels": [], "State": "closed", "Author": "v1nger125"}
+{"issue_number": 25815, "created_at": "2023-09-11", "closed_at": "2023-09-11", "labels": [], "State": "closed", "Author": "JeevanMahesha"}
+{"issue_number": 25813, "created_at": "2023-09-09", "closed_at": "2023-09-11", "labels": [], "State": "closed", "Author": "robertIsaac"}
+{"issue_number": 25809, "created_at": "2023-09-08", "closed_at": "2023-09-09", "labels": [], "State": "closed", "Author": "jdgriffith"}
+{"issue_number": 25806, "created_at": "2023-09-08", "closed_at": "2023-09-11", "labels": [], "State": "closed", "Author": "unitario"}
+{"issue_number": 25800, "created_at": "2023-09-07", "closed_at": "2023-09-07", "labels": [], "State": "closed", "Author": "oshilaRightS"}
+{"issue_number": 25793, "created_at": "2023-09-06", "closed_at": "2023-09-11", "labels": [], "State": "closed", "Author": "Tallyb"}
+{"issue_number": 25791, "created_at": "2023-09-06", "closed_at": "2023-09-06", "labels": [], "State": "closed", "Author": "brianreinhold"}
+{"issue_number": 25784, "created_at": "2023-09-05", "closed_at": "2023-10-19", "labels": ["help wanted", "feature", "area: devkit/build-angular", "good first issue", "devkit/build-angular:browser", "feature: votes required", "devkit/build-angular:application"], "State": "closed", "Author": "fudom"}
+{"issue_number": 25783, "created_at": "2023-09-05", "closed_at": "2023-09-05", "labels": [], "State": "closed", "Author": "mackelito"}
+{"issue_number": 25782, "created_at": "2023-09-05", "closed_at": "2023-09-05", "labels": [], "State": "closed", "Author": "Yogu"}
+{"issue_number": 25777, "created_at": "2023-09-05", "closed_at": "2023-11-16", "labels": ["feature", "devkit/build-angular:dev-server", "feature: under consideration"], "State": "closed", "Author": "mattdsteele"}
+{"issue_number": 25781, "created_at": "2023-09-04", "closed_at": "2023-09-06", "labels": [], "State": "closed", "Author": "Spiler98"}
+{"issue_number": 25774, "created_at": "2023-09-04", "closed_at": "2023-09-04", "labels": [], "State": "closed", "Author": "kumaresan-subramani"}
+{"issue_number": 25773, "created_at": "2023-09-03", "closed_at": "2023-09-03", "labels": [], "State": "closed", "Author": "burner-account"}
+{"issue_number": 25772, "created_at": "2023-09-02", "closed_at": "2023-09-04", "labels": ["needs: more info"], "State": "closed", "Author": "muhamedkarajic"}
+{"issue_number": 25770, "created_at": "2023-09-01", "closed_at": "2023-09-04", "labels": [], "State": "closed", "Author": "michaelfaith"}
+{"issue_number": 25756, "created_at": "2023-08-31", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "open", "Author": "AGrigoruta"}
+{"issue_number": 25753, "created_at": "2023-08-31", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "open", "Author": "adsafawqew"}
+{"issue_number": 25744, "created_at": "2023-08-30", "closed_at": "2023-08-30", "labels": [], "State": "closed", "Author": "LakhderAmine99"}
+{"issue_number": 25742, "created_at": "2023-08-30", "closed_at": "2023-08-30", "labels": ["severity6: security", "area: devkit/build-angular", "area: @angular/ssr"], "State": "closed", "Author": "alan-agius4"}
+{"issue_number": 25736, "created_at": "2023-08-30", "closed_at": "2023-08-30", "labels": [], "State": "closed", "Author": "ashokpadala1"}
+{"issue_number": 25731, "created_at": "2023-08-29", "closed_at": "2023-08-30", "labels": ["severity6: security", "area: devkit/core", "area: devkit/build-angular"], "State": "closed", "Author": "josephperrott"}
+{"issue_number": 25729, "created_at": "2023-08-29", "closed_at": "2023-08-30", "labels": [], "State": "closed", "Author": "Konubinix"}
+{"issue_number": 25724, "created_at": "2023-08-28", "closed_at": null, "labels": ["needs: more info", "area: devkit/build-angular", "devkit/build-angular:prerender"], "State": "open", "Author": "10eputzen"}
+{"issue_number": 25711, "created_at": "2023-08-28", "closed_at": "2023-08-29", "labels": [], "State": "closed", "Author": "atuzovic"}
+{"issue_number": 25708, "created_at": "2023-08-24", "closed_at": "2023-08-24", "labels": [], "State": "closed", "Author": "Simon-Hayden-iteratec"}
+{"issue_number": 25706, "created_at": "2023-08-23", "closed_at": "2023-08-29", "labels": [], "State": "closed", "Author": "t0m-4"}
+{"issue_number": 25705, "created_at": "2023-08-22", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: angular/cli"], "State": "open", "Author": "albanx"}
+{"issue_number": 25704, "created_at": "2023-08-22", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: angular/cli", "good first issue"], "State": "open", "Author": "antongakh"}
+{"issue_number": 25703, "created_at": "2023-08-22", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "open", "Author": "trochol"}
+{"issue_number": 25702, "created_at": "2023-08-21", "closed_at": "2023-10-03", "labels": ["needs: more info", "area: devkit/build-angular"], "State": "closed", "Author": "arobinson"}
+{"issue_number": 25701, "created_at": "2023-08-21", "closed_at": "2023-10-10", "labels": ["needs: investigation"], "State": "closed", "Author": "10eputzen"}
+{"issue_number": 25699, "created_at": "2023-08-20", "closed_at": null, "labels": ["feature", "area: angular/cli", "feature: insufficient votes"], "State": "open", "Author": "axos88"}
+{"issue_number": 25698, "created_at": "2023-08-20", "closed_at": "2023-09-06", "labels": ["needs: more info"], "State": "closed", "Author": "SciTechEnthusiast"}
+{"issue_number": 25697, "created_at": "2023-08-19", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:jest"], "State": "open", "Author": "Neizan93"}
+{"issue_number": 25696, "created_at": "2023-08-19", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:jest"], "State": "open", "Author": "Neizan93"}
+{"issue_number": 25693, "created_at": "2023-08-17", "closed_at": "2023-08-29", "labels": [], "State": "closed", "Author": "advapiIT"}
+{"issue_number": 25692, "created_at": "2023-08-17", "closed_at": "2023-08-17", "labels": [], "State": "closed", "Author": "minnie80"}
+{"issue_number": 25691, "created_at": "2023-08-17", "closed_at": "2023-08-17", "labels": [], "State": "closed", "Author": "tommyc38"}
+{"issue_number": 25678, "created_at": "2023-08-12", "closed_at": "2023-08-12", "labels": [], "State": "closed", "Author": "alaaahmedmu"}
+{"issue_number": 25671, "created_at": "2023-08-11", "closed_at": "2023-09-04", "labels": ["needs: investigation", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "preda7or"}
+{"issue_number": 25669, "created_at": "2023-08-11", "closed_at": "2023-08-11", "labels": [], "State": "closed", "Author": "harleenarora"}
+{"issue_number": 25670, "created_at": "2023-08-11", "closed_at": "2023-08-11", "labels": [], "State": "closed", "Author": "ngadceser"}
+{"issue_number": 25668, "created_at": "2023-08-11", "closed_at": "2023-11-14", "labels": ["area: devkit/build-angular", "devkit/build-angular:jest"], "State": "closed", "Author": "rafagsiqueira"}
+{"issue_number": 25662, "created_at": "2023-08-10", "closed_at": "2023-08-10", "labels": [], "State": "closed", "Author": "atsjo"}
+{"issue_number": 25660, "created_at": "2023-08-10", "closed_at": "2023-08-31", "labels": ["type: bug/fix", "freq2: medium", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "wartab"}
+{"issue_number": 25658, "created_at": "2023-08-10", "closed_at": "2023-08-10", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "wartab"}
+{"issue_number": 25657, "created_at": "2023-08-10", "closed_at": "2023-08-10", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "adsafawqew"}
+{"issue_number": 25650, "created_at": "2023-08-07", "closed_at": "2023-08-09", "labels": ["needs: repro steps"], "State": "closed", "Author": "rjb8682"}
+{"issue_number": 25649, "created_at": "2023-08-07", "closed_at": "2023-08-07", "labels": [], "State": "closed", "Author": "rjb8682"}
+{"issue_number": 25648, "created_at": "2023-08-07", "closed_at": "2023-10-31", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/schematics"], "State": "closed", "Author": "michaelfaith"}
+{"issue_number": 25647, "created_at": "2023-08-07", "closed_at": "2023-08-07", "labels": [], "State": "closed", "Author": "graphicsxp"}
+{"issue_number": 25642, "created_at": "2023-08-05", "closed_at": "2023-08-09", "labels": [], "State": "closed", "Author": "moniuch"}
+{"issue_number": 25641, "created_at": "2023-08-05", "closed_at": "2023-08-15", "labels": ["needs: more info"], "State": "closed", "Author": "upadhyaya8095"}
+{"issue_number": 25615, "created_at": "2023-08-01", "closed_at": "2023-08-02", "labels": [], "State": "closed", "Author": "dvdnhm"}
+{"issue_number": 25613, "created_at": "2023-08-01", "closed_at": "2023-08-01", "labels": [], "State": "closed", "Author": "RaneeshTK"}
+{"issue_number": 25610, "created_at": "2023-07-30", "closed_at": "2023-08-01", "labels": [], "State": "closed", "Author": "mrizzello"}
+{"issue_number": 25608, "created_at": "2023-07-30", "closed_at": "2023-08-06", "labels": ["type: bug/fix", "needs: more info", "area: angular/cli"], "State": "closed", "Author": "nouraellm"}
+{"issue_number": 25607, "created_at": "2023-07-29", "closed_at": "2023-08-09", "labels": [], "State": "closed", "Author": "zehavibarak"}
+{"issue_number": 25602, "created_at": "2023-07-28", "closed_at": "2023-07-28", "labels": [], "State": "closed", "Author": "NealGooch"}
+{"issue_number": 25601, "created_at": "2023-07-28", "closed_at": "2023-08-02", "labels": [], "State": "closed", "Author": "imaksp"}
+{"issue_number": 25599, "created_at": "2023-07-28", "closed_at": "2023-07-28", "labels": [], "State": "closed", "Author": "stanislavromanov"}
+{"issue_number": 25596, "created_at": "2023-07-27", "closed_at": "2023-07-28", "labels": [], "State": "closed", "Author": "JounQin"}
+{"issue_number": 25595, "created_at": "2023-07-27", "closed_at": "2023-07-28", "labels": [], "State": "closed", "Author": "danieljancar"}
+{"issue_number": 25725, "created_at": "2023-07-26", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "state: blocked on upstream", "area: @angular/ssr"], "State": "open", "Author": "jodylecompte"}
+{"issue_number": 25582, "created_at": "2023-07-25", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:jest"], "State": "open", "Author": "gultyayev"}
+{"issue_number": 25581, "created_at": "2023-07-25", "closed_at": "2023-10-03", "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "sod"}
+{"issue_number": 25580, "created_at": "2023-07-25", "closed_at": "2023-07-25", "labels": [], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 25576, "created_at": "2023-07-24", "closed_at": "2023-07-24", "labels": [], "State": "closed", "Author": "bit7"}
+{"issue_number": 25575, "created_at": "2023-07-24", "closed_at": "2023-07-26", "labels": ["needs: investigation", "area: devkit/build-angular"], "State": "closed", "Author": "majoer"}
+{"issue_number": 25574, "created_at": "2023-07-24", "closed_at": null, "labels": ["needs: investigation", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "open", "Author": "adumitrescu-plenty"}
+{"issue_number": 25573, "created_at": "2023-07-24", "closed_at": "2023-07-25", "labels": [], "State": "closed", "Author": "rafaelpadu"}
+{"issue_number": 25572, "created_at": "2023-07-24", "closed_at": "2023-10-11", "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "cipchk"}
+{"issue_number": 25571, "created_at": "2023-07-22", "closed_at": null, "labels": ["help wanted", "area: docs", "area: schematics/angular"], "State": "open", "Author": "hydroper"}
+{"issue_number": 25569, "created_at": "2023-07-21", "closed_at": "2023-08-29", "labels": [], "State": "closed", "Author": "fdsafasd423dfsfdsa"}
+{"issue_number": 25568, "created_at": "2023-07-21", "closed_at": "2023-07-21", "labels": [], "State": "closed", "Author": "neil26"}
+{"issue_number": 25563, "created_at": "2023-07-20", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "feature: under consideration"], "State": "open", "Author": "ice-blaze"}
+{"issue_number": 25562, "created_at": "2023-07-20", "closed_at": "2023-09-11", "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "shyallegro"}
+{"issue_number": 25558, "created_at": "2023-07-19", "closed_at": null, "labels": ["feature", "area: devkit/schematics", "feature: insufficient votes"], "State": "open", "Author": "TimTCrouch"}
+{"issue_number": 25557, "created_at": "2023-07-19", "closed_at": "2023-10-02", "labels": ["needs: repro steps", "area: devkit/build-angular"], "State": "closed", "Author": "Webrow"}
+{"issue_number": 25556, "created_at": "2023-07-18", "closed_at": "2023-10-11", "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "bgotink"}
+{"issue_number": 25554, "created_at": "2023-07-18", "closed_at": "2023-07-18", "labels": [], "State": "closed", "Author": "HerRA17"}
+{"issue_number": 25547, "created_at": "2023-07-17", "closed_at": "2023-07-18", "labels": [], "State": "closed", "Author": "christian-bromann"}
+{"issue_number": 25543, "created_at": "2023-07-14", "closed_at": "2023-07-16", "labels": ["needs: repro steps"], "State": "closed", "Author": "pweyrich"}
+{"issue_number": 25535, "created_at": "2023-07-13", "closed_at": "2023-07-13", "labels": [], "State": "closed", "Author": "thang1160"}
+{"issue_number": 25533, "created_at": "2023-07-12", "closed_at": "2023-07-13", "labels": [], "State": "closed", "Author": "mobotpsmocko"}
+{"issue_number": 25529, "created_at": "2023-07-12", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:server"], "State": "open", "Author": "juanico18"}
+{"issue_number": 25524, "created_at": "2023-07-11", "closed_at": "2023-07-13", "labels": [], "State": "closed", "Author": "ghoullier"}
+{"issue_number": 25516, "created_at": "2023-07-10", "closed_at": "2023-07-11", "labels": [], "State": "closed", "Author": "Thib370"}
+{"issue_number": 25509, "created_at": "2023-07-07", "closed_at": "2023-07-07", "labels": [], "State": "closed", "Author": "nandysouvik"}
+{"issue_number": 25498, "created_at": "2023-07-06", "closed_at": "2023-07-06", "labels": [], "State": "closed", "Author": "david-baghdasaryan"}
+{"issue_number": 25497, "created_at": "2023-07-06", "closed_at": "2023-07-06", "labels": [], "State": "closed", "Author": "meraj-markettime"}
+{"issue_number": 25496, "created_at": "2023-07-06", "closed_at": "2023-07-06", "labels": ["type: bug/fix", "freq4: critical", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "ms270169"}
+{"issue_number": 25493, "created_at": "2023-07-05", "closed_at": "2023-07-05", "labels": [], "State": "closed", "Author": "jcompagner"}
+{"issue_number": 25492, "created_at": "2023-07-05", "closed_at": "2023-07-05", "labels": [], "State": "closed", "Author": "jcompagner"}
+{"issue_number": 25490, "created_at": "2023-07-05", "closed_at": "2023-09-11", "labels": ["area: docs", "freq1: low", "severity2: inconvenient", "area: angular/pwa", "good first issue"], "State": "closed", "Author": "rkrisztian"}
+{"issue_number": 25488, "created_at": "2023-07-04", "closed_at": "2023-10-11", "labels": ["needs: more info"], "State": "closed", "Author": "dasshiba"}
+{"issue_number": 25486, "created_at": "2023-07-03", "closed_at": "2023-07-04", "labels": ["needs: repro steps"], "State": "closed", "Author": "anil9030"}
+{"issue_number": 25718, "created_at": "2023-07-03", "closed_at": null, "labels": ["feature", "feature: in backlog", "area: @angular/ssr"], "State": "open", "Author": "cromefire"}
+{"issue_number": 25483, "created_at": "2023-07-02", "closed_at": "2023-07-05", "labels": ["needs: more info"], "State": "closed", "Author": "DavidMarquezF"}
+{"issue_number": 25480, "created_at": "2023-06-30", "closed_at": "2023-07-05", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "princemaple"}
+{"issue_number": 25479, "created_at": "2023-06-29", "closed_at": "2023-10-17", "labels": ["severity4: memory/performance", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "LorinRenodeyn"}
+{"issue_number": 25471, "created_at": "2023-06-29", "closed_at": "2023-06-29", "labels": [], "State": "closed", "Author": "garysounigo"}
+{"issue_number": 25455, "created_at": "2023-06-27", "closed_at": "2023-07-02", "labels": ["area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "NatanCoralogix"}
+{"issue_number": 25453, "created_at": "2023-06-27", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: schematics/angular"], "State": "open", "Author": "MenaiAla"}
+{"issue_number": 25452, "created_at": "2023-06-27", "closed_at": "2023-06-27", "labels": [], "State": "closed", "Author": "qyjs"}
+{"issue_number": 25450, "created_at": "2023-06-26", "closed_at": "2023-06-27", "labels": [], "State": "closed", "Author": "JounQin"}
+{"issue_number": 25449, "created_at": "2023-06-26", "closed_at": "2023-06-27", "labels": [], "State": "closed", "Author": "sandrooco"}
+{"issue_number": 25448, "created_at": "2023-06-26", "closed_at": "2023-06-28", "labels": [], "State": "closed", "Author": "EranKT"}
+{"issue_number": 25446, "created_at": "2023-06-25", "closed_at": "2023-06-28", "labels": ["needs: more info"], "State": "closed", "Author": "sr5434"}
+{"issue_number": 25445, "created_at": "2023-06-25", "closed_at": null, "labels": ["needs: investigation", "area: devkit/build-angular"], "State": "open", "Author": "liorstezki"}
+{"issue_number": 25444, "created_at": "2023-06-24", "closed_at": "2023-07-06", "labels": ["needs: repro steps"], "State": "closed", "Author": "prajwalkpatil"}
+{"issue_number": 25439, "created_at": "2023-06-23", "closed_at": "2023-06-23", "labels": [], "State": "closed", "Author": "SantosAlexandr"}
+{"issue_number": 25434, "created_at": "2023-06-23", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:jest"], "State": "open", "Author": "danny12321"}
+{"issue_number": 25433, "created_at": "2023-06-23", "closed_at": "2023-06-26", "labels": [], "State": "closed", "Author": "Akxe"}
+{"issue_number": 25430, "created_at": "2023-06-23", "closed_at": "2023-06-23", "labels": [], "State": "closed", "Author": "bridzius"}
+{"issue_number": 25431, "created_at": "2023-06-23", "closed_at": "2023-06-23", "labels": [], "State": "closed", "Author": "rcb98"}
+{"issue_number": 25429, "created_at": "2023-06-23", "closed_at": "2023-06-23", "labels": [], "State": "closed", "Author": "vlio20"}
+{"issue_number": 25427, "created_at": "2023-06-22", "closed_at": "2023-06-23", "labels": [], "State": "closed", "Author": "vlio20"}
+{"issue_number": 25421, "created_at": "2023-06-22", "closed_at": "2023-06-29", "labels": ["needs: repro steps"], "State": "closed", "Author": "Blunderchips"}
+{"issue_number": 25419, "created_at": "2023-06-22", "closed_at": "2023-07-26", "labels": ["needs: investigation", "area: devkit/build-angular"], "State": "closed", "Author": "PascalSwissDev"}
+{"issue_number": 25417, "created_at": "2023-06-21", "closed_at": "2023-06-22", "labels": [], "State": "closed", "Author": "bh3605"}
+{"issue_number": 25420, "created_at": "2023-06-21", "closed_at": "2023-07-04", "labels": ["needs: repro steps"], "State": "closed", "Author": "whittet"}
+{"issue_number": 25413, "created_at": "2023-06-21", "closed_at": "2023-06-22", "labels": [], "State": "closed", "Author": "mattlewis92"}
+{"issue_number": 25412, "created_at": "2023-06-21", "closed_at": "2023-06-23", "labels": ["feature", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "JeanMeche"}
+{"issue_number": 25411, "created_at": "2023-06-21", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "feature: under consideration"], "State": "open", "Author": "k3nsei"}
+{"issue_number": 25405, "created_at": "2023-06-20", "closed_at": "2023-06-20", "labels": [], "State": "closed", "Author": "devversion"}
+{"issue_number": 25414, "created_at": "2023-06-20", "closed_at": "2023-07-06", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular"], "State": "closed", "Author": "kukjevov"}
+{"issue_number": 25404, "created_at": "2023-06-20", "closed_at": "2023-06-28", "labels": ["needs: repro steps"], "State": "closed", "Author": "wartab"}
+{"issue_number": 25403, "created_at": "2023-06-20", "closed_at": "2023-06-22", "labels": [], "State": "closed", "Author": "zehavibarak"}
+{"issue_number": 25402, "created_at": "2023-06-20", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity2: inconvenient", "area: angular/cli"], "State": "open", "Author": "sergey-morenets"}
+{"issue_number": 25400, "created_at": "2023-06-18", "closed_at": "2023-06-22", "labels": [], "State": "closed", "Author": "leon"}
+{"issue_number": 25399, "created_at": "2023-06-17", "closed_at": "2023-06-23", "labels": ["needs: more info"], "State": "closed", "Author": "sir-babagee"}
+{"issue_number": 25398, "created_at": "2023-06-17", "closed_at": "2023-06-17", "labels": [], "State": "closed", "Author": "zygarios"}
+{"issue_number": 25395, "created_at": "2023-06-16", "closed_at": "2023-06-22", "labels": [], "State": "closed", "Author": "atsjo"}
+{"issue_number": 25392, "created_at": "2023-06-16", "closed_at": "2023-06-22", "labels": [], "State": "closed", "Author": "gmfun"}
+{"issue_number": 25393, "created_at": "2023-06-16", "closed_at": "2023-06-16", "labels": ["needs: repro steps"], "State": "closed", "Author": "LanderBeeuwsaert"}
+{"issue_number": 25388, "created_at": "2023-06-16", "closed_at": "2023-06-22", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "state: blocked on upstream"], "State": "closed", "Author": "mbertuzzi"}
+{"issue_number": 25387, "created_at": "2023-06-15", "closed_at": "2023-11-02", "labels": [], "State": "closed", "Author": "JSMike"}
+{"issue_number": 25386, "created_at": "2023-06-15", "closed_at": "2023-06-15", "labels": [], "State": "closed", "Author": "zip-fa"}
+{"issue_number": 25383, "created_at": "2023-06-15", "closed_at": "2023-06-15", "labels": [], "State": "closed", "Author": "edimitchel"}
+{"issue_number": 25380, "created_at": "2023-06-14", "closed_at": "2023-06-14", "labels": [], "State": "closed", "Author": "szape89"}
+{"issue_number": 25377, "created_at": "2023-06-14", "closed_at": "2023-06-14", "labels": ["severity2: inconvenient", "area: devkit/build-angular"], "State": "closed", "Author": "bjornharvold"}
+{"issue_number": 25370, "created_at": "2023-06-13", "closed_at": "2023-06-13", "labels": [], "State": "closed", "Author": "gultyayev"}
+{"issue_number": 25369, "created_at": "2023-06-12", "closed_at": "2023-08-10", "labels": ["needs: investigation"], "State": "closed", "Author": "anhallbe"}
+{"issue_number": 25368, "created_at": "2023-06-12", "closed_at": "2023-06-13", "labels": [], "State": "closed", "Author": "cesco69"}
+{"issue_number": 25362, "created_at": "2023-06-12", "closed_at": "2023-06-12", "labels": [], "State": "closed", "Author": "spock123"}
+{"issue_number": 25361, "created_at": "2023-06-11", "closed_at": "2023-06-12", "labels": [], "State": "closed", "Author": "its-dibo"}
+{"issue_number": 25360, "created_at": "2023-06-11", "closed_at": "2023-06-13", "labels": [], "State": "closed", "Author": "DanDevel"}
+{"issue_number": 25359, "created_at": "2023-06-11", "closed_at": "2023-06-12", "labels": [], "State": "closed", "Author": "marcusho21"}
+{"issue_number": 25358, "created_at": "2023-06-11", "closed_at": "2023-09-01", "labels": [], "State": "closed", "Author": "DimitriLib"}
+{"issue_number": 25357, "created_at": "2023-06-10", "closed_at": "2023-06-10", "labels": [], "State": "closed", "Author": "cabinwj"}
+{"issue_number": 25344, "created_at": "2023-06-08", "closed_at": "2023-06-08", "labels": [], "State": "closed", "Author": "ampmonteiro"}
+{"issue_number": 25343, "created_at": "2023-06-08", "closed_at": "2023-06-08", "labels": [], "State": "closed", "Author": "pthalacker"}
+{"issue_number": 25341, "created_at": "2023-06-08", "closed_at": "2023-10-05", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "NudeFox"}
+{"issue_number": 25338, "created_at": "2023-06-08", "closed_at": "2023-06-08", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "LuisAduana"}
+{"issue_number": 25337, "created_at": "2023-06-08", "closed_at": "2023-06-09", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "PeterStaev"}
+{"issue_number": 25334, "created_at": "2023-06-07", "closed_at": "2023-06-13", "labels": [], "State": "closed", "Author": "thibseisel"}
+{"issue_number": 25331, "created_at": "2023-06-07", "closed_at": "2023-06-07", "labels": [], "State": "closed", "Author": "Rutgerdj"}
+{"issue_number": 25325, "created_at": "2023-06-06", "closed_at": "2023-06-07", "labels": [], "State": "closed", "Author": "datajournalist12"}
+{"issue_number": 25322, "created_at": "2023-06-06", "closed_at": "2023-06-06", "labels": [], "State": "closed", "Author": "preda7or"}
+{"issue_number": 25320, "created_at": "2023-06-06", "closed_at": "2023-06-06", "labels": [], "State": "closed", "Author": "kasual1"}
+{"issue_number": 25323, "created_at": "2023-06-06", "closed_at": "2023-06-13", "labels": ["needs: more info"], "State": "closed", "Author": "Trombach"}
+{"issue_number": 25316, "created_at": "2023-06-04", "closed_at": "2023-06-04", "labels": [], "State": "closed", "Author": "NatanCoralogix"}
+{"issue_number": 25311, "created_at": "2023-06-02", "closed_at": "2023-06-02", "labels": [], "State": "closed", "Author": "fireflysemantics"}
+{"issue_number": 25327, "created_at": "2023-06-02", "closed_at": "2023-07-12", "labels": [], "State": "closed", "Author": "Hagriel"}
+{"issue_number": 25308, "created_at": "2023-06-02", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:jest"], "State": "open", "Author": "sangb-han"}
+{"issue_number": 25302, "created_at": "2023-06-01", "closed_at": "2023-06-02", "labels": [], "State": "closed", "Author": "hjackows"}
+{"issue_number": 25298, "created_at": "2023-05-31", "closed_at": "2023-05-31", "labels": [], "State": "closed", "Author": "aljaznuncic"}
+{"issue_number": 25294, "created_at": "2023-05-31", "closed_at": "2023-06-01", "labels": ["needs: more info"], "State": "closed", "Author": "panchalkalpesh"}
+{"issue_number": 25293, "created_at": "2023-05-31", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:jest"], "State": "open", "Author": "maximLyakhov"}
+{"issue_number": 25290, "created_at": "2023-05-31", "closed_at": "2023-06-01", "labels": [], "State": "closed", "Author": "simeyla"}
+{"issue_number": 25287, "created_at": "2023-05-30", "closed_at": "2023-05-31", "labels": ["needs: repro steps"], "State": "closed", "Author": "MrKanister2000"}
+{"issue_number": 25283, "created_at": "2023-05-26", "closed_at": "2023-06-06", "labels": ["severity4: memory/performance", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "pumano"}
+{"issue_number": 25282, "created_at": "2023-05-26", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity2: inconvenient", "area: devkit/schematics"], "State": "open", "Author": "aeonforge"}
+{"issue_number": 25281, "created_at": "2023-05-26", "closed_at": "2023-06-13", "labels": ["needs: repro steps"], "State": "closed", "Author": "galczo5"}
+{"issue_number": 25275, "created_at": "2023-05-26", "closed_at": "2023-05-26", "labels": [], "State": "closed", "Author": "marwie"}
+{"issue_number": 25271, "created_at": "2023-05-25", "closed_at": "2023-05-25", "labels": ["needs: more info", "area: devkit/build-angular", "devkit/build-angular:jest"], "State": "closed", "Author": "gultyayev"}
+{"issue_number": 25267, "created_at": "2023-05-24", "closed_at": "2023-05-25", "labels": ["area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "BotanicalGarden"}
+{"issue_number": 25266, "created_at": "2023-05-24", "closed_at": "2023-05-25", "labels": [], "State": "closed", "Author": "shammy8"}
+{"issue_number": 25263, "created_at": "2023-05-23", "closed_at": null, "labels": ["area: devkit/build-angular"], "State": "open", "Author": "jamesrusso"}
+{"issue_number": 25261, "created_at": "2023-05-23", "closed_at": "2023-05-23", "labels": [], "State": "closed", "Author": "cesco69"}
+{"issue_number": 25257, "created_at": "2023-05-22", "closed_at": "2023-05-30", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "plessbd"}
+{"issue_number": 25254, "created_at": "2023-05-20", "closed_at": "2023-05-27", "labels": ["needs: repro steps"], "State": "closed", "Author": "msc24x"}
+{"issue_number": 25250, "created_at": "2023-05-19", "closed_at": "2023-05-22", "labels": [], "State": "closed", "Author": "melroy89"}
+{"issue_number": 25249, "created_at": "2023-05-19", "closed_at": "2023-05-22", "labels": [], "State": "closed", "Author": "grosch-intl"}
+{"issue_number": 25248, "created_at": "2023-05-19", "closed_at": "2023-05-30", "labels": ["needs: repro steps"], "State": "closed", "Author": "psarno"}
+{"issue_number": 25244, "created_at": "2023-05-19", "closed_at": "2023-05-19", "labels": [], "State": "closed", "Author": "jasonliao-cb"}
+{"issue_number": 25238, "created_at": "2023-05-17", "closed_at": "2023-05-19", "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "christianliebel"}
+{"issue_number": 25235, "created_at": "2023-05-17", "closed_at": "2023-05-19", "labels": [], "State": "closed", "Author": "NatanCoralogix"}
+{"issue_number": 25230, "created_at": "2023-05-17", "closed_at": "2023-05-17", "labels": [], "State": "closed", "Author": "NatanCoralogix"}
+{"issue_number": 25229, "created_at": "2023-05-17", "closed_at": "2023-05-25", "labels": ["needs: repro steps"], "State": "closed", "Author": "SebastianPodgajny"}
+{"issue_number": 25224, "created_at": "2023-05-16", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: angular/cli", "ng update DX"], "State": "open", "Author": "jordimarimon"}
+{"issue_number": 25223, "created_at": "2023-05-16", "closed_at": "2023-05-16", "labels": ["needs: more info"], "State": "closed", "Author": "EdwinHauspie"}
+{"issue_number": 25220, "created_at": "2023-05-15", "closed_at": "2023-05-15", "labels": [], "State": "closed", "Author": "ampmonteiro"}
+{"issue_number": 25219, "created_at": "2023-05-15", "closed_at": "2023-10-31", "labels": ["area: schematics/angular"], "State": "closed", "Author": "ampmonteiro"}
+{"issue_number": 25218, "created_at": "2023-05-15", "closed_at": null, "labels": ["needs: investigation", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "open", "Author": "anhallbe"}
+{"issue_number": 25216, "created_at": "2023-05-15", "closed_at": "2023-06-23", "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "AStoker"}
+{"issue_number": 25217, "created_at": "2023-05-15", "closed_at": "2023-06-07", "labels": ["devkit/build-angular:jest"], "State": "closed", "Author": "ampmonteiro"}
+{"issue_number": 25214, "created_at": "2023-05-15", "closed_at": "2023-05-15", "labels": [], "State": "closed", "Author": "dmitryya-tr"}
+{"issue_number": 25213, "created_at": "2023-05-15", "closed_at": "2023-05-15", "labels": [], "State": "closed", "Author": "fireflysemantics"}
+{"issue_number": 25211, "created_at": "2023-05-14", "closed_at": "2023-05-15", "labels": [], "State": "closed", "Author": "dylanvdmerwe"}
+{"issue_number": 25207, "created_at": "2023-05-13", "closed_at": "2023-05-13", "labels": [], "State": "closed", "Author": "andreyferriyan"}
+{"issue_number": 25200, "created_at": "2023-05-12", "closed_at": "2023-05-12", "labels": [], "State": "closed", "Author": "alexfriesen"}
+{"issue_number": 25198, "created_at": "2023-05-12", "closed_at": "2023-05-15", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "wartab"}
+{"issue_number": 25197, "created_at": "2023-05-12", "closed_at": "2023-10-31", "labels": ["type: bug/fix", "freq2: medium", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "wartab"}
+{"issue_number": 25195, "created_at": "2023-05-12", "closed_at": "2023-08-11", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "paoyuan"}
+{"issue_number": 25194, "created_at": "2023-05-12", "closed_at": "2023-05-12", "labels": [], "State": "closed", "Author": "MrAlexBailey"}
+{"issue_number": 25193, "created_at": "2023-05-11", "closed_at": "2023-05-12", "labels": [], "State": "closed", "Author": "FiniteLooper"}
+{"issue_number": 25191, "created_at": "2023-05-11", "closed_at": "2023-05-11", "labels": [], "State": "closed", "Author": "dinnerhe"}
+{"issue_number": 25190, "created_at": "2023-05-11", "closed_at": "2023-06-07", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:jest"], "State": "closed", "Author": "rafagsiqueira"}
+{"issue_number": 25189, "created_at": "2023-05-11", "closed_at": "2023-07-14", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:jest"], "State": "closed", "Author": "rafagsiqueira"}
+{"issue_number": 25188, "created_at": "2023-05-11", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:jest"], "State": "open", "Author": "Prabin1111"}
+{"issue_number": 25187, "created_at": "2023-05-11", "closed_at": "2023-07-11", "labels": ["needs: investigation", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "ooo2003003v2"}
+{"issue_number": 25186, "created_at": "2023-05-11", "closed_at": "2023-05-11", "labels": [], "State": "closed", "Author": "webtsofficial"}
+{"issue_number": 25185, "created_at": "2023-05-11", "closed_at": "2023-05-11", "labels": [], "State": "closed", "Author": "aldrashan"}
+{"issue_number": 25181, "created_at": "2023-05-10", "closed_at": "2023-05-16", "labels": ["needs: repro steps"], "State": "closed", "Author": "wupaz"}
+{"issue_number": 25178, "created_at": "2023-05-09", "closed_at": "2023-05-11", "labels": ["feature", "area: devkit/build-angular", "feature: votes required"], "State": "closed", "Author": "andreescocard"}
+{"issue_number": 25174, "created_at": "2023-05-09", "closed_at": "2023-05-10", "labels": ["type: bug/fix", "freq3: high", "severity5: regression", "area: devkit/schematics"], "State": "closed", "Author": "christianliebel"}
+{"issue_number": 25169, "created_at": "2023-05-08", "closed_at": "2023-05-30", "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "canserkanuren"}
+{"issue_number": 25168, "created_at": "2023-05-08", "closed_at": null, "labels": ["needs: investigation"], "State": "open", "Author": "StephenFluin"}
+{"issue_number": 25165, "created_at": "2023-05-08", "closed_at": "2023-05-08", "labels": [], "State": "closed", "Author": "StephenFluin"}
+{"issue_number": 25164, "created_at": "2023-05-08", "closed_at": "2023-10-26", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: schematics/angular"], "State": "closed", "Author": "sod"}
+{"issue_number": 25719, "created_at": "2023-05-08", "closed_at": "2023-10-30", "labels": ["feature", "area: devkit/build-angular", "feature: insufficient votes", "devkit/build-angular:application", "devkit/build-angular:prerender"], "State": "closed", "Author": "guoapeng"}
+{"issue_number": 25160, "created_at": "2023-05-07", "closed_at": "2023-05-08", "labels": [], "State": "closed", "Author": "Xaconi"}
+{"issue_number": 25158, "created_at": "2023-05-07", "closed_at": "2023-05-07", "labels": [], "State": "closed", "Author": "tiberiuzuld"}
+{"issue_number": 25157, "created_at": "2023-05-06", "closed_at": "2023-05-12", "labels": [], "State": "closed", "Author": "magwas"}
+{"issue_number": 25156, "created_at": "2023-05-06", "closed_at": "2023-05-08", "labels": [], "State": "closed", "Author": "mamjerez"}
+{"issue_number": 25155, "created_at": "2023-05-06", "closed_at": "2023-05-08", "labels": ["devkit/build-angular:jest"], "State": "closed", "Author": "kisamoto"}
+{"issue_number": 25161, "created_at": "2023-05-05", "closed_at": "2023-05-08", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular"], "State": "closed", "Author": "tonivj5"}
+{"issue_number": 25152, "created_at": "2023-05-05", "closed_at": "2023-05-05", "labels": [], "State": "closed", "Author": "mannyNRECA"}
+{"issue_number": 25150, "created_at": "2023-05-05", "closed_at": "2023-05-05", "labels": [], "State": "closed", "Author": "whyboris"}
+{"issue_number": 25151, "created_at": "2023-05-05", "closed_at": "2023-05-08", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "cesco69"}
+{"issue_number": 25148, "created_at": "2023-05-05", "closed_at": "2023-05-08", "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "mslourens"}
+{"issue_number": 25147, "created_at": "2023-05-05", "closed_at": "2023-05-05", "labels": [], "State": "closed", "Author": "mkecommercesolutions-ahmet"}
+{"issue_number": 25144, "created_at": "2023-05-05", "closed_at": "2023-05-16", "labels": ["needs: repro steps"], "State": "closed", "Author": "mayankdargan03"}
+{"issue_number": 25142, "created_at": "2023-05-05", "closed_at": "2023-05-05", "labels": ["needs: more info", "area: devkit/build-angular", "devkit/build-angular:jest"], "State": "closed", "Author": "henryruhs"}
+{"issue_number": 25138, "created_at": "2023-05-04", "closed_at": "2023-05-04", "labels": [], "State": "closed", "Author": "carstenbaumhoegger"}
+{"issue_number": 25137, "created_at": "2023-05-04", "closed_at": "2023-05-05", "labels": [], "State": "closed", "Author": "whyboris"}
+{"issue_number": 25136, "created_at": "2023-05-04", "closed_at": "2023-05-04", "labels": [], "State": "closed", "Author": "katedoctor"}
+{"issue_number": 25135, "created_at": "2023-05-04", "closed_at": "2023-05-04", "labels": [], "State": "closed", "Author": "IsaacSomething"}
+{"issue_number": 25134, "created_at": "2023-05-04", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "area: devkit/build-angular", "devkit/build-angular:browser", "state: blocked on upstream"], "State": "open", "Author": "menelai"}
+{"issue_number": 25131, "created_at": "2023-05-04", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:jest"], "State": "open", "Author": "Varixo"}
+{"issue_number": 25130, "created_at": "2023-05-04", "closed_at": null, "labels": ["feature", "severity4: memory/performance", "area: devkit/build-angular", "feature: insufficient votes", "devkit/build-angular:application"], "State": "open", "Author": "eneajaho"}
+{"issue_number": 25129, "created_at": "2023-05-04", "closed_at": "2023-05-04", "labels": ["needs: discussion", "area: devkit/build-angular"], "State": "closed", "Author": "npetillon"}
+{"issue_number": 25128, "created_at": "2023-05-04", "closed_at": "2023-05-08", "labels": ["type: bug/fix", "freq1: low", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "paoyuan"}
+{"issue_number": 25127, "created_at": "2023-05-04", "closed_at": "2023-05-08", "labels": ["type: bug/fix", "freq1: low", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "Klaster1"}
+{"issue_number": 25116, "created_at": "2023-05-03", "closed_at": "2023-05-04", "labels": [], "State": "closed", "Author": "AndreasPlahn"}
+{"issue_number": 25112, "created_at": "2023-05-02", "closed_at": "2023-05-02", "labels": [], "State": "closed", "Author": "pauliojanpera"}
+{"issue_number": 25111, "created_at": "2023-05-02", "closed_at": "2023-05-02", "labels": [], "State": "closed", "Author": "BenTaylorPublic"}
+{"issue_number": 25110, "created_at": "2023-05-02", "closed_at": "2023-05-02", "labels": [], "State": "closed", "Author": "alanpurple"}
+{"issue_number": 25105, "created_at": "2023-04-28", "closed_at": "2023-04-28", "labels": [], "State": "closed", "Author": "olfek"}
+{"issue_number": 25102, "created_at": "2023-04-28", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "State": "open", "Author": "clydin"}
+{"issue_number": 25101, "created_at": "2023-04-28", "closed_at": "2023-10-02", "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "clydin"}
+{"issue_number": 25100, "created_at": "2023-04-28", "closed_at": "2023-10-11", "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "clydin"}
+{"issue_number": 25099, "created_at": "2023-04-28", "closed_at": "2023-09-27", "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "clydin"}
+{"issue_number": 25098, "created_at": "2023-04-28", "closed_at": "2023-05-04", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "leo6104"}
+{"issue_number": 25089, "created_at": "2023-04-27", "closed_at": "2023-05-09", "labels": ["type: bug/fix", "freq1: low", "severity1: confusing", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "pumano"}
+{"issue_number": 25095, "created_at": "2023-04-27", "closed_at": "2023-04-28", "labels": [], "State": "closed", "Author": "Serehactka"}
+{"issue_number": 25087, "created_at": "2023-04-27", "closed_at": "2023-04-27", "labels": [], "State": "closed", "Author": "pweyrich"}
+{"issue_number": 25080, "created_at": "2023-04-27", "closed_at": "2023-05-09", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "jpike88"}
+{"issue_number": 25075, "created_at": "2023-04-26", "closed_at": "2023-04-27", "labels": [], "State": "closed", "Author": "ShrutiThakur01"}
+{"issue_number": 25073, "created_at": "2023-04-26", "closed_at": "2023-04-27", "labels": [], "State": "closed", "Author": "softgandhi"}
+{"issue_number": 25069, "created_at": "2023-04-25", "closed_at": "2023-04-26", "labels": [], "State": "closed", "Author": "montella1507"}
+{"issue_number": 25062, "created_at": "2023-04-25", "closed_at": "2023-04-26", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "alan-agius4"}
+{"issue_number": 25057, "created_at": "2023-04-25", "closed_at": "2023-04-25", "labels": [], "State": "closed", "Author": "windmillcode0"}
+{"issue_number": 25056, "created_at": "2023-04-24", "closed_at": "2023-04-25", "labels": [], "State": "closed", "Author": "dinbtechit"}
+{"issue_number": 25051, "created_at": "2023-04-23", "closed_at": "2023-04-23", "labels": [], "State": "closed", "Author": "ashuvax"}
+{"issue_number": 25050, "created_at": "2023-04-23", "closed_at": "2023-04-23", "labels": [], "State": "closed", "Author": "olfek"}
+{"issue_number": 25049, "created_at": "2023-04-22", "closed_at": "2023-04-24", "labels": [], "State": "closed", "Author": "johnhollon"}
+{"issue_number": 25047, "created_at": "2023-04-21", "closed_at": "2023-04-24", "labels": [], "State": "closed", "Author": "erickbrenesLT"}
+{"issue_number": 25046, "created_at": "2023-04-20", "closed_at": "2023-04-20", "labels": [], "State": "closed", "Author": "stnor"}
+{"issue_number": 25045, "created_at": "2023-04-20", "closed_at": "2023-04-20", "labels": [], "State": "closed", "Author": "stnor"}
+{"issue_number": 25037, "created_at": "2023-04-19", "closed_at": "2023-04-22", "labels": ["needs: more info"], "State": "closed", "Author": "wellwind"}
+{"issue_number": 25034, "created_at": "2023-04-18", "closed_at": "2023-04-18", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: angular/cli"], "State": "closed", "Author": "SmallhillCZ"}
+{"issue_number": 25032, "created_at": "2023-04-18", "closed_at": "2023-04-20", "labels": ["needs: more info"], "State": "closed", "Author": "demike"}
+{"issue_number": 25031, "created_at": "2023-04-18", "closed_at": "2023-04-26", "labels": ["needs: more info", "severity4: memory/performance"], "State": "closed", "Author": "jpike88"}
+{"issue_number": 25026, "created_at": "2023-04-16", "closed_at": "2023-04-20", "labels": [], "State": "closed", "Author": "rajeshtezu"}
+{"issue_number": 25023, "created_at": "2023-04-14", "closed_at": null, "labels": ["feature", "area: schematics/angular", "feature: under consideration"], "State": "open", "Author": "brandonroberts"}
+{"issue_number": 25018, "created_at": "2023-04-13", "closed_at": "2023-04-26", "labels": ["needs: repro steps"], "State": "closed", "Author": "sramocki"}
+{"issue_number": 25012, "created_at": "2023-04-13", "closed_at": "2023-04-27", "labels": ["type: bug/fix", "freq1: low", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "jpike88"}
+{"issue_number": 25011, "created_at": "2023-04-13", "closed_at": "2023-05-25", "labels": ["type: bug/fix", "freq1: low", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "gmfun"}
+{"issue_number": 25008, "created_at": "2023-04-12", "closed_at": "2023-04-18", "labels": ["needs: investigation"], "State": "closed", "Author": "KevinDufendach"}
+{"issue_number": 25001, "created_at": "2023-04-12", "closed_at": "2023-04-12", "labels": [], "State": "closed", "Author": "joas005"}
+{"issue_number": 25000, "created_at": "2023-04-12", "closed_at": "2023-04-20", "labels": ["needs: repro steps"], "State": "closed", "Author": "jeffschulzusc"}
+{"issue_number": 24999, "created_at": "2023-04-12", "closed_at": "2023-04-12", "labels": [], "State": "closed", "Author": "sebasqr22"}
+{"issue_number": 24991, "created_at": "2023-04-11", "closed_at": "2023-04-12", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: schematics/angular"], "State": "closed", "Author": "chpoit"}
+{"issue_number": 24990, "created_at": "2023-04-11", "closed_at": "2023-04-26", "labels": ["needs: investigation"], "State": "closed", "Author": "hakimio"}
+{"issue_number": 24989, "created_at": "2023-04-11", "closed_at": "2023-04-12", "labels": [], "State": "closed", "Author": "hakimio"}
+{"issue_number": 24987, "created_at": "2023-04-11", "closed_at": "2023-04-11", "labels": [], "State": "closed", "Author": "duckhiem2507"}
+{"issue_number": 24985, "created_at": "2023-04-11", "closed_at": "2023-04-11", "labels": [], "State": "closed", "Author": "duckhiem2507"}
+{"issue_number": 24979, "created_at": "2023-04-10", "closed_at": "2023-04-11", "labels": [], "State": "closed", "Author": "jpike88"}
+{"issue_number": 24972, "created_at": "2023-04-06", "closed_at": "2023-04-20", "labels": ["needs: more info"], "State": "closed", "Author": "anandlingaraj"}
+{"issue_number": 24970, "created_at": "2023-04-06", "closed_at": "2023-04-11", "labels": ["freq1: low", "severity2: inconvenient", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "eneajaho"}
+{"issue_number": 24967, "created_at": "2023-04-06", "closed_at": "2023-04-13", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "jpike88"}
+{"issue_number": 24966, "created_at": "2023-04-06", "closed_at": "2023-04-06", "labels": [], "State": "closed", "Author": "gmfun"}
+{"issue_number": 24952, "created_at": "2023-04-04", "closed_at": "2023-04-04", "labels": [], "State": "closed", "Author": "v1nger125"}
+{"issue_number": 24948, "created_at": "2023-04-03", "closed_at": "2023-04-04", "labels": ["needs: more info"], "State": "closed", "Author": "rychnal"}
+{"issue_number": 24947, "created_at": "2023-04-03", "closed_at": "2023-04-03", "labels": [], "State": "closed", "Author": "Techman47"}
+{"issue_number": 24943, "created_at": "2023-04-03", "closed_at": "2023-04-18", "labels": ["feature", "area: devkit/build-angular", "feature: under consideration"], "State": "closed", "Author": "burner-account"}
+{"issue_number": 24936, "created_at": "2023-03-31", "closed_at": "2023-04-11", "labels": ["needs: more info"], "State": "closed", "Author": "PaulvdDool"}
+{"issue_number": 24935, "created_at": "2023-03-31", "closed_at": "2023-03-31", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "jpike88"}
+{"issue_number": 24934, "created_at": "2023-03-30", "closed_at": "2023-03-31", "labels": [], "State": "closed", "Author": "pavankjadda"}
+{"issue_number": 24940, "created_at": "2023-03-30", "closed_at": "2023-04-01", "labels": [], "State": "closed", "Author": "mcoulont"}
+{"issue_number": 24922, "created_at": "2023-03-29", "closed_at": "2023-03-31", "labels": ["needs: more info"], "State": "closed", "Author": "jpike88"}
+{"issue_number": 24916, "created_at": "2023-03-27", "closed_at": "2023-04-20", "labels": ["needs: repro steps"], "State": "closed", "Author": "tsupryk"}
+{"issue_number": 24914, "created_at": "2023-03-26", "closed_at": "2023-03-27", "labels": [], "State": "closed", "Author": "DutchKevv"}
+{"issue_number": 24904, "created_at": "2023-03-24", "closed_at": "2023-03-24", "labels": [], "State": "closed", "Author": "ABUdhay"}
+{"issue_number": 24902, "created_at": "2023-03-24", "closed_at": "2023-03-24", "labels": [], "State": "closed", "Author": "niken-wulandari"}
+{"issue_number": 24896, "created_at": "2023-03-23", "closed_at": "2023-03-23", "labels": ["needs: repro steps"], "State": "closed", "Author": "ERWviaprinto"}
+{"issue_number": 24893, "created_at": "2023-03-22", "closed_at": "2023-03-22", "labels": [], "State": "closed", "Author": "turingcs2005"}
+{"issue_number": 24889, "created_at": "2023-03-21", "closed_at": "2023-03-23", "labels": [], "State": "closed", "Author": "4javier"}
+{"issue_number": 24887, "created_at": "2023-03-21", "closed_at": "2023-03-21", "labels": [], "State": "closed", "Author": "ArnaudDenoyelle"}
+{"issue_number": 24882, "created_at": "2023-03-19", "closed_at": "2023-03-19", "labels": [], "State": "closed", "Author": "MickL"}
+{"issue_number": 24881, "created_at": "2023-03-19", "closed_at": "2023-03-19", "labels": [], "State": "closed", "Author": "danielehrhardt"}
+{"issue_number": 24870, "created_at": "2023-03-16", "closed_at": "2023-03-21", "labels": [], "State": "closed", "Author": "ajitprak"}
+{"issue_number": 24867, "created_at": "2023-03-15", "closed_at": "2023-03-16", "labels": [], "State": "closed", "Author": "fredowashere"}
+{"issue_number": 24861, "created_at": "2023-03-15", "closed_at": "2023-03-16", "labels": ["type: bug/fix", "freq3: high", "severity6: security", "area: devkit/build-angular"], "State": "closed", "Author": "clusterberries"}
+{"issue_number": 24856, "created_at": "2023-03-15", "closed_at": "2023-03-20", "labels": ["needs: more info"], "State": "closed", "Author": "rohankumar1524"}
+{"issue_number": 24855, "created_at": "2023-03-15", "closed_at": null, "labels": ["needs: investigation", "area: ngtools/webpack"], "State": "open", "Author": "CMadden8"}
+{"issue_number": 24851, "created_at": "2023-03-14", "closed_at": "2023-03-14", "labels": [], "State": "closed", "Author": "fireflysemantics"}
+{"issue_number": 25720, "created_at": "2023-03-12", "closed_at": "2023-10-25", "labels": ["needs: investigation", "area: devkit/build-angular", "devkit/build-angular:prerender"], "State": "closed", "Author": "anisabboud"}
+{"issue_number": 24842, "created_at": "2023-03-10", "closed_at": "2023-03-13", "labels": ["needs: more info"], "State": "closed", "Author": "lizhiyu-me"}
+{"issue_number": 24839, "created_at": "2023-03-10", "closed_at": "2023-03-16", "labels": ["needs: repro steps"], "State": "closed", "Author": "AmanSonii"}
+{"issue_number": 24837, "created_at": "2023-03-10", "closed_at": "2023-03-10", "labels": [], "State": "closed", "Author": "edbzn"}
+{"issue_number": 24836, "created_at": "2023-03-10", "closed_at": "2023-03-20", "labels": ["needs: more info"], "State": "closed", "Author": "TharunSB"}
+{"issue_number": 24835, "created_at": "2023-03-10", "closed_at": "2023-03-10", "labels": [], "State": "closed", "Author": "pavankjadda"}
+{"issue_number": 24832, "created_at": "2023-03-09", "closed_at": "2023-04-01", "labels": ["needs: more info"], "State": "closed", "Author": "wesselvdv"}
+{"issue_number": 24831, "created_at": "2023-03-09", "closed_at": "2023-03-09", "labels": [], "State": "closed", "Author": "KnairWang"}
+{"issue_number": 24826, "created_at": "2023-03-08", "closed_at": "2023-03-08", "labels": [], "State": "closed", "Author": "johnnygerard"}
+{"issue_number": 24823, "created_at": "2023-03-08", "closed_at": "2023-03-08", "labels": [], "State": "closed", "Author": "chayanray"}
+{"issue_number": 24821, "created_at": "2023-03-07", "closed_at": "2023-03-09", "labels": [], "State": "closed", "Author": "erictor"}
+{"issue_number": 24819, "created_at": "2023-03-07", "closed_at": "2023-03-09", "labels": ["needs: more info"], "State": "closed", "Author": "NatanCoralogix"}
+{"issue_number": 24817, "created_at": "2023-03-07", "closed_at": "2023-03-07", "labels": ["freq1: low", "severity3: broken", "area: devkit/schematics-cli"], "State": "closed", "Author": "szqsy17"}
+{"issue_number": 24812, "created_at": "2023-03-04", "closed_at": "2023-03-07", "labels": ["needs: more info"], "State": "closed", "Author": "huw1676"}
+{"issue_number": 24811, "created_at": "2023-03-04", "closed_at": "2023-03-04", "labels": [], "State": "closed", "Author": "jms-1005"}
+{"issue_number": 24808, "created_at": "2023-03-03", "closed_at": "2023-03-16", "labels": ["needs: more info"], "State": "closed", "Author": "fearghalom"}
+{"issue_number": 24807, "created_at": "2023-03-03", "closed_at": "2023-03-07", "labels": [], "State": "closed", "Author": "kirpachov"}
+{"issue_number": 24806, "created_at": "2023-03-03", "closed_at": "2023-03-03", "labels": [], "State": "closed", "Author": "YSFKBDY"}
+{"issue_number": 24805, "created_at": "2023-03-03", "closed_at": "2023-03-03", "labels": [], "State": "closed", "Author": "codesuman"}
+{"issue_number": 24797, "created_at": "2023-03-01", "closed_at": "2023-03-01", "labels": [], "State": "closed", "Author": "iKrishnaSahu"}
+{"issue_number": 24795, "created_at": "2023-02-28", "closed_at": "2023-02-28", "labels": [], "State": "closed", "Author": "germanier"}
+{"issue_number": 24794, "created_at": "2023-02-28", "closed_at": "2023-02-28", "labels": ["needs: repro steps"], "State": "closed", "Author": "patrickhousley"}
+{"issue_number": 24793, "created_at": "2023-02-28", "closed_at": "2023-02-28", "labels": ["needs: more info"], "State": "closed", "Author": "meiram-tr"}
+{"issue_number": 24791, "created_at": "2023-02-28", "closed_at": "2023-02-28", "labels": [], "State": "closed", "Author": "hannoquest"}
+{"issue_number": 24792, "created_at": "2023-02-28", "closed_at": "2023-02-28", "labels": [], "State": "closed", "Author": "hannoquest"}
+{"issue_number": 24790, "created_at": "2023-02-28", "closed_at": "2023-03-01", "labels": ["needs: repro steps"], "State": "closed", "Author": "ashfaq-shamsudeen"}
+{"issue_number": 24788, "created_at": "2023-02-27", "closed_at": "2023-02-27", "labels": [], "State": "closed", "Author": "NatanCoralogix"}
+{"issue_number": 24787, "created_at": "2023-02-27", "closed_at": "2023-02-28", "labels": [], "State": "closed", "Author": "sabatorussonttdata"}
+{"issue_number": 24785, "created_at": "2023-02-27", "closed_at": "2023-02-27", "labels": [], "State": "closed", "Author": "AndreaColomboIT"}
+{"issue_number": 24784, "created_at": "2023-02-26", "closed_at": "2023-02-27", "labels": [], "State": "closed", "Author": "ciriousjoker"}
+{"issue_number": 24783, "created_at": "2023-02-25", "closed_at": "2023-02-25", "labels": [], "State": "closed", "Author": "rsc092020"}
+{"issue_number": 24778, "created_at": "2023-02-24", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "open", "Author": "andrewpmontgomery"}
+{"issue_number": 24775, "created_at": "2023-02-24", "closed_at": "2023-02-24", "labels": [], "State": "closed", "Author": "ziedzayani"}
+{"issue_number": 24771, "created_at": "2023-02-23", "closed_at": "2023-02-24", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular"], "State": "closed", "Author": "alexandis"}
+{"issue_number": 24770, "created_at": "2023-02-23", "closed_at": "2023-02-23", "labels": ["needs: repro steps"], "State": "closed", "Author": "thaoula"}
+{"issue_number": 24767, "created_at": "2023-02-23", "closed_at": "2023-02-23", "labels": [], "State": "closed", "Author": "sysmat"}
+{"issue_number": 24765, "created_at": "2023-02-23", "closed_at": "2023-02-23", "labels": [], "State": "closed", "Author": "enurberk"}
+{"issue_number": 24763, "created_at": "2023-02-23", "closed_at": "2023-02-23", "labels": ["needs: repro steps"], "State": "closed", "Author": "thaoula"}
+{"issue_number": 24759, "created_at": "2023-02-22", "closed_at": "2023-02-23", "labels": ["needs: more info"], "State": "closed", "Author": "Majed93"}
+{"issue_number": 24758, "created_at": "2023-02-22", "closed_at": "2023-02-22", "labels": [], "State": "closed", "Author": "Suraj-Gupta-ML"}
+{"issue_number": 24755, "created_at": "2023-02-21", "closed_at": "2023-02-22", "labels": ["area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "dgp1130"}
+{"issue_number": 24752, "created_at": "2023-02-20", "closed_at": "2023-02-21", "labels": [], "State": "closed", "Author": "eneajaho"}
+{"issue_number": 24749, "created_at": "2023-02-18", "closed_at": "2023-02-19", "labels": [], "State": "closed", "Author": "dhamuace"}
+{"issue_number": 24744, "created_at": "2023-02-17", "closed_at": "2023-02-17", "labels": [], "State": "closed", "Author": "angular-robot"}
+{"issue_number": 24743, "created_at": "2023-02-17", "closed_at": "2023-02-17", "labels": [], "State": "closed", "Author": "PostalMike"}
+{"issue_number": 24741, "created_at": "2023-02-17", "closed_at": "2023-02-17", "labels": [], "State": "closed", "Author": "wszydlak"}
+{"issue_number": 24736, "created_at": "2023-02-16", "closed_at": "2023-02-16", "labels": [], "State": "closed", "Author": "cakeinpanic"}
+{"issue_number": 24730, "created_at": "2023-02-16", "closed_at": "2023-02-16", "labels": [], "State": "closed", "Author": "hoosayn"}
+{"issue_number": 24729, "created_at": "2023-02-16", "closed_at": "2023-02-17", "labels": [], "State": "closed", "Author": "lsa-shanghai"}
+{"issue_number": 24717, "created_at": "2023-02-15", "closed_at": "2023-02-15", "labels": [], "State": "closed", "Author": "robertIsaac"}
+{"issue_number": 24710, "created_at": "2023-02-14", "closed_at": "2023-02-14", "labels": [], "State": "closed", "Author": "sahilbabbar"}
+{"issue_number": 24711, "created_at": "2023-02-14", "closed_at": "2023-02-14", "labels": [], "State": "closed", "Author": "sahilbabbar"}
+{"issue_number": 24707, "created_at": "2023-02-13", "closed_at": "2023-02-14", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "petercmuc"}
+{"issue_number": 24706, "created_at": "2023-02-13", "closed_at": "2023-02-13", "labels": [], "State": "closed", "Author": "gouravkajal"}
+{"issue_number": 24705, "created_at": "2023-02-13", "closed_at": "2023-02-13", "labels": [], "State": "closed", "Author": "bagbag"}
+{"issue_number": 24703, "created_at": "2023-02-12", "closed_at": "2023-02-12", "labels": [], "State": "closed", "Author": "gabrielw007"}
+{"issue_number": 24702, "created_at": "2023-02-11", "closed_at": "2023-02-14", "labels": [], "State": "closed", "Author": "boskiv"}
+{"issue_number": 24697, "created_at": "2023-02-10", "closed_at": "2023-02-10", "labels": ["type: bug/fix", "freq1: low", "severity1: confusing", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "liesahead"}
+{"issue_number": 24695, "created_at": "2023-02-10", "closed_at": "2023-02-13", "labels": ["needs: more info"], "State": "closed", "Author": "paddotk"}
+{"issue_number": 24691, "created_at": "2023-02-09", "closed_at": "2023-02-10", "labels": [], "State": "closed", "Author": "Blackbaud-SteveBrush"}
+{"issue_number": 24688, "created_at": "2023-02-09", "closed_at": "2023-02-10", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "szape89"}
+{"issue_number": 24685, "created_at": "2023-02-09", "closed_at": "2023-02-10", "labels": ["freq1: low", "severity3: broken", "area: angular/cli"], "State": "closed", "Author": "cherezovvv"}
+{"issue_number": 24686, "created_at": "2023-02-09", "closed_at": "2023-02-09", "labels": [], "State": "closed", "Author": "yangjunfocus"}
+{"issue_number": 24683, "created_at": "2023-02-09", "closed_at": "2023-02-09", "labels": [], "State": "closed", "Author": "egonknapen"}
+{"issue_number": 24675, "created_at": "2023-02-08", "closed_at": "2023-02-08", "labels": [], "State": "closed", "Author": "DilipV2503"}
+{"issue_number": 24678, "created_at": "2023-02-08", "closed_at": "2023-02-10", "labels": ["type: bug/fix", "freq2: medium", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "000panther"}
+{"issue_number": 24674, "created_at": "2023-02-07", "closed_at": "2023-02-09", "labels": ["severity6: security"], "State": "closed", "Author": "Vermilion755"}
+{"issue_number": 25122, "created_at": "2023-02-06", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "open", "Author": "myrddraall"}
+{"issue_number": 24664, "created_at": "2023-02-05", "closed_at": "2023-02-06", "labels": [], "State": "closed", "Author": "yohny"}
+{"issue_number": 24661, "created_at": "2023-02-04", "closed_at": "2023-02-05", "labels": [], "State": "closed", "Author": "patrickdk77"}
+{"issue_number": 25763, "created_at": "2023-02-04", "closed_at": null, "labels": ["needs: investigation", "freq1: low", "area: devkit/build-angular", "devkit/build-angular:ssr-dev-server"], "State": "open", "Author": "Yberion"}
+{"issue_number": 24657, "created_at": "2023-02-03", "closed_at": "2023-02-06", "labels": [], "State": "closed", "Author": "Alessandroinfo"}
+{"issue_number": 24656, "created_at": "2023-02-03", "closed_at": "2023-02-07", "labels": ["type: bug/fix", "freq3: high", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "Coly010"}
+{"issue_number": 24654, "created_at": "2023-02-03", "closed_at": "2023-02-21", "labels": ["feature", "area: devkit/build-angular", "feature: in backlog", "devkit/build-angular:application"], "State": "closed", "Author": "JanST123"}
+{"issue_number": 24652, "created_at": "2023-02-02", "closed_at": "2023-02-03", "labels": [], "State": "closed", "Author": "bryanrideshark"}
+{"issue_number": 24651, "created_at": "2023-02-02", "closed_at": "2023-02-03", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "closed", "Author": "cheng93"}
+{"issue_number": 24650, "created_at": "2023-02-02", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "open", "Author": "pashvin"}
+{"issue_number": 24647, "created_at": "2023-02-02", "closed_at": "2023-02-13", "labels": [], "State": "closed", "Author": "thaoula"}
+{"issue_number": 24645, "created_at": "2023-02-02", "closed_at": "2023-02-12", "labels": ["needs: repro steps"], "State": "closed", "Author": "Eugeno"}
+{"issue_number": 24646, "created_at": "2023-02-02", "closed_at": "2023-02-02", "labels": [], "State": "closed", "Author": "HCenggel"}
+{"issue_number": 24644, "created_at": "2023-02-01", "closed_at": "2023-02-07", "labels": ["type: bug/fix", "freq1: low", "severity2: inconvenient", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "closed", "Author": "lukapif"}
+{"issue_number": 24639, "created_at": "2023-02-01", "closed_at": "2023-02-02", "labels": [], "State": "closed", "Author": "ricardochl"}
+{"issue_number": 24637, "created_at": "2023-02-01", "closed_at": "2023-02-06", "labels": ["needs: more info"], "State": "closed", "Author": "sahilbabbar"}
+{"issue_number": 24634, "created_at": "2023-01-31", "closed_at": "2023-02-14", "labels": ["type: bug/fix", "freq1: low", "severity4: memory/performance", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "fearghalom"}
+{"issue_number": 24630, "created_at": "2023-01-30", "closed_at": "2023-01-30", "labels": ["needs: more info"], "State": "closed", "Author": "majora2007"}
+{"issue_number": 24628, "created_at": "2023-01-30", "closed_at": "2023-02-13", "labels": ["needs: more info"], "State": "closed", "Author": "rabeeshcharles"}
+{"issue_number": 24627, "created_at": "2023-01-29", "closed_at": "2023-02-06", "labels": ["needs: more info"], "State": "closed", "Author": "cwaj400"}
+{"issue_number": 24626, "created_at": "2023-01-29", "closed_at": "2023-02-06", "labels": ["needs: more info"], "State": "closed", "Author": "Hagay-Reinman"}
+{"issue_number": 24624, "created_at": "2023-01-29", "closed_at": "2023-01-29", "labels": [], "State": "closed", "Author": "ibrahimxcool"}
+{"issue_number": 24623, "created_at": "2023-01-28", "closed_at": "2023-01-31", "labels": [], "State": "closed", "Author": "schwarzwald4327"}
+{"issue_number": 24621, "created_at": "2023-01-27", "closed_at": "2023-01-27", "labels": [], "State": "closed", "Author": "mivanyna"}
+{"issue_number": 25766, "created_at": "2023-01-27", "closed_at": null, "labels": ["feature", "needs: more info", "area: devkit/build-angular", "feature: insufficient votes", "devkit/build-angular:prerender"], "State": "open", "Author": "raphdom"}
+{"issue_number": 24617, "created_at": "2023-01-27", "closed_at": "2023-02-03", "labels": [], "State": "closed", "Author": "dhdaines"}
+{"issue_number": 24616, "created_at": "2023-01-26", "closed_at": "2023-01-27", "labels": [], "State": "closed", "Author": "dhdaines"}
+{"issue_number": 24615, "created_at": "2023-01-26", "closed_at": "2023-01-26", "labels": [], "State": "closed", "Author": "danjor"}
+{"issue_number": 24612, "created_at": "2023-01-26", "closed_at": "2023-01-26", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:server"], "State": "closed", "Author": "demurgos"}
+{"issue_number": 24611, "created_at": "2023-01-25", "closed_at": "2023-01-26", "labels": [], "State": "closed", "Author": "Cstrp"}
+{"issue_number": 24606, "created_at": "2023-01-25", "closed_at": "2023-02-06", "labels": ["needs: more info"], "State": "closed", "Author": "thatcort"}
+{"issue_number": 24605, "created_at": "2023-01-25", "closed_at": "2023-01-25", "labels": [], "State": "closed", "Author": "muhamedkarajic"}
+{"issue_number": 24604, "created_at": "2023-01-25", "closed_at": "2023-01-25", "labels": [], "State": "closed", "Author": "eleemans"}
+{"issue_number": 24603, "created_at": "2023-01-25", "closed_at": "2023-01-25", "labels": [], "State": "closed", "Author": "ponthousan"}
+{"issue_number": 24602, "created_at": "2023-01-25", "closed_at": null, "labels": ["feature", "area: schematics/angular", "feature: insufficient votes"], "State": "open", "Author": "qnipsNG"}
+{"issue_number": 24601, "created_at": "2023-01-24", "closed_at": "2023-01-26", "labels": ["area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "Franiac"}
+{"issue_number": 24600, "created_at": "2023-01-24", "closed_at": "2023-01-24", "labels": [], "State": "closed", "Author": "luisrodriguesds"}
+{"issue_number": 24599, "created_at": "2023-01-24", "closed_at": "2023-01-24", "labels": [], "State": "closed", "Author": "lalitbhadauriya"}
+{"issue_number": 24592, "created_at": "2023-01-23", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "devkit/build-angular:browser", "feature: under consideration"], "State": "open", "Author": "tmcconechy"}
+{"issue_number": 24586, "created_at": "2023-01-20", "closed_at": "2023-01-20", "labels": [], "State": "closed", "Author": "Garbee"}
+{"issue_number": 24587, "created_at": "2023-01-20", "closed_at": "2023-01-24", "labels": ["needs: more info"], "State": "closed", "Author": "pamanes"}
+{"issue_number": 24584, "created_at": "2023-01-20", "closed_at": "2023-01-20", "labels": [], "State": "closed", "Author": "ivomju"}
+{"issue_number": 24582, "created_at": "2023-01-20", "closed_at": null, "labels": ["feature", "area: angular/cli", "feature: insufficient votes"], "State": "open", "Author": "NCC1701M"}
+{"issue_number": 24581, "created_at": "2023-01-20", "closed_at": "2023-01-20", "labels": [], "State": "closed", "Author": "kaimmrt"}
+{"issue_number": 24578, "created_at": "2023-01-19", "closed_at": "2023-01-19", "labels": [], "State": "closed", "Author": "gabrielw007"}
+{"issue_number": 24576, "created_at": "2023-01-19", "closed_at": "2023-01-19", "labels": [], "State": "closed", "Author": "legrottagliegionata"}
+{"issue_number": 24572, "created_at": "2023-01-19", "closed_at": "2023-01-19", "labels": [], "State": "closed", "Author": "alkoval"}
+{"issue_number": 24566, "created_at": "2023-01-18", "closed_at": "2023-01-18", "labels": [], "State": "closed", "Author": "RobertVogt"}
+{"issue_number": 24562, "created_at": "2023-01-18", "closed_at": "2023-03-21", "labels": ["feature", "area: devkit/build-angular", "devkit/build-angular:dev-server", "feature: insufficient votes"], "State": "closed", "Author": "Socolin"}
+{"issue_number": 24563, "created_at": "2023-01-17", "closed_at": "2023-01-18", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: schematics/angular"], "State": "closed", "Author": "Zuluseq"}
+{"issue_number": 24556, "created_at": "2023-01-15", "closed_at": "2023-01-15", "labels": [], "State": "closed", "Author": "JayDouglass"}
+{"issue_number": 24547, "created_at": "2023-01-13", "closed_at": "2023-01-13", "labels": [], "State": "closed", "Author": "seneric"}
+{"issue_number": 24544, "created_at": "2023-01-13", "closed_at": "2023-01-13", "labels": [], "State": "closed", "Author": "Badisi"}
+{"issue_number": 24541, "created_at": "2023-01-12", "closed_at": "2023-01-19", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/core"], "State": "closed", "Author": "cyberbiont"}
+{"issue_number": 24540, "created_at": "2023-01-12", "closed_at": "2023-01-13", "labels": ["needs: more info"], "State": "closed", "Author": "kwhjvdkamp"}
+{"issue_number": 24537, "created_at": "2023-01-12", "closed_at": "2023-01-12", "labels": [], "State": "closed", "Author": "gs377209"}
+{"issue_number": 24532, "created_at": "2023-01-12", "closed_at": "2023-01-12", "labels": [], "State": "closed", "Author": "meriturva"}
+{"issue_number": 24526, "created_at": "2023-01-11", "closed_at": "2023-01-12", "labels": ["type: bug/fix", "freq2: medium", "severity5: regression", "area: devkit/build-angular"], "State": "closed", "Author": "jnizet"}
+{"issue_number": 24525, "created_at": "2023-01-11", "closed_at": "2023-01-19", "labels": ["needs: more info"], "State": "closed", "Author": "simon-chen-1"}
+{"issue_number": 24524, "created_at": "2023-01-11", "closed_at": "2023-01-12", "labels": [], "State": "closed", "Author": "krishna217"}
+{"issue_number": 24523, "created_at": "2023-01-11", "closed_at": "2023-01-11", "labels": [], "State": "closed", "Author": "ruizmarc"}
+{"issue_number": 24518, "created_at": "2023-01-11", "closed_at": "2023-01-13", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: angular/cli"], "State": "closed", "Author": "Lipata"}
+{"issue_number": 24517, "created_at": "2023-01-11", "closed_at": "2023-01-13", "labels": ["severity6: security"], "State": "closed", "Author": "malkeet-gwebs"}
+{"issue_number": 24512, "created_at": "2023-01-10", "closed_at": "2023-01-17", "labels": ["needs: repro steps"], "State": "closed", "Author": "heeeman"}
+{"issue_number": 24511, "created_at": "2023-01-10", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: angular/cli"], "State": "open", "Author": "fischeversenker"}
+{"issue_number": 24510, "created_at": "2023-01-10", "closed_at": "2023-01-13", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: angular/cli"], "State": "closed", "Author": "bgotink"}
+{"issue_number": 24509, "created_at": "2023-01-10", "closed_at": "2023-01-23", "labels": ["needs: repro steps"], "State": "closed", "Author": "jaroslawfrydrych"}
+{"issue_number": 24507, "created_at": "2023-01-10", "closed_at": "2023-01-19", "labels": ["needs: more info"], "State": "closed", "Author": "johncrim"}
+{"issue_number": 24506, "created_at": "2023-01-09", "closed_at": "2023-01-09", "labels": [], "State": "closed", "Author": "fei-sreddy"}
+{"issue_number": 24502, "created_at": "2023-01-07", "closed_at": "2023-01-09", "labels": [], "State": "closed", "Author": "kohkoksiang"}
+{"issue_number": 24498, "created_at": "2023-01-06", "closed_at": "2023-01-09", "labels": ["needs: repro steps"], "State": "closed", "Author": "krutkowski86"}
+{"issue_number": 24497, "created_at": "2023-01-06", "closed_at": null, "labels": ["feature", "freq1: low", "area: schematics/angular", "feature: in backlog"], "State": "open", "Author": "robertIsaac"}
+{"issue_number": 24491, "created_at": "2023-01-05", "closed_at": "2023-01-09", "labels": ["needs: more info", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "DariuszOstolski"}
+{"issue_number": 24489, "created_at": "2023-01-05", "closed_at": "2023-01-06", "labels": [], "State": "closed", "Author": "CodeDroid999"}
+{"issue_number": 24488, "created_at": "2023-01-05", "closed_at": "2023-01-19", "labels": ["feature", "area: angular/cli", "ng update DX", "feature: votes required"], "State": "closed", "Author": "StephenFluin"}
+{"issue_number": 24486, "created_at": "2023-01-05", "closed_at": "2023-01-19", "labels": ["needs: more info", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "amit2206"}
+{"issue_number": 24482, "created_at": "2023-01-03", "closed_at": "2023-01-03", "labels": [], "State": "closed", "Author": "robomike"}
+{"issue_number": 24481, "created_at": "2023-01-01", "closed_at": "2023-01-02", "labels": [], "State": "closed", "Author": "JWString"}
+{"issue_number": 24480, "created_at": "2022-12-30", "closed_at": null, "labels": ["needs: investigation", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "open", "Author": "fbandrei"}
+{"issue_number": 24477, "created_at": "2022-12-29", "closed_at": "2023-01-16", "labels": ["area: angular/cli", "ng update DX"], "State": "closed", "Author": "cseas"}
+{"issue_number": 24478, "created_at": "2022-12-28", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "open", "Author": "MoishyS"}
+{"issue_number": 24490, "created_at": "2022-12-28", "closed_at": "2023-01-09", "labels": [], "State": "closed", "Author": "JacobStraberg"}
+{"issue_number": 24476, "created_at": "2022-12-28", "closed_at": "2023-01-19", "labels": ["area: docs", "area: angular/cli"], "State": "closed", "Author": "sscholle"}
+{"issue_number": 24479, "created_at": "2022-12-28", "closed_at": "2023-01-19", "labels": ["needs: more info", "area: devkit/build-angular"], "State": "closed", "Author": "aegonz"}
+{"issue_number": 24470, "created_at": "2022-12-27", "closed_at": null, "labels": ["type: bug/fix", "needs: investigation", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "open", "Author": "llRandom"}
+{"issue_number": 24469, "created_at": "2022-12-27", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: ngtools/webpack"], "State": "open", "Author": "andreialecu"}
+{"issue_number": 24471, "created_at": "2022-12-26", "closed_at": "2023-01-03", "labels": [], "State": "closed", "Author": "johncrim"}
+{"issue_number": 24472, "created_at": "2022-12-26", "closed_at": "2023-01-09", "labels": ["freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "closed", "Author": "mivanyna"}
+{"issue_number": 24468, "created_at": "2022-12-26", "closed_at": "2023-01-19", "labels": ["needs: repro steps"], "State": "closed", "Author": "vijaiselvam"}
+{"issue_number": 24467, "created_at": "2022-12-24", "closed_at": "2023-01-19", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "vmuresanu"}
+{"issue_number": 24465, "created_at": "2022-12-22", "closed_at": "2022-12-23", "labels": ["needs: repro steps"], "State": "closed", "Author": "Ken2ie"}
+{"issue_number": 24466, "created_at": "2022-12-22", "closed_at": "2022-12-22", "labels": [], "State": "closed", "Author": "Anthony-Breneliere"}
+{"issue_number": 24461, "created_at": "2022-12-21", "closed_at": "2022-12-21", "labels": [], "State": "closed", "Author": "magyargergo"}
+{"issue_number": 24464, "created_at": "2022-12-19", "closed_at": "2022-12-22", "labels": [], "State": "closed", "Author": "josepm9"}
+{"issue_number": 24457, "created_at": "2022-12-19", "closed_at": "2023-01-03", "labels": ["type: bug/fix", "freq1: low", "severity1: confusing", "area: devkit/build-angular"], "State": "closed", "Author": "maxime1992"}
+{"issue_number": 24454, "created_at": "2022-12-19", "closed_at": "2023-01-06", "labels": ["needs: repro steps"], "State": "closed", "Author": "erqk"}
+{"issue_number": 24452, "created_at": "2022-12-17", "closed_at": "2022-12-18", "labels": [], "State": "closed", "Author": "gitHubUser151"}
+{"issue_number": 24451, "created_at": "2022-12-17", "closed_at": "2022-12-17", "labels": [], "State": "closed", "Author": "JemiloII"}
+{"issue_number": 24448, "created_at": "2022-12-16", "closed_at": "2022-12-16", "labels": ["needs: repro steps"], "State": "closed", "Author": "pain0486"}
+{"issue_number": 24442, "created_at": "2022-12-15", "closed_at": "2023-01-23", "labels": [], "State": "closed", "Author": "nawlbergs"}
+{"issue_number": 24435, "created_at": "2022-12-14", "closed_at": "2022-12-14", "labels": ["needs: repro steps"], "State": "closed", "Author": "wesselvdv"}
+{"issue_number": 24434, "created_at": "2022-12-14", "closed_at": "2023-10-26", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "LeonEck"}
+{"issue_number": 24433, "created_at": "2022-12-14", "closed_at": "2022-12-14", "labels": [], "State": "closed", "Author": "Marius-Romanus"}
+{"issue_number": 24430, "created_at": "2022-12-14", "closed_at": null, "labels": ["area: angular/cli"], "State": "open", "Author": "markscsmith"}
+{"issue_number": 24429, "created_at": "2022-12-13", "closed_at": "2022-12-13", "labels": [], "State": "closed", "Author": "prabh-62"}
+{"issue_number": 24428, "created_at": "2022-12-13", "closed_at": "2022-12-14", "labels": [], "State": "closed", "Author": "bravier"}
+{"issue_number": 24426, "created_at": "2022-12-13", "closed_at": "2022-12-13", "labels": [], "State": "closed", "Author": "flevi29"}
+{"issue_number": 24425, "created_at": "2022-12-13", "closed_at": "2022-12-17", "labels": ["needs: more info"], "State": "closed", "Author": "wesselvdv"}
+{"issue_number": 24419, "created_at": "2022-12-12", "closed_at": "2022-12-13", "labels": [], "State": "closed", "Author": "camerbam"}
+{"issue_number": 24416, "created_at": "2022-12-12", "closed_at": "2022-12-12", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "closed", "Author": "cexbrayat"}
+{"issue_number": 24415, "created_at": "2022-12-12", "closed_at": "2022-12-13", "labels": [], "State": "closed", "Author": "piernik"}
+{"issue_number": 24411, "created_at": "2022-12-10", "closed_at": "2022-12-12", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular"], "State": "closed", "Author": "dzonatan"}
+{"issue_number": 24414, "created_at": "2022-12-09", "closed_at": "2022-12-14", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "emmettito"}
+{"issue_number": 24408, "created_at": "2022-12-09", "closed_at": "2023-10-11", "labels": ["type: bug/fix", "freq1: low", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "robertIsaac"}
+{"issue_number": 24401, "created_at": "2022-12-09", "closed_at": "2022-12-09", "labels": [], "State": "closed", "Author": "e-oz"}
+{"issue_number": 24394, "created_at": "2022-12-08", "closed_at": "2022-12-08", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "jrdutton"}
+{"issue_number": 24393, "created_at": "2022-12-08", "closed_at": "2022-12-08", "labels": ["needs: more info"], "State": "closed", "Author": "marcins89"}
+{"issue_number": 24389, "created_at": "2022-12-07", "closed_at": "2022-12-08", "labels": [], "State": "closed", "Author": "mylifeandcode"}
+{"issue_number": 24387, "created_at": "2022-12-07", "closed_at": "2022-12-07", "labels": [], "State": "closed", "Author": "piernik"}
+{"issue_number": 24384, "created_at": "2022-12-06", "closed_at": "2022-12-15", "labels": ["needs: investigation"], "State": "closed", "Author": "Kp0c"}
+{"issue_number": 24383, "created_at": "2022-12-06", "closed_at": "2022-12-06", "labels": [], "State": "closed", "Author": "nulilakshman"}
+{"issue_number": 24381, "created_at": "2022-12-05", "closed_at": "2022-12-13", "labels": ["feature", "area: schematics/angular", "feature: in backlog"], "State": "closed", "Author": "arambazamba"}
+{"issue_number": 24379, "created_at": "2022-12-05", "closed_at": "2022-12-06", "labels": [], "State": "closed", "Author": "lhanneman"}
+{"issue_number": 24378, "created_at": "2022-12-05", "closed_at": "2022-12-05", "labels": [], "State": "closed", "Author": "Ketec"}
+{"issue_number": 24373, "created_at": "2022-12-05", "closed_at": "2022-12-07", "labels": ["devkit/build-angular:dev-server"], "State": "closed", "Author": "prabh-62"}
+{"issue_number": 24371, "created_at": "2022-12-04", "closed_at": "2023-02-16", "labels": ["dependencies"], "State": "closed", "Author": "XhmikosR"}
+{"issue_number": 24369, "created_at": "2022-12-02", "closed_at": "2022-12-02", "labels": [], "State": "closed", "Author": "abf7d"}
+{"issue_number": 24375, "created_at": "2022-12-02", "closed_at": "2022-12-09", "labels": ["needs: more info"], "State": "closed", "Author": "cskiwi"}
+{"issue_number": 24362, "created_at": "2022-12-01", "closed_at": null, "labels": ["feature", "area: devkit/schematics", "feature: insufficient votes"], "State": "open", "Author": "dgp1130"}
+{"issue_number": 24361, "created_at": "2022-12-01", "closed_at": "2022-12-01", "labels": ["area: devkit/schematics"], "State": "closed", "Author": "dgp1130"}
+{"issue_number": 24360, "created_at": "2022-12-01", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "area: devkit/schematics-cli"], "State": "open", "Author": "dgp1130"}
+{"issue_number": 24356, "created_at": "2022-12-01", "closed_at": "2022-12-01", "labels": [], "State": "closed", "Author": "masterworgen"}
+{"issue_number": 24354, "created_at": "2022-12-01", "closed_at": "2022-12-08", "labels": ["needs: more info"], "State": "closed", "Author": "mattbodman"}
+{"issue_number": 24352, "created_at": "2022-11-30", "closed_at": "2023-01-09", "labels": ["needs: repro steps"], "State": "closed", "Author": "feodorar"}
+{"issue_number": 24351, "created_at": "2022-11-30", "closed_at": "2022-11-30", "labels": [], "State": "closed", "Author": "fantasy0v0"}
+{"issue_number": 24355, "created_at": "2022-11-30", "closed_at": "2022-12-02", "labels": ["P2"], "State": "closed", "Author": "Meet1202"}
+{"issue_number": 24347, "created_at": "2022-11-30", "closed_at": "2022-12-01", "labels": [], "State": "closed", "Author": "argentum388"}
+{"issue_number": 24345, "created_at": "2022-11-29", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "devkit/build-angular:karma", "feature: insufficient votes"], "State": "open", "Author": "robertIsaac"}
+{"issue_number": 24342, "created_at": "2022-11-29", "closed_at": "2022-11-30", "labels": ["needs: more info", "area: angular/cli"], "State": "closed", "Author": "Heimo001"}
+{"issue_number": 24341, "created_at": "2022-11-29", "closed_at": "2022-11-29", "labels": ["area: angular/create"], "State": "closed", "Author": "robertIsaac"}
+{"issue_number": 24339, "created_at": "2022-11-28", "closed_at": "2022-11-29", "labels": [], "State": "closed", "Author": "russelporosky"}
+{"issue_number": 24344, "created_at": "2022-11-28", "closed_at": "2022-12-08", "labels": ["needs: repro steps"], "State": "closed", "Author": "devna13"}
+{"issue_number": 24336, "created_at": "2022-11-28", "closed_at": "2022-11-28", "labels": [], "State": "closed", "Author": "Jamesmcgeachie"}
+{"issue_number": 24334, "created_at": "2022-11-28", "closed_at": "2022-11-28", "labels": [], "State": "closed", "Author": "mdlkumaran"}
+{"issue_number": 24329, "created_at": "2022-11-28", "closed_at": "2022-11-28", "labels": [], "State": "closed", "Author": "Rub0013"}
+{"issue_number": 24327, "created_at": "2022-11-27", "closed_at": "2022-11-27", "labels": [], "State": "closed", "Author": "ArielGueta"}
+{"issue_number": 24324, "created_at": "2022-11-25", "closed_at": "2022-11-25", "labels": [], "State": "closed", "Author": "guoxiaxing"}
+{"issue_number": 24322, "created_at": "2022-11-25", "closed_at": "2022-11-25", "labels": [], "State": "closed", "Author": "stagefright5"}
+{"issue_number": 24316, "created_at": "2022-11-24", "closed_at": "2022-12-02", "labels": ["needs: repro steps"], "State": "closed", "Author": "e-oz"}
+{"issue_number": 24303, "created_at": "2022-11-22", "closed_at": "2022-11-28", "labels": ["needs: repro steps"], "State": "closed", "Author": "fadihanna123"}
+{"issue_number": 24300, "created_at": "2022-11-21", "closed_at": "2022-11-22", "labels": [], "State": "closed", "Author": "prabh-62"}
+{"issue_number": 24299, "created_at": "2022-11-21", "closed_at": "2022-11-23", "labels": [], "State": "closed", "Author": "ghost"}
+{"issue_number": 24297, "created_at": "2022-11-21", "closed_at": "2022-11-21", "labels": [], "State": "closed", "Author": "maelswarm"}
+{"issue_number": 24296, "created_at": "2022-11-21", "closed_at": "2022-11-21", "labels": [], "State": "closed", "Author": "cgagner"}
+{"issue_number": 24294, "created_at": "2022-11-21", "closed_at": "2023-01-03", "labels": ["feature", "area: schematics/angular", "feature: in backlog"], "State": "closed", "Author": "nicojs"}
+{"issue_number": 24291, "created_at": "2022-11-21", "closed_at": "2022-11-21", "labels": [], "State": "closed", "Author": "air2"}
+{"issue_number": 24289, "created_at": "2022-11-20", "closed_at": "2022-11-24", "labels": ["needs: repro steps"], "State": "closed", "Author": "musheghz"}
+{"issue_number": 24288, "created_at": "2022-11-19", "closed_at": "2023-04-27", "labels": ["feature", "area: devkit/build-angular", "devkit/build-angular:karma", "feature: insufficient votes"], "State": "closed", "Author": "ersimont"}
+{"issue_number": 24287, "created_at": "2022-11-19", "closed_at": "2022-11-20", "labels": ["needs: more info"], "State": "closed", "Author": "ianfmc"}
+{"issue_number": 24295, "created_at": "2022-11-19", "closed_at": "2022-11-28", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: ngtools/webpack"], "State": "closed", "Author": "albanx"}
+{"issue_number": 24282, "created_at": "2022-11-18", "closed_at": "2022-11-28", "labels": ["needs: more info"], "State": "closed", "Author": "grott0"}
+{"issue_number": 24276, "created_at": "2022-11-18", "closed_at": "2022-11-18", "labels": [], "State": "closed", "Author": "alydemah"}
+{"issue_number": 24275, "created_at": "2022-11-18", "closed_at": "2022-11-18", "labels": ["needs: more info"], "State": "closed", "Author": "BojanKogoj"}
+{"issue_number": 24271, "created_at": "2022-11-17", "closed_at": "2022-11-21", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "LorinRenodeyn"}
+{"issue_number": 24264, "created_at": "2022-11-17", "closed_at": "2022-11-18", "labels": ["type: bug/fix", "freq1: low", "severity2: inconvenient", "area: schematics/angular"], "State": "closed", "Author": "troncomputers"}
+{"issue_number": 24263, "created_at": "2022-11-17", "closed_at": "2022-11-28", "labels": ["needs: more info", "severity4: memory/performance", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "B1Z1"}
+{"issue_number": 24262, "created_at": "2022-11-17", "closed_at": "2022-11-17", "labels": [], "State": "closed", "Author": "ghost"}
+{"issue_number": 24255, "created_at": "2022-11-17", "closed_at": "2022-11-17", "labels": [], "State": "closed", "Author": "ky-one"}
+{"issue_number": 24254, "created_at": "2022-11-16", "closed_at": "2022-11-16", "labels": [], "State": "closed", "Author": "prabh-62"}
+{"issue_number": 24246, "created_at": "2022-11-16", "closed_at": "2022-11-16", "labels": [], "State": "closed", "Author": "jgomesmv"}
+{"issue_number": 24245, "created_at": "2022-11-16", "closed_at": "2022-11-23", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "leo6104"}
+{"issue_number": 24244, "created_at": "2022-11-16", "closed_at": "2022-11-16", "labels": [], "State": "closed", "Author": "argelj289"}
+{"issue_number": 24241, "created_at": "2022-11-16", "closed_at": "2022-11-16", "labels": ["severity6: security", "area: devkit/build-angular"], "State": "closed", "Author": "pawan-gwebs"}
+{"issue_number": 24240, "created_at": "2022-11-16", "closed_at": "2022-11-16", "labels": [], "State": "closed", "Author": "jpike88"}
+{"issue_number": 24230, "created_at": "2022-11-15", "closed_at": "2022-11-15", "labels": [], "State": "closed", "Author": "ryaa"}
+{"issue_number": 24229, "created_at": "2022-11-15", "closed_at": "2022-11-15", "labels": [], "State": "closed", "Author": "leo6104"}
+{"issue_number": 24219, "created_at": "2022-11-13", "closed_at": "2022-11-14", "labels": [], "State": "closed", "Author": "anilpenumacha"}
+{"issue_number": 24212, "created_at": "2022-11-10", "closed_at": "2022-11-11", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "StephenFluin"}
+{"issue_number": 24204, "created_at": "2022-11-09", "closed_at": null, "labels": ["area: schematics/angular"], "State": "open", "Author": "LeonEck"}
+{"issue_number": 24203, "created_at": "2022-11-09", "closed_at": "2022-11-18", "labels": ["feature", "area: devkit/build-angular", "devkit/build-angular:server", "feature: votes required"], "State": "closed", "Author": "crysislinux"}
+{"issue_number": 24189, "created_at": "2022-11-06", "closed_at": "2022-11-06", "labels": [], "State": "closed", "Author": "mhcrocky"}
+{"issue_number": 24188, "created_at": "2022-11-05", "closed_at": "2022-11-07", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:server"], "State": "closed", "Author": "Yberion"}
+{"issue_number": 24183, "created_at": "2022-11-04", "closed_at": "2022-11-14", "labels": ["needs: repro steps"], "State": "closed", "Author": "presscot"}
+{"issue_number": 24179, "created_at": "2022-11-03", "closed_at": "2022-11-03", "labels": [], "State": "closed", "Author": "maenmulhemeng"}
+{"issue_number": 24178, "created_at": "2022-11-03", "closed_at": "2022-11-03", "labels": [], "State": "closed", "Author": "sagargithubuser"}
+{"issue_number": 24163, "created_at": "2022-10-31", "closed_at": "2023-10-11", "labels": ["feature", "area: devkit/build-angular", "feature: under consideration", "devkit/build-angular:application"], "State": "closed", "Author": "arturovt"}
+{"issue_number": 24161, "created_at": "2022-10-31", "closed_at": "2022-10-31", "labels": [], "State": "closed", "Author": "vmachacek"}
+{"issue_number": 24160, "created_at": "2022-10-29", "closed_at": "2022-10-31", "labels": [], "State": "closed", "Author": "mahanta-diptiranjan"}
+{"issue_number": 24157, "created_at": "2022-10-28", "closed_at": "2022-10-28", "labels": [], "State": "closed", "Author": "laurentperez"}
+{"issue_number": 24153, "created_at": "2022-10-27", "closed_at": "2022-10-27", "labels": [], "State": "closed", "Author": "JohannesHoppe"}
+{"issue_number": 24145, "created_at": "2022-10-26", "closed_at": "2022-12-15", "labels": ["area: devkit/build-angular", "devkit/build-angular:i18n"], "State": "closed", "Author": "fischeversenker"}
+{"issue_number": 24139, "created_at": "2022-10-25", "closed_at": "2022-10-26", "labels": [], "State": "closed", "Author": "buu700"}
+{"issue_number": 24133, "created_at": "2022-10-25", "closed_at": "2022-10-25", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: angular/cli"], "State": "closed", "Author": "adigourdi"}
+{"issue_number": 24122, "created_at": "2022-10-24", "closed_at": "2022-10-25", "labels": [], "State": "closed", "Author": "fischeversenker"}
+{"issue_number": 24120, "created_at": "2022-10-24", "closed_at": "2022-10-24", "labels": [], "State": "closed", "Author": "josef-kriz"}
+{"issue_number": 24109, "created_at": "2022-10-20", "closed_at": "2022-10-26", "labels": ["needs: more info"], "State": "closed", "Author": "Quentame"}
+{"issue_number": 24108, "created_at": "2022-10-20", "closed_at": "2022-10-31", "labels": ["needs: more info"], "State": "closed", "Author": "suhailkc"}
+{"issue_number": 24105, "created_at": "2022-10-19", "closed_at": "2022-10-20", "labels": [], "State": "closed", "Author": "KingSora"}
+{"issue_number": 24104, "created_at": "2022-10-19", "closed_at": "2022-10-24", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: angular/cli"], "State": "closed", "Author": "hkjeffchan"}
+{"issue_number": 24101, "created_at": "2022-10-18", "closed_at": "2022-10-26", "labels": ["needs: repro steps"], "State": "closed", "Author": "nirmal98kumar"}
+{"issue_number": 24143, "created_at": "2022-10-17", "closed_at": "2022-10-26", "labels": [], "State": "closed", "Author": "fireflysemantics"}
+{"issue_number": 24094, "created_at": "2022-10-14", "closed_at": "2022-10-14", "labels": [], "State": "closed", "Author": "prabh-62"}
+{"issue_number": 24093, "created_at": "2022-10-14", "closed_at": "2022-10-21", "labels": [], "State": "closed", "Author": "snebjorn"}
+{"issue_number": 24084, "created_at": "2022-10-14", "closed_at": "2022-10-14", "labels": [], "State": "closed", "Author": "alexcibotari"}
+{"issue_number": 24064, "created_at": "2022-10-12", "closed_at": "2022-10-13", "labels": [], "State": "closed", "Author": "SanderElias"}
+{"issue_number": 24057, "created_at": "2022-10-12", "closed_at": "2022-10-12", "labels": [], "State": "closed", "Author": "PragGawande"}
+{"issue_number": 24056, "created_at": "2022-10-11", "closed_at": "2022-10-12", "labels": ["area: build & ci"], "State": "closed", "Author": "wratho"}
+{"issue_number": 24050, "created_at": "2022-10-11", "closed_at": "2022-10-11", "labels": [], "State": "closed", "Author": "tymfear"}
+{"issue_number": 24049, "created_at": "2022-10-11", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "feature: insufficient votes"], "State": "open", "Author": "alan-agius4"}
+{"issue_number": 24045, "created_at": "2022-10-09", "closed_at": "2022-10-10", "labels": [], "State": "closed", "Author": "Thomas-Waldbillig"}
+{"issue_number": 24040, "created_at": "2022-10-08", "closed_at": "2022-10-21", "labels": ["needs: repro steps"], "State": "closed", "Author": "Rolandisimo"}
+{"issue_number": 24024, "created_at": "2022-10-06", "closed_at": "2022-10-06", "labels": ["freq1: low", "severity2: inconvenient", "area: angular/cli", "ng update DX"], "State": "closed", "Author": "egonknapen"}
+{"issue_number": 24017, "created_at": "2022-10-05", "closed_at": "2022-10-06", "labels": [], "State": "closed", "Author": "AlonsoK28"}
+{"issue_number": 24014, "created_at": "2022-10-05", "closed_at": "2022-10-06", "labels": [], "State": "closed", "Author": "cenk1cenk2"}
+{"issue_number": 24009, "created_at": "2022-10-04", "closed_at": "2022-10-04", "labels": ["needs: repro steps"], "State": "closed", "Author": "e-oz"}
+{"issue_number": 24007, "created_at": "2022-10-04", "closed_at": "2022-10-04", "labels": ["needs: repro steps"], "State": "closed", "Author": "e-oz"}
+{"issue_number": 23997, "created_at": "2022-10-03", "closed_at": "2022-10-07", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: angular/cli"], "State": "closed", "Author": "tjni"}
+{"issue_number": 23995, "created_at": "2022-10-03", "closed_at": "2022-10-07", "labels": ["needs: more info"], "State": "closed", "Author": "govind-sg"}
+{"issue_number": 23993, "created_at": "2022-10-01", "closed_at": "2022-10-03", "labels": [], "State": "closed", "Author": "tarlepp"}
+{"issue_number": 23992, "created_at": "2022-10-01", "closed_at": "2022-10-03", "labels": [], "State": "closed", "Author": "otaku0304"}
+{"issue_number": 23988, "created_at": "2022-09-30", "closed_at": "2022-09-30", "labels": [], "State": "closed", "Author": "DariuszOstolski"}
+{"issue_number": 23987, "created_at": "2022-09-30", "closed_at": "2022-09-30", "labels": [], "State": "closed", "Author": "BppleMan"}
+{"issue_number": 23984, "created_at": "2022-09-30", "closed_at": "2022-09-30", "labels": [], "State": "closed", "Author": "BppleMan"}
+{"issue_number": 23976, "created_at": "2022-09-28", "closed_at": "2023-03-21", "labels": ["feature", "area: schematics/angular", "feature: in backlog"], "State": "closed", "Author": "Lonli-Lokli"}
+{"issue_number": 23975, "created_at": "2022-09-28", "closed_at": "2022-10-03", "labels": ["area: angular/cli", "state: blocked on upstream"], "State": "closed", "Author": "dirthsj"}
+{"issue_number": 23980, "created_at": "2022-09-28", "closed_at": "2022-09-30", "labels": ["freq1: low", "severity1: confusing", "area: angular/cli"], "State": "closed", "Author": "dirthsj"}
+{"issue_number": 23973, "created_at": "2022-09-28", "closed_at": "2022-09-28", "labels": ["needs: more info"], "State": "closed", "Author": "automaticdreams"}
+{"issue_number": 23960, "created_at": "2022-09-26", "closed_at": "2022-09-26", "labels": [], "State": "closed", "Author": "pelord"}
+{"issue_number": 23948, "created_at": "2022-09-23", "closed_at": "2022-09-23", "labels": [], "State": "closed", "Author": "kenatwex"}
+{"issue_number": 23945, "created_at": "2022-09-22", "closed_at": "2022-09-22", "labels": [], "State": "closed", "Author": "RtzS"}
+{"issue_number": 23944, "created_at": "2022-09-22", "closed_at": "2022-09-23", "labels": ["needs: more info"], "State": "closed", "Author": "matdv"}
+{"issue_number": 23937, "created_at": "2022-09-20", "closed_at": "2022-09-20", "labels": [], "State": "closed", "Author": "jbjhjm"}
+{"issue_number": 23923, "created_at": "2022-09-16", "closed_at": "2022-09-19", "labels": [], "State": "closed", "Author": "zanctor"}
+{"issue_number": 23915, "created_at": "2022-09-15", "closed_at": "2022-09-15", "labels": [], "State": "closed", "Author": "Jefftopia"}
+{"issue_number": 23905, "created_at": "2022-09-13", "closed_at": "2022-09-23", "labels": ["area: devkit/build-angular", "devkit/build-angular:server"], "State": "closed", "Author": "kamechb"}
+{"issue_number": 23901, "created_at": "2022-09-12", "closed_at": null, "labels": ["feature", "area: schematics/angular", "feature: under consideration"], "State": "open", "Author": "pavankjadda"}
+{"issue_number": 23896, "created_at": "2022-09-12", "closed_at": "2022-09-14", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular"], "State": "closed", "Author": "thaoula"}
+{"issue_number": 23895, "created_at": "2022-09-11", "closed_at": "2022-09-11", "labels": [], "State": "closed", "Author": "DevXcode1"}
+{"issue_number": 23894, "created_at": "2022-09-10", "closed_at": "2022-09-10", "labels": [], "State": "closed", "Author": "g-cheishvili"}
+{"issue_number": 23890, "created_at": "2022-09-10", "closed_at": "2022-09-16", "labels": ["needs: repro steps"], "State": "closed", "Author": "jdgamble555"}
+{"issue_number": 23886, "created_at": "2022-09-09", "closed_at": "2022-09-09", "labels": [], "State": "closed", "Author": "joutvhu"}
+{"issue_number": 23876, "created_at": "2022-09-08", "closed_at": "2022-09-08", "labels": [], "State": "closed", "Author": "cipchk"}
+{"issue_number": 23867, "created_at": "2022-09-07", "closed_at": "2022-09-07", "labels": ["needs: more info"], "State": "closed", "Author": "maidmehic"}
+{"issue_number": 23864, "created_at": "2022-09-06", "closed_at": "2022-09-14", "labels": ["needs: repro steps"], "State": "closed", "Author": "TamaraGalaktionova"}
+{"issue_number": 23862, "created_at": "2022-09-06", "closed_at": "2022-09-06", "labels": [], "State": "closed", "Author": "its-dibo"}
+{"issue_number": 23860, "created_at": "2022-09-05", "closed_at": "2022-09-06", "labels": [], "State": "closed", "Author": "ghost"}
+{"issue_number": 23859, "created_at": "2022-09-05", "closed_at": "2022-09-05", "labels": [], "State": "closed", "Author": "sek1973"}
+{"issue_number": 23857, "created_at": "2022-09-05", "closed_at": "2022-09-07", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "schmkr"}
+{"issue_number": 23851, "created_at": "2022-09-02", "closed_at": "2022-09-02", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "alcroito"}
+{"issue_number": 23848, "created_at": "2022-09-02", "closed_at": "2022-09-02", "labels": ["type: bug/fix", "freq1: low", "severity1: confusing", "area: schematics/angular"], "State": "closed", "Author": "laggage"}
+{"issue_number": 23845, "created_at": "2022-09-01", "closed_at": "2022-09-02", "labels": ["needs: more info"], "State": "closed", "Author": "tekinet"}
+{"issue_number": 23844, "created_at": "2022-09-01", "closed_at": "2022-09-02", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "ramoncarreras"}
+{"issue_number": 23842, "created_at": "2022-09-01", "closed_at": "2022-09-01", "labels": [], "State": "closed", "Author": "janniks"}
+{"issue_number": 23840, "created_at": "2022-09-01", "closed_at": "2022-09-01", "labels": [], "State": "closed", "Author": "283397898"}
+{"issue_number": 23838, "created_at": "2022-08-31", "closed_at": "2022-09-02", "labels": ["needs: repro steps"], "State": "closed", "Author": "jacobjohn-transitiv"}
+{"issue_number": 23834, "created_at": "2022-08-31", "closed_at": "2022-09-06", "labels": ["needs: repro steps"], "State": "closed", "Author": "jatinkumar159"}
+{"issue_number": 23829, "created_at": "2022-08-30", "closed_at": "2022-08-31", "labels": [], "State": "closed", "Author": "smasoumi-up"}
+{"issue_number": 23826, "created_at": "2022-08-30", "closed_at": "2022-08-30", "labels": [], "State": "closed", "Author": "alchemist0404"}
+{"issue_number": 23825, "created_at": "2022-08-30", "closed_at": "2022-08-30", "labels": [], "State": "closed", "Author": "alchemist0404"}
+{"issue_number": 23817, "created_at": "2022-08-29", "closed_at": "2022-08-30", "labels": [], "State": "closed", "Author": "KristinaB162"}
+{"issue_number": 23815, "created_at": "2022-08-29", "closed_at": "2022-08-29", "labels": [], "State": "closed", "Author": "pavankjadda"}
+{"issue_number": 23814, "created_at": "2022-08-26", "closed_at": "2022-08-27", "labels": [], "State": "closed", "Author": "Nomackleo"}
+{"issue_number": 23806, "created_at": "2022-08-26", "closed_at": "2022-08-26", "labels": [], "State": "closed", "Author": "Th3S4mur41"}
+{"issue_number": 23804, "created_at": "2022-08-26", "closed_at": "2022-08-26", "labels": ["type: bug/fix", "freq1: low", "severity1: confusing", "area: schematics/angular"], "State": "closed", "Author": "MitchellCash"}
+{"issue_number": 23792, "created_at": "2022-08-25", "closed_at": "2022-08-25", "labels": [], "State": "closed", "Author": "school-coder"}
+{"issue_number": 23791, "created_at": "2022-08-25", "closed_at": "2022-08-25", "labels": [], "State": "closed", "Author": "sesamefly"}
+{"issue_number": 23785, "created_at": "2022-08-24", "closed_at": "2023-03-21", "labels": ["feature", "area: schematics/angular", "feature: insufficient votes"], "State": "closed", "Author": "alvaromartmart"}
+{"issue_number": 23777, "created_at": "2022-08-22", "closed_at": "2022-08-22", "labels": [], "State": "closed", "Author": "vinaysomawat"}
+{"issue_number": 23773, "created_at": "2022-08-21", "closed_at": "2022-08-22", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "snocorp"}
+{"issue_number": 23771, "created_at": "2022-08-20", "closed_at": "2022-08-20", "labels": [], "State": "closed", "Author": "sidaeren"}
+{"issue_number": 23776, "created_at": "2022-08-19", "closed_at": null, "labels": ["type: bug/fix", "needs: investigation", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "open", "Author": "CSchulz"}
+{"issue_number": 23765, "created_at": "2022-08-18", "closed_at": "2022-08-24", "labels": ["needs: more info"], "State": "closed", "Author": "alvipeo"}
+{"issue_number": 23763, "created_at": "2022-08-18", "closed_at": "2022-08-18", "labels": [], "State": "closed", "Author": "alvipeo"}
+{"issue_number": 23760, "created_at": "2022-08-17", "closed_at": "2022-08-17", "labels": [], "State": "closed", "Author": "jdgabriel"}
+{"issue_number": 23755, "created_at": "2022-08-17", "closed_at": "2022-08-22", "labels": ["needs: more info"], "State": "closed", "Author": "nehaGI"}
+{"issue_number": 23751, "created_at": "2022-08-16", "closed_at": "2022-09-23", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "closed", "Author": "vigie"}
+{"issue_number": 23743, "created_at": "2022-08-12", "closed_at": "2022-08-13", "labels": [], "State": "closed", "Author": "lelequinter"}
+{"issue_number": 23742, "created_at": "2022-08-12", "closed_at": "2022-08-29", "labels": ["needs: more info"], "State": "closed", "Author": "DarkApocalypse"}
+{"issue_number": 23738, "created_at": "2022-08-12", "closed_at": null, "labels": ["area: devkit/build-angular"], "State": "open", "Author": "angelaki"}
+{"issue_number": 23734, "created_at": "2022-08-11", "closed_at": null, "labels": ["feature", "area: angular/cli"], "State": "open", "Author": "mgechev"}
+{"issue_number": 23729, "created_at": "2022-08-11", "closed_at": "2022-08-11", "labels": [], "State": "closed", "Author": "e-oz"}
+{"issue_number": 23726, "created_at": "2022-08-11", "closed_at": "2022-08-23", "labels": ["needs: repro steps"], "State": "closed", "Author": "Quentame"}
+{"issue_number": 23717, "created_at": "2022-08-10", "closed_at": "2022-08-10", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular"], "State": "closed", "Author": "KristinaB162"}
+{"issue_number": 23716, "created_at": "2022-08-10", "closed_at": "2022-08-11", "labels": ["needs: more info"], "State": "closed", "Author": "alucardu"}
+{"issue_number": 23713, "created_at": "2022-08-09", "closed_at": "2022-08-22", "labels": ["needs: repro steps"], "State": "closed", "Author": "rvg296"}
+{"issue_number": 23705, "created_at": "2022-08-08", "closed_at": "2022-08-08", "labels": [], "State": "closed", "Author": "anura-github"}
+{"issue_number": 23703, "created_at": "2022-08-07", "closed_at": "2022-08-12", "labels": ["needs: repro steps"], "State": "closed", "Author": "MH480"}
+{"issue_number": 23702, "created_at": "2022-08-06", "closed_at": "2022-08-06", "labels": [], "State": "closed", "Author": "alex-vido"}
+{"issue_number": 23701, "created_at": "2022-08-06", "closed_at": "2022-08-08", "labels": [], "State": "closed", "Author": "thavus"}
+{"issue_number": 23698, "created_at": "2022-08-05", "closed_at": "2022-08-09", "labels": ["type: bug/fix", "freq1: low", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "PronDmytro"}
+{"issue_number": 23693, "created_at": "2022-08-04", "closed_at": "2022-08-04", "labels": [], "State": "closed", "Author": "briamib"}
+{"issue_number": 23692, "created_at": "2022-08-04", "closed_at": "2022-08-12", "labels": ["needs: more info"], "State": "closed", "Author": "pancudaniel7"}
+{"issue_number": 23680, "created_at": "2022-08-03", "closed_at": "2022-08-04", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "Bykiev"}
+{"issue_number": 23678, "created_at": "2022-08-03", "closed_at": "2022-10-04", "labels": ["area: schematics/angular", "hotlist: devRel"], "State": "closed", "Author": "realtomaszkula"}
+{"issue_number": 23672, "created_at": "2022-08-02", "closed_at": "2022-08-02", "labels": [], "State": "closed", "Author": "pancudaniel7"}
+{"issue_number": 23667, "created_at": "2022-08-01", "closed_at": "2022-08-05", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: ngtools/webpack"], "State": "closed", "Author": "jdforsythe"}
+{"issue_number": 23666, "created_at": "2022-08-01", "closed_at": "2022-08-08", "labels": ["needs: more info"], "State": "closed", "Author": "NareshSmith"}
+{"issue_number": 23664, "created_at": "2022-07-31", "closed_at": "2022-08-03", "labels": ["state: blocked on upstream"], "State": "closed", "Author": "spraju92"}
+{"issue_number": 23663, "created_at": "2022-07-30", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:app-shell"], "State": "open", "Author": "ElecTreeFrying"}
+{"issue_number": 23662, "created_at": "2022-07-30", "closed_at": "2022-07-30", "labels": [], "State": "closed", "Author": "venkatnarasimharao"}
+{"issue_number": 23661, "created_at": "2022-07-30", "closed_at": "2022-07-30", "labels": [], "State": "closed", "Author": "jesorian"}
+{"issue_number": 23658, "created_at": "2022-07-29", "closed_at": "2022-07-29", "labels": [], "State": "closed", "Author": "atheros"}
+{"issue_number": 23657, "created_at": "2022-07-29", "closed_at": "2022-07-30", "labels": [], "State": "closed", "Author": "blanchardjblake"}
+{"issue_number": 23652, "created_at": "2022-07-28", "closed_at": "2022-07-28", "labels": [], "State": "closed", "Author": "vugar005"}
+{"issue_number": 23651, "created_at": "2022-07-28", "closed_at": "2022-07-28", "labels": [], "State": "closed", "Author": "PhiLhoSoft"}
+{"issue_number": 23644, "created_at": "2022-07-27", "closed_at": "2022-07-29", "labels": [], "State": "closed", "Author": "sinedied"}
+{"issue_number": 23639, "created_at": "2022-07-26", "closed_at": "2022-08-02", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "State": "closed", "Author": "axeleroy"}
+{"issue_number": 23637, "created_at": "2022-07-25", "closed_at": "2022-07-27", "labels": ["needs: more info"], "State": "closed", "Author": "angulardev123"}
+{"issue_number": 23636, "created_at": "2022-07-25", "closed_at": "2022-07-25", "labels": [], "State": "closed", "Author": "JavaScript-Hero"}
+{"issue_number": 23635, "created_at": "2022-07-25", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "devkit/build-angular:i18n", "feature: insufficient votes"], "State": "open", "Author": "reduckted"}
+{"issue_number": 23633, "created_at": "2022-07-24", "closed_at": "2022-07-25", "labels": [], "State": "closed", "Author": "Classic-Repo"}
+{"issue_number": 23632, "created_at": "2022-07-24", "closed_at": "2022-07-25", "labels": [], "State": "closed", "Author": "arturovt"}
+{"issue_number": 23631, "created_at": "2022-07-23", "closed_at": "2022-07-28", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: angular/cli"], "State": "closed", "Author": "kaan35"}
+{"issue_number": 23627, "created_at": "2022-07-22", "closed_at": "2022-07-22", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "State": "closed", "Author": "SebastianPodgajny"}
+{"issue_number": 23617, "created_at": "2022-07-21", "closed_at": "2022-07-22", "labels": ["feature", "feature: votes required", "area: angular/create"], "State": "closed", "Author": "brandonroberts"}
+{"issue_number": 23865, "created_at": "2022-07-19", "closed_at": "2022-09-08", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular"], "State": "closed", "Author": "eneajaho"}
+{"issue_number": 23602, "created_at": "2022-07-19", "closed_at": "2022-07-19", "labels": [], "State": "closed", "Author": "MaaxGr"}
+{"issue_number": 23601, "created_at": "2022-07-19", "closed_at": "2022-07-19", "labels": [], "State": "closed", "Author": "ujjaval77"}
+{"issue_number": 23598, "created_at": "2022-07-18", "closed_at": "2022-07-19", "labels": ["needs: more info"], "State": "closed", "Author": "zehavibarak"}
+{"issue_number": 23597, "created_at": "2022-07-18", "closed_at": "2022-08-08", "labels": ["needs: repro steps"], "State": "closed", "Author": "avarndell"}
+{"issue_number": 23595, "created_at": "2022-07-18", "closed_at": "2022-07-22", "labels": [], "State": "closed", "Author": "kiranahid"}
+{"issue_number": 23593, "created_at": "2022-07-18", "closed_at": "2022-07-20", "labels": ["type: bug/fix", "freq1: low", "severity6: security", "area: devkit/build-angular"], "State": "closed", "Author": "SymbioticKilla"}
+{"issue_number": 23591, "created_at": "2022-07-18", "closed_at": "2022-07-18", "labels": ["freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "closed", "Author": "bgotink"}
+{"issue_number": 23586, "created_at": "2022-07-18", "closed_at": "2022-07-18", "labels": [], "State": "closed", "Author": "kissy0205"}
+{"issue_number": 23587, "created_at": "2022-07-18", "closed_at": "2022-07-18", "labels": [], "State": "closed", "Author": "jayvdb"}
+{"issue_number": 23583, "created_at": "2022-07-16", "closed_at": "2022-07-16", "labels": [], "State": "closed", "Author": "sawa-ko"}
+{"issue_number": 23580, "created_at": "2022-07-15", "closed_at": "2022-07-15", "labels": ["needs: more info"], "State": "closed", "Author": "Bernd-T"}
+{"issue_number": 23574, "created_at": "2022-07-14", "closed_at": "2022-10-11", "labels": ["feature", "area: devkit/build-angular", "feature: insufficient votes"], "State": "closed", "Author": "dinbtechit"}
+{"issue_number": 23568, "created_at": "2022-07-14", "closed_at": "2022-09-30", "labels": ["feature", "area: devkit/build-angular", "devkit/build-angular:browser", "feature: under consideration"], "State": "closed", "Author": "michaelfaith"}
+{"issue_number": 23553, "created_at": "2022-07-13", "closed_at": "2022-07-13", "labels": [], "State": "closed", "Author": "sahilbabbar"}
+{"issue_number": 23552, "created_at": "2022-07-13", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: schematics/angular"], "State": "open", "Author": "csisy"}
+{"issue_number": 23549, "created_at": "2022-07-13", "closed_at": "2022-07-13", "labels": [], "State": "closed", "Author": "nikhil1027"}
+{"issue_number": 23548, "created_at": "2022-07-12", "closed_at": "2022-07-13", "labels": [], "State": "closed", "Author": "Lipata"}
+{"issue_number": 23546, "created_at": "2022-07-12", "closed_at": "2022-07-12", "labels": [], "State": "closed", "Author": "wratho"}
+{"issue_number": 23539, "created_at": "2022-07-11", "closed_at": "2022-07-29", "labels": ["needs: repro steps"], "State": "closed", "Author": "swapnilfarande"}
+{"issue_number": 23538, "created_at": "2022-07-11", "closed_at": "2022-07-11", "labels": [], "State": "closed", "Author": "narendrasinghrathore"}
+{"issue_number": 23526, "created_at": "2022-07-07", "closed_at": "2022-07-07", "labels": [], "State": "closed", "Author": "Szab54"}
+{"issue_number": 23525, "created_at": "2022-07-07", "closed_at": "2022-07-07", "labels": [], "State": "closed", "Author": "kunal00731"}
+{"issue_number": 23522, "created_at": "2022-07-07", "closed_at": "2022-07-07", "labels": [], "State": "closed", "Author": "meriturva"}
+{"issue_number": 23518, "created_at": "2022-07-07", "closed_at": "2022-07-07", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: angular/cli"], "State": "closed", "Author": "sysmat"}
+{"issue_number": 23515, "created_at": "2022-07-07", "closed_at": "2022-07-07", "labels": [], "State": "closed", "Author": "d-koppenhagen"}
+{"issue_number": 23519, "created_at": "2022-07-07", "closed_at": "2022-07-07", "labels": [], "State": "closed", "Author": "HCenggel"}
+{"issue_number": 23510, "created_at": "2022-07-06", "closed_at": "2022-07-06", "labels": [], "State": "closed", "Author": "martinfrancois"}
+{"issue_number": 23509, "created_at": "2022-07-06", "closed_at": "2022-07-06", "labels": [], "State": "closed", "Author": "Srikor"}
+{"issue_number": 23505, "created_at": "2022-07-05", "closed_at": "2022-07-06", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:browser"], "State": "closed", "Author": "wojteko22"}
+{"issue_number": 23507, "created_at": "2022-07-05", "closed_at": "2022-07-11", "labels": ["needs: more info"], "State": "closed", "Author": "FilipRazvan"}
+{"issue_number": 23504, "created_at": "2022-07-05", "closed_at": null, "labels": ["feature", "area: angular/pwa", "feature: insufficient votes"], "State": "open", "Author": "d-koppenhagen"}
+{"issue_number": 23495, "created_at": "2022-07-04", "closed_at": "2022-07-06", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: angular/cli", "ng update DX", "yarn 2+"], "State": "closed", "Author": "Lonli-Lokli"}
+{"issue_number": 23494, "created_at": "2022-07-04", "closed_at": "2022-07-04", "labels": [], "State": "closed", "Author": "alan-agius4"}
+{"issue_number": 23493, "created_at": "2022-07-04", "closed_at": null, "labels": ["area: build & ci", "dependencies"], "State": "open", "Author": "angular-robot"}
+{"issue_number": 23490, "created_at": "2022-07-03", "closed_at": "2022-07-06", "labels": ["needs: more info"], "State": "closed", "Author": "SDAdham"}
+{"issue_number": 23489, "created_at": "2022-07-01", "closed_at": "2022-07-05", "labels": [], "State": "closed", "Author": "samantha-letourneau"}
+{"issue_number": 23488, "created_at": "2022-07-01", "closed_at": "2022-07-01", "labels": [], "State": "closed", "Author": "kasir-barati"}
+{"issue_number": 23482, "created_at": "2022-06-30", "closed_at": null, "labels": ["feature", "area: angular/cli", "feature: under consideration"], "State": "open", "Author": "dgp1130"}
+{"issue_number": 23481, "created_at": "2022-06-30", "closed_at": "2022-07-01", "labels": ["type: bug/fix", "freq1: low", "severity2: inconvenient", "area: angular/cli", "2022Q3 Fixit"], "State": "closed", "Author": "dgp1130"}
+{"issue_number": 23475, "created_at": "2022-06-30", "closed_at": "2022-06-30", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "workaround1: obvious", "area: devkit/build-angular", "2022Q3 Fixit"], "State": "closed", "Author": "jlquijada"}
+{"issue_number": 23474, "created_at": "2022-06-30", "closed_at": "2022-06-30", "labels": ["2022Q3 Fixit"], "State": "closed", "Author": "Darker1998"}
+{"issue_number": 23470, "created_at": "2022-06-30", "closed_at": "2022-06-30", "labels": ["area: angular/cli"], "State": "closed", "Author": "coenmooij"}
+{"issue_number": 23467, "created_at": "2022-06-29", "closed_at": "2022-06-30", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:karma", "2022Q3 Fixit"], "State": "closed", "Author": "christiangoudreau"}
+{"issue_number": 23462, "created_at": "2022-06-29", "closed_at": "2022-06-29", "labels": [], "State": "closed", "Author": "bah99"}
+{"issue_number": 23453, "created_at": "2022-06-28", "closed_at": "2022-06-28", "labels": ["2022Q3 Fixit"], "State": "closed", "Author": "prajaktakoli"}
+{"issue_number": 23449, "created_at": "2022-06-28", "closed_at": "2022-07-04", "labels": ["needs: more info"], "State": "closed", "Author": "Hyperxq"}
+{"issue_number": 23448, "created_at": "2022-06-28", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: angular/cli", "yarn 2+"], "State": "open", "Author": "grosch-intl"}
+{"issue_number": 23447, "created_at": "2022-06-27", "closed_at": "2022-06-28", "labels": ["2022Q3 Fixit"], "State": "closed", "Author": "bryanrideshark"}
+{"issue_number": 23445, "created_at": "2022-06-27", "closed_at": "2022-06-28", "labels": [], "State": "closed", "Author": "mhamri"}
+{"issue_number": 23444, "created_at": "2022-06-27", "closed_at": "2022-06-27", "labels": ["2022Q3 Fixit"], "State": "closed", "Author": "MustafaElKhalifa"}
+{"issue_number": 23437, "created_at": "2022-06-27", "closed_at": "2022-06-27", "labels": [], "State": "closed", "Author": "vigouredelaruse"}
+{"issue_number": 23781, "created_at": "2022-06-26", "closed_at": "2022-09-16", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:i18n"], "State": "closed", "Author": "my-jupiler"}
+{"issue_number": 23433, "created_at": "2022-06-24", "closed_at": "2022-06-24", "labels": [], "State": "closed", "Author": "durga12345-sketch"}
+{"issue_number": 23432, "created_at": "2022-06-24", "closed_at": "2022-06-24", "labels": [], "State": "closed", "Author": "egonknapen"}
+{"issue_number": 23429, "created_at": "2022-06-24", "closed_at": "2022-06-24", "labels": [], "State": "closed", "Author": "JarVonDigital"}
+{"issue_number": 23420, "created_at": "2022-06-23", "closed_at": "2022-06-23", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:i18n"], "State": "closed", "Author": "meriturva"}
+{"issue_number": 23419, "created_at": "2022-06-23", "closed_at": "2022-06-23", "labels": [], "State": "closed", "Author": "magyargergo"}
+{"issue_number": 23423, "created_at": "2022-06-23", "closed_at": "2022-06-23", "labels": [], "State": "closed", "Author": "BlindDespair"}
+{"issue_number": 23414, "created_at": "2022-06-22", "closed_at": "2022-06-27", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: angular/cli", "2022Q3 Fixit"], "State": "closed", "Author": "jaschwartzkopf"}
+{"issue_number": 23413, "created_at": "2022-06-22", "closed_at": "2022-06-23", "labels": ["needs: repro steps"], "State": "closed", "Author": "Karman40"}
+{"issue_number": 23407, "created_at": "2022-06-20", "closed_at": "2022-06-20", "labels": [], "State": "closed", "Author": "kasir-barati"}
+{"issue_number": 23403, "created_at": "2022-06-20", "closed_at": "2022-06-21", "labels": ["type: bug/fix", "freq2: medium", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "closed", "Author": "vzakharov-rxnt"}
+{"issue_number": 23402, "created_at": "2022-06-20", "closed_at": "2022-06-21", "labels": ["severity4: memory/performance"], "State": "closed", "Author": "MarcoGlauser"}
+{"issue_number": 23398, "created_at": "2022-06-18", "closed_at": "2022-06-20", "labels": [], "State": "closed", "Author": "kasir-barati"}
+{"issue_number": 23397, "created_at": "2022-06-17", "closed_at": "2022-06-21", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: angular/cli"], "State": "closed", "Author": "JohannesHoppe"}
+{"issue_number": 23396, "created_at": "2022-06-17", "closed_at": "2022-06-21", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:karma"], "State": "closed", "Author": "politza"}
+{"issue_number": 23389, "created_at": "2022-06-17", "closed_at": "2022-06-20", "labels": [], "State": "closed", "Author": "eluchsinger"}
+{"issue_number": 23387, "created_at": "2022-06-16", "closed_at": "2022-06-21", "labels": ["needs: more info"], "State": "closed", "Author": "avivanoff"}
+{"issue_number": 23385, "created_at": "2022-06-16", "closed_at": "2022-06-17", "labels": ["type: bug/fix", "freq1: low", "severity1: confusing", "area: angular/cli"], "State": "closed", "Author": "squelix"}
+{"issue_number": 23384, "created_at": "2022-06-16", "closed_at": "2022-06-17", "labels": [], "State": "closed", "Author": "davidtlee"}
+{"issue_number": 23383, "created_at": "2022-06-15", "closed_at": "2022-06-16", "labels": ["needs: more info"], "State": "closed", "Author": "prabh-62"}
+{"issue_number": 23378, "created_at": "2022-06-15", "closed_at": "2022-06-15", "labels": [], "State": "closed", "Author": "ignaciostellino"}
+{"issue_number": 23373, "created_at": "2022-06-14", "closed_at": "2022-06-15", "labels": [], "State": "closed", "Author": "james-schwartzkopf"}
+{"issue_number": 23370, "created_at": "2022-06-14", "closed_at": "2022-06-20", "labels": ["needs: repro steps"], "State": "closed", "Author": "mredaelli"}
+{"issue_number": 23368, "created_at": "2022-06-14", "closed_at": "2022-06-15", "labels": [], "State": "closed", "Author": "chengB12"}
+{"issue_number": 23366, "created_at": "2022-06-14", "closed_at": "2022-06-14", "labels": [], "State": "closed", "Author": "alexis-landrieu-avanade"}
+{"issue_number": 23363, "created_at": "2022-06-14", "closed_at": "2022-06-14", "labels": [], "State": "closed", "Author": "kolkov"}
+{"issue_number": 23360, "created_at": "2022-06-13", "closed_at": "2022-06-15", "labels": ["type: bug/fix", "help wanted", "freq1: low", "severity2: inconvenient", "area: schematics/angular", "good first issue"], "State": "closed", "Author": "Julien-Marcou"}
+{"issue_number": 23359, "created_at": "2022-06-13", "closed_at": "2022-06-13", "labels": [], "State": "closed", "Author": "markgoho"}
+{"issue_number": 23356, "created_at": "2022-06-13", "closed_at": "2022-06-24", "labels": ["needs: repro steps"], "State": "closed", "Author": "kapilSoni101"}
+{"issue_number": 23354, "created_at": "2022-06-11", "closed_at": "2022-06-12", "labels": [], "State": "closed", "Author": "mylifeandcode"}
+{"issue_number": 23352, "created_at": "2022-06-10", "closed_at": "2022-06-13", "labels": ["needs: more info"], "State": "closed", "Author": "steven-fernandez"}
+{"issue_number": 23348, "created_at": "2022-06-10", "closed_at": "2022-06-13", "labels": ["needs: more info"], "State": "closed", "Author": "irshadahmed"}
+{"issue_number": 23343, "created_at": "2022-06-10", "closed_at": "2022-06-10", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: angular/pwa"], "State": "closed", "Author": "k4rm3l0"}
+{"issue_number": 23338, "created_at": "2022-06-09", "closed_at": "2022-06-10", "labels": [], "State": "closed", "Author": "chris-jenkinson"}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               {"issue_number": 10420, "created_at": "2017-02-19", "closed_at": "2017-03-18", "labels": [], "State": "closed", "Author": "LabN36"}
+{"issue_number": 10419, "created_at": "2017-02-19", "closed_at": "2018-11-06", "labels": ["type: bug", "resolution: fixed", "a11y", "ui: focus", "severity: inconvenient", "ux: polish", "P2: required", "has: Pull Request"], "State": "closed", "Author": "frkfir"}
+{"issue_number": 10418, "created_at": "2017-02-19", "closed_at": "2018-07-12", "labels": ["needs: demo"], "State": "closed", "Author": "Nefcanto"}

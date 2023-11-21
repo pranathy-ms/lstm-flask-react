@@ -1,0 +1,1000 @@
+{"issue_number": 13177, "created_at": "2023-11-21", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "Dandush03"}
+{"issue_number": 13172, "created_at": "2023-11-19", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "budcribar"}
+{"issue_number": 13171, "created_at": "2023-11-19", "closed_at": null, "labels": ["I-defect", "needs-triaging", "help wanted"], "State": "open", "Author": "rbri"}
+{"issue_number": 13170, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "sarushili0430"}
+{"issue_number": 13169, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "konflic"}
+{"issue_number": 13168, "created_at": "2023-11-17", "closed_at": null, "labels": ["C-dotnet", "I-defect", "needs-triaging"], "State": "open", "Author": "Y2KMAX3000"}
+{"issue_number": 13167, "created_at": "2023-11-17", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "csgbn"}
+{"issue_number": 13164, "created_at": "2023-11-16", "closed_at": null, "labels": ["I-defect", "I-issue-template"], "State": "open", "Author": "zubairkhakwani"}
+{"issue_number": 13163, "created_at": "2023-11-16", "closed_at": "2023-11-17", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "vlad8x8"}
+{"issue_number": 13161, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "gdonald"}
+{"issue_number": 13160, "created_at": "2023-11-16", "closed_at": null, "labels": ["I-enhancement", "C-devtools"], "State": "open", "Author": "boris-petrov"}
+{"issue_number": 13158, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "kkoripl"}
+{"issue_number": 13157, "created_at": "2023-11-16", "closed_at": null, "labels": ["I-defect", "I-issue-template", "needs-triaging"], "State": "open", "Author": "pravinshinde222"}
+{"issue_number": 13156, "created_at": "2023-11-15", "closed_at": null, "labels": ["I-defect", "I-issue-template"], "State": "open", "Author": "amistry96"}
+{"issue_number": 13155, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["I-question"], "State": "closed", "Author": "SidArtem"}
+{"issue_number": 13154, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "fjf2002"}
+{"issue_number": 13152, "created_at": "2023-11-15", "closed_at": null, "labels": ["R-awaiting answer", "C-rb", "I-defect"], "State": "open", "Author": "JuzerShakir"}
+{"issue_number": 13150, "created_at": "2023-11-14", "closed_at": null, "labels": ["I-enhancement", "C-build", "needs-triaging"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 13149, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": [], "State": "closed", "Author": "Shumatic"}
+{"issue_number": 13148, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": ["I-question"], "State": "closed", "Author": "invincibleSachi"}
+{"issue_number": 13147, "created_at": "2023-11-14", "closed_at": null, "labels": ["C-py", "I-defect"], "State": "open", "Author": "jnhyperion"}
+{"issue_number": 13146, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": [], "State": "closed", "Author": "dcooke570"}
+{"issue_number": 13145, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": ["C-java", "I-defect", "needs-triaging"], "State": "closed", "Author": "namuller30"}
+{"issue_number": 13144, "created_at": "2023-11-13", "closed_at": null, "labels": ["C-grid", "I-defect", "help wanted"], "State": "open", "Author": "tom17031"}
+{"issue_number": 13141, "created_at": "2023-11-10", "closed_at": null, "labels": ["C-py", "I-defect"], "State": "open", "Author": "Yurnerosk"}
+{"issue_number": 13139, "created_at": "2023-11-10", "closed_at": "2023-11-13", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "harmin-parra"}
+{"issue_number": 13138, "created_at": "2023-11-10", "closed_at": null, "labels": ["I-enhancement", "help wanted"], "State": "open", "Author": "harmin-parra"}
+{"issue_number": 13137, "created_at": "2023-11-10", "closed_at": "2023-11-13", "labels": ["R-awaiting answer", "C-dotnet", "I-defect"], "State": "closed", "Author": "jduust"}
+{"issue_number": 13135, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "SeleniumNinja"}
+{"issue_number": 13132, "created_at": "2023-11-10", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "whimboo"}
+{"issue_number": 13130, "created_at": "2023-11-09", "closed_at": "2023-11-13", "labels": ["I-defect", "C-build", "C-rust"], "State": "closed", "Author": "HernJer"}
+{"issue_number": 13128, "created_at": "2023-11-09", "closed_at": "2023-11-16", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 13127, "created_at": "2023-11-09", "closed_at": null, "labels": ["R-awaiting answer", "C-py", "I-defect", "needs-triaging"], "State": "open", "Author": "luketudge"}
+{"issue_number": 13124, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["I-enhancement", "needs-triaging", "G-geckodriver"], "State": "closed", "Author": "MatzFan"}
+{"issue_number": 13122, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["I-question"], "State": "closed", "Author": "Z-YHDD"}
+{"issue_number": 13121, "created_at": "2023-11-08", "closed_at": "2023-11-14", "labels": ["C-java", "I-defect", "needs-triaging"], "State": "closed", "Author": "tony-parasoft"}
+{"issue_number": 13119, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "peachonpizza"}
+{"issue_number": 13118, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "satya081"}
+{"issue_number": 13116, "created_at": "2023-11-08", "closed_at": "2023-11-09", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "LiudmilaSantos"}
+{"issue_number": 13115, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["R-awaiting answer", "I-defect", "I-issue-template"], "State": "closed", "Author": "seungoh-lee"}
+{"issue_number": 13114, "created_at": "2023-11-08", "closed_at": "2023-11-13", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "kenoti"}
+{"issue_number": 13112, "created_at": "2023-11-08", "closed_at": null, "labels": ["R-awaiting answer", "C-rb", "I-defect", "help wanted"], "State": "open", "Author": "tatsuyafw"}
+{"issue_number": 13111, "created_at": "2023-11-08", "closed_at": "2023-11-09", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "young-kingdom"}
+{"issue_number": 13110, "created_at": "2023-11-07", "closed_at": "2023-11-16", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "MarcelWilson"}
+{"issue_number": 13109, "created_at": "2023-11-07", "closed_at": "2023-11-09", "labels": ["C-java", "I-defect", "I-issue-template"], "State": "closed", "Author": "jstermask"}
+{"issue_number": 13107, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["C-java", "I-defect", "needs-triaging"], "State": "closed", "Author": "lacell75"}
+{"issue_number": 13106, "created_at": "2023-11-07", "closed_at": null, "labels": ["C-java", "I-defect", "help wanted"], "State": "open", "Author": "valfirst"}
+{"issue_number": 13105, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["G-chromedriver"], "State": "closed", "Author": "BinBk12"}
+{"issue_number": 13104, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "jawad-arshad-khan97"}
+{"issue_number": 13103, "created_at": "2023-11-06", "closed_at": "2023-11-06", "labels": ["I-question"], "State": "closed", "Author": "Deceptio"}
+{"issue_number": 13100, "created_at": "2023-11-05", "closed_at": "2023-11-05", "labels": ["R-awaiting answer", "I-enhancement"], "State": "closed", "Author": "giuliohome"}
+{"issue_number": 13099, "created_at": "2023-11-05", "closed_at": "2023-11-05", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "mgorny"}
+{"issue_number": 13097, "created_at": "2023-11-04", "closed_at": null, "labels": ["C-dotnet", "I-enhancement", "help wanted"], "State": "open", "Author": "nvborisenko"}
+{"issue_number": 13096, "created_at": "2023-11-04", "closed_at": "2023-11-06", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "mykola-mokhnach"}
+{"issue_number": 13095, "created_at": "2023-11-03", "closed_at": "2023-11-16", "labels": ["C-py", "I-defect", "G-chromedriver"], "State": "closed", "Author": "MohamedV0"}
+{"issue_number": 13094, "created_at": "2023-11-03", "closed_at": "2023-11-16", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "mooragor"}
+{"issue_number": 13092, "created_at": "2023-11-03", "closed_at": "2023-11-17", "labels": ["A-needs decision", "I-enhancement"], "State": "closed", "Author": "MatzFan"}
+{"issue_number": 13091, "created_at": "2023-11-03", "closed_at": null, "labels": ["C-grid", "I-defect"], "State": "open", "Author": "parholmdahl"}
+{"issue_number": 13089, "created_at": "2023-11-03", "closed_at": "2023-11-06", "labels": ["C-grid", "A-needs decision", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 13087, "created_at": "2023-11-02", "closed_at": "2023-11-09", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "luketudge"}
+{"issue_number": 13086, "created_at": "2023-11-02", "closed_at": null, "labels": ["C-dotnet", "I-defect"], "State": "open", "Author": "skeksk91"}
+{"issue_number": 13085, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "iamxiaojianzheng"}
+{"issue_number": 13084, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": ["I-defect", "I-issue-template", "needs-triaging"], "State": "closed", "Author": "Anandh1924"}
+{"issue_number": 13083, "created_at": "2023-11-01", "closed_at": null, "labels": ["C-grid", "R-awaiting answer", "I-defect"], "State": "open", "Author": "Daniel-Pierce-IV"}
+{"issue_number": 13081, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "swapnabhaskarun"}
+{"issue_number": 13080, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "MatzFan"}
+{"issue_number": 13079, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "MatzFan"}
+{"issue_number": 13077, "created_at": "2023-11-01", "closed_at": "2023-11-13", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "dammie12"}
+{"issue_number": 13076, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Fradhyle"}
+{"issue_number": 13075, "created_at": "2023-10-31", "closed_at": "2023-11-01", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "bryancoxdish"}
+{"issue_number": 13074, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "manoelcampos"}
+{"issue_number": 13073, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": ["I-question"], "State": "closed", "Author": "uman3951"}
+{"issue_number": 13072, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "SeleniumNinja"}
+{"issue_number": 13063, "created_at": "2023-10-29", "closed_at": "2023-10-30", "labels": ["I-defect", "I-issue-template", "needs-triaging"], "State": "closed", "Author": "SeleniumNinja"}
+{"issue_number": 13062, "created_at": "2023-10-29", "closed_at": "2023-10-30", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "soan1d"}
+{"issue_number": 13061, "created_at": "2023-10-27", "closed_at": "2023-10-28", "labels": ["needs-triaging", "G-chromedriver"], "State": "closed", "Author": "sharutkarsh"}
+{"issue_number": 13060, "created_at": "2023-10-27", "closed_at": "2023-11-02", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "joerg1985"}
+{"issue_number": 13038, "created_at": "2023-10-24", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "State": "open", "Author": "lucamcwood"}
+{"issue_number": 13031, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "aaruun"}
+{"issue_number": 13030, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": ["C-dotnet", "I-defect", "needs-triaging"], "State": "closed", "Author": "MaggieKro"}
+{"issue_number": 13029, "created_at": "2023-10-23", "closed_at": null, "labels": ["R-awaiting answer", "I-enhancement"], "State": "open", "Author": "Zubastic"}
+{"issue_number": 13022, "created_at": "2023-10-22", "closed_at": null, "labels": ["A-needs decision", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 13021, "created_at": "2023-10-22", "closed_at": null, "labels": ["A-needs decision", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 13020, "created_at": "2023-10-22", "closed_at": "2023-11-19", "labels": ["I-enhancement", "C-build"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 13019, "created_at": "2023-10-22", "closed_at": null, "labels": ["I-enhancement", "C-build"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12986, "created_at": "2023-10-22", "closed_at": null, "labels": ["A-needs decision", "I-enhancement", "C-rust"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12985, "created_at": "2023-10-22", "closed_at": null, "labels": ["A-needs decision", "I-enhancement", "C-rust"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12984, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "dvorst"}
+{"issue_number": 12983, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": ["I-defect", "I-question", "C-rust"], "State": "closed", "Author": "SripriyaPKulkarni"}
+{"issue_number": 12982, "created_at": "2023-10-22", "closed_at": null, "labels": ["R-awaiting answer", "I-defect", "I-issue-template"], "State": "open", "Author": "reyoreyo"}
+{"issue_number": 12976, "created_at": "2023-10-20", "closed_at": "2023-10-20", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "Abhijith1190"}
+{"issue_number": 12975, "created_at": "2023-10-20", "closed_at": null, "labels": ["C-grid", "I-defect", "needs-triaging"], "State": "open", "Author": "joerg1985"}
+{"issue_number": 12973, "created_at": "2023-10-20", "closed_at": "2023-11-17", "labels": ["R-awaiting answer", "I-defect", "I-issue-template", "G-chromedriver"], "State": "closed", "Author": "saif8983ansari"}
+{"issue_number": 12972, "created_at": "2023-10-19", "closed_at": "2023-11-01", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "MarcelWilson"}
+{"issue_number": 12971, "created_at": "2023-10-19", "closed_at": "2023-10-19", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Mo0rBy"}
+{"issue_number": 12970, "created_at": "2023-10-19", "closed_at": null, "labels": ["I-enhancement", "needs-triaging"], "State": "open", "Author": "RaHehl"}
+{"issue_number": 12969, "created_at": "2023-10-19", "closed_at": "2023-10-19", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "bratwurzt"}
+{"issue_number": 12967, "created_at": "2023-10-18", "closed_at": "2023-10-24", "labels": ["I-defect", "I-issue-template", "G-chromedriver"], "State": "closed", "Author": "cdutton1"}
+{"issue_number": 12965, "created_at": "2023-10-18", "closed_at": "2023-10-18", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "youvegotnigel"}
+{"issue_number": 12964, "created_at": "2023-10-18", "closed_at": null, "labels": ["C-grid", "I-defect"], "State": "open", "Author": "bhecquet"}
+{"issue_number": 12963, "created_at": "2023-10-18", "closed_at": "2023-10-18", "labels": [], "State": "closed", "Author": "leopom"}
+{"issue_number": 12962, "created_at": "2023-10-18", "closed_at": "2023-10-26", "labels": ["R-awaiting answer", "C-java", "I-defect", "C-devtools"], "State": "closed", "Author": "MarcJagtInfor"}
+{"issue_number": 12961, "created_at": "2023-10-18", "closed_at": "2023-10-18", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "harmin-parra"}
+{"issue_number": 12959, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "harmin-parra"}
+{"issue_number": 12958, "created_at": "2023-10-16", "closed_at": "2023-11-20", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "ssrmm"}
+{"issue_number": 12957, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "fippo"}
+{"issue_number": 12954, "created_at": "2023-10-16", "closed_at": "2023-10-24", "labels": ["R-awaiting answer", "I-defect", "G-chromedriver"], "State": "closed", "Author": "rpudlowski93"}
+{"issue_number": 12953, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": [], "State": "closed", "Author": "devinschumacher"}
+{"issue_number": 12952, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": ["G-msedgedriver"], "State": "closed", "Author": "csharsha"}
+{"issue_number": 12950, "created_at": "2023-10-14", "closed_at": "2023-11-10", "labels": ["R-awaiting answer", "C-dotnet", "I-defect"], "State": "closed", "Author": "csgbn"}
+{"issue_number": 12949, "created_at": "2023-10-14", "closed_at": null, "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "open", "Author": "foshesss"}
+{"issue_number": 12947, "created_at": "2023-10-13", "closed_at": null, "labels": ["C-nodejs", "I-defect"], "State": "open", "Author": "djelinek"}
+{"issue_number": 12945, "created_at": "2023-10-13", "closed_at": "2023-10-16", "labels": [], "State": "closed", "Author": "jaychoubaby"}
+{"issue_number": 12944, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "YoungerThuggg"}
+{"issue_number": 12939, "created_at": "2023-10-12", "closed_at": null, "labels": ["I-defect", "C-rust"], "State": "open", "Author": "elliottj"}
+{"issue_number": 12938, "created_at": "2023-10-12", "closed_at": null, "labels": ["I-defect", "C-rust"], "State": "open", "Author": "elliottj"}
+{"issue_number": 12936, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": ["I-enhancement", "I-question", "needs-triaging"], "State": "closed", "Author": "Aditi729"}
+{"issue_number": 12935, "created_at": "2023-10-12", "closed_at": null, "labels": ["I-enhancement"], "State": "open", "Author": "rsingh2023"}
+{"issue_number": 12931, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": ["C-py", "I-defect", "C-rust"], "State": "closed", "Author": "Gray-Falcon"}
+{"issue_number": 12930, "created_at": "2023-10-11", "closed_at": "2023-10-17", "labels": [], "State": "closed", "Author": "brenol"}
+{"issue_number": 12929, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "bollwyvl"}
+{"issue_number": 12927, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": [], "State": "closed", "Author": "TWiStErRob"}
+{"issue_number": 12926, "created_at": "2023-10-11", "closed_at": "2023-10-16", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "elliottj"}
+{"issue_number": 12925, "created_at": "2023-10-11", "closed_at": "2023-10-13", "labels": ["I-question"], "State": "closed", "Author": "andrei-z"}
+{"issue_number": 12924, "created_at": "2023-10-11", "closed_at": null, "labels": ["C-java", "I-defect", "I-question"], "State": "open", "Author": "joerg1985"}
+{"issue_number": 12923, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": [], "State": "closed", "Author": "vicozohili"}
+{"issue_number": 12922, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "IvanRastamanov"}
+{"issue_number": 12921, "created_at": "2023-10-11", "closed_at": "2023-11-02", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "pogrebnyaksa"}
+{"issue_number": 12918, "created_at": "2023-10-10", "closed_at": "2023-11-06", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "mykola-mokhnach"}
+{"issue_number": 12915, "created_at": "2023-10-10", "closed_at": "2023-10-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "xtianus"}
+{"issue_number": 12911, "created_at": "2023-10-10", "closed_at": null, "labels": ["I-defect", "I-issue-template"], "State": "open", "Author": "msharma2020"}
+{"issue_number": 12910, "created_at": "2023-10-09", "closed_at": "2023-10-10", "labels": ["needs-triaging", "G-chromedriver", "bug"], "State": "closed", "Author": "Original-Sorrow"}
+{"issue_number": 12908, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "raja-anbazhagan"}
+{"issue_number": 12906, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "biolds"}
+{"issue_number": 12902, "created_at": "2023-10-09", "closed_at": "2023-10-17", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "alaahong"}
+{"issue_number": 12900, "created_at": "2023-10-08", "closed_at": "2023-10-16", "labels": ["I-defect"], "State": "closed", "Author": "johnago"}
+{"issue_number": 12897, "created_at": "2023-10-07", "closed_at": "2023-10-07", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "himanshu177"}
+{"issue_number": 12896, "created_at": "2023-10-07", "closed_at": "2023-10-07", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "paul11123"}
+{"issue_number": 12895, "created_at": "2023-10-07", "closed_at": "2023-10-07", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "johnago"}
+{"issue_number": 12892, "created_at": "2023-10-06", "closed_at": null, "labels": ["A-needs decision", "C-java"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12891, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "joseajunior"}
+{"issue_number": 12889, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "IamRanjeetSingh"}
+{"issue_number": 12888, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "johnago"}
+{"issue_number": 12887, "created_at": "2023-10-06", "closed_at": "2023-10-23", "labels": ["C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 12886, "created_at": "2023-10-06", "closed_at": "2023-10-17", "labels": ["I-question"], "State": "closed", "Author": "SmartSureshBabu"}
+{"issue_number": 12885, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["I-defect", "I-issue-template", "I-question", "needs-triaging"], "State": "closed", "Author": "DomZZ"}
+{"issue_number": 12884, "created_at": "2023-10-06", "closed_at": "2023-10-11", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "MrSerth"}
+{"issue_number": 12883, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["I-enhancement"], "State": "closed", "Author": "ksingha161"}
+{"issue_number": 12882, "created_at": "2023-10-06", "closed_at": "2023-11-17", "labels": ["C-java", "I-defect", "C-devtools"], "State": "closed", "Author": "pujagani"}
+{"issue_number": 12881, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": ["G-geckodriver"], "State": "closed", "Author": "Ethan-DSB"}
+{"issue_number": 12876, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": ["C-grid", "I-question"], "State": "closed", "Author": "loki1507m"}
+{"issue_number": 12875, "created_at": "2023-10-05", "closed_at": "2023-10-16", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "johnago"}
+{"issue_number": 12872, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "Yash1067"}
+{"issue_number": 12870, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": ["C-py", "I-defect", "needs-triaging"], "State": "closed", "Author": "alexey-pelykh"}
+{"issue_number": 12869, "created_at": "2023-10-05", "closed_at": "2023-10-06", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 12868, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "protect69"}
+{"issue_number": 12865, "created_at": "2023-10-04", "closed_at": null, "labels": ["R-awaiting answer", "C-java", "I-defect"], "State": "open", "Author": "Markedo"}
+{"issue_number": 12867, "created_at": "2023-10-04", "closed_at": "2023-10-05", "labels": ["needs-triaging", "bug"], "State": "closed", "Author": "rajeshsrinivas1991"}
+{"issue_number": 12864, "created_at": "2023-10-03", "closed_at": null, "labels": ["I-enhancement", "needs-triaging"], "State": "open", "Author": "cartersocha"}
+{"issue_number": 12862, "created_at": "2023-10-03", "closed_at": "2023-10-03", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "searchexplore"}
+{"issue_number": 12860, "created_at": "2023-10-03", "closed_at": "2023-10-03", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "ZiTAL"}
+{"issue_number": 12859, "created_at": "2023-10-03", "closed_at": "2023-10-03", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "xaliander"}
+{"issue_number": 12858, "created_at": "2023-10-03", "closed_at": "2023-10-03", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "MrLMrks"}
+{"issue_number": 12857, "created_at": "2023-10-03", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "State": "open", "Author": "NotJuba"}
+{"issue_number": 12856, "created_at": "2023-10-03", "closed_at": "2023-10-10", "labels": ["R-awaiting answer", "C-dotnet", "I-defect"], "State": "closed", "Author": "nairdinesh04"}
+{"issue_number": 12855, "created_at": "2023-10-03", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "State": "open", "Author": "notSoTechnical"}
+{"issue_number": 12854, "created_at": "2023-10-03", "closed_at": null, "labels": ["C-java", "I-defect"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12851, "created_at": "2023-10-02", "closed_at": "2023-10-02", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "sharutkarsh"}
+{"issue_number": 12850, "created_at": "2023-10-02", "closed_at": null, "labels": ["R-awaiting answer", "I-enhancement"], "State": "open", "Author": "MykolaGolubyev"}
+{"issue_number": 12846, "created_at": "2023-10-01", "closed_at": "2023-10-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "tudubucket"}
+{"issue_number": 12845, "created_at": "2023-09-30", "closed_at": "2023-10-02", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "HasiniRangana"}
+{"issue_number": 12842, "created_at": "2023-09-29", "closed_at": "2023-10-01", "labels": ["C-dotnet", "I-defect", "needs-triaging"], "State": "closed", "Author": "Sigrec"}
+{"issue_number": 12841, "created_at": "2023-09-29", "closed_at": "2023-09-30", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "lpcoutinho"}
+{"issue_number": 12839, "created_at": "2023-09-29", "closed_at": "2023-10-06", "labels": ["C-grid", "R-awaiting answer", "I-defect"], "State": "closed", "Author": "bhecquet"}
+{"issue_number": 12837, "created_at": "2023-09-29", "closed_at": "2023-09-29", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "yanniszark"}
+{"issue_number": 12836, "created_at": "2023-09-29", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "webtoman"}
+{"issue_number": 12833, "created_at": "2023-09-28", "closed_at": "2023-09-29", "labels": ["R-awaiting answer", "C-rb", "I-defect", "needs-triaging"], "State": "closed", "Author": "pgundlupetvenkatesh"}
+{"issue_number": 12832, "created_at": "2023-09-28", "closed_at": "2023-10-19", "labels": ["C-grid", "C-java", "I-defect"], "State": "closed", "Author": "bhecquet"}
+{"issue_number": 12831, "created_at": "2023-09-28", "closed_at": "2023-10-06", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Artur-"}
+{"issue_number": 12829, "created_at": "2023-09-27", "closed_at": "2023-09-27", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "rakeshkumarpanda"}
+{"issue_number": 12828, "created_at": "2023-09-27", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "lugi0"}
+{"issue_number": 12827, "created_at": "2023-09-26", "closed_at": "2023-09-27", "labels": ["I-question"], "State": "closed", "Author": "briangits"}
+{"issue_number": 12826, "created_at": "2023-09-26", "closed_at": "2023-09-28", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "ashwakpasha"}
+{"issue_number": 12825, "created_at": "2023-09-26", "closed_at": "2023-09-29", "labels": ["C-java", "I-defect", "D-firefox", "C-devtools"], "State": "closed", "Author": "Pe-te"}
+{"issue_number": 12824, "created_at": "2023-09-26", "closed_at": "2023-09-26", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "MateuszMalik"}
+{"issue_number": 12821, "created_at": "2023-09-25", "closed_at": null, "labels": ["C-dotnet", "I-enhancement", "needs-triaging"], "State": "open", "Author": "sbakharev"}
+{"issue_number": 12819, "created_at": "2023-09-25", "closed_at": "2023-09-27", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "ZhaoYis"}
+{"issue_number": 12818, "created_at": "2023-09-25", "closed_at": "2023-09-25", "labels": ["I-defect", "I-issue-template", "G-chromedriver"], "State": "closed", "Author": "Yash1067"}
+{"issue_number": 12815, "created_at": "2023-09-24", "closed_at": "2023-09-24", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Z-YHDD"}
+{"issue_number": 12814, "created_at": "2023-09-23", "closed_at": null, "labels": ["C-java", "I-enhancement", "needs-triaging"], "State": "open", "Author": "joerg1985"}
+{"issue_number": 12813, "created_at": "2023-09-22", "closed_at": null, "labels": ["R-awaiting answer", "C-dotnet", "I-defect", "needs-triaging"], "State": "open", "Author": "PYasonau"}
+{"issue_number": 12812, "created_at": "2023-09-22", "closed_at": "2023-09-28", "labels": ["I-defect"], "State": "closed", "Author": "ShaheedHaque"}
+{"issue_number": 12811, "created_at": "2023-09-21", "closed_at": "2023-09-22", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "ZeldaFlower"}
+{"issue_number": 12806, "created_at": "2023-09-21", "closed_at": "2023-09-21", "labels": [], "State": "closed", "Author": "SvetlaNorka"}
+{"issue_number": 12805, "created_at": "2023-09-21", "closed_at": "2023-10-19", "labels": ["C-dotnet", "I-defect", "needs-triaging"], "State": "closed", "Author": "drauch"}
+{"issue_number": 12804, "created_at": "2023-09-21", "closed_at": "2023-09-22", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "fuzzy-boiii23a"}
+{"issue_number": 12803, "created_at": "2023-09-21", "closed_at": "2023-09-22", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Duez-Yoan"}
+{"issue_number": 12802, "created_at": "2023-09-21", "closed_at": "2023-10-20", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "eravion"}
+{"issue_number": 12801, "created_at": "2023-09-21", "closed_at": "2023-09-21", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "surajgupta7175"}
+{"issue_number": 12800, "created_at": "2023-09-21", "closed_at": "2023-09-21", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "harmin-parra"}
+{"issue_number": 12799, "created_at": "2023-09-21", "closed_at": null, "labels": ["R-awaiting answer", "C-rb", "I-defect", "needs-triaging"], "State": "open", "Author": "DanielHeath"}
+{"issue_number": 12798, "created_at": "2023-09-20", "closed_at": "2023-09-21", "labels": ["I-defect", "needs-triaging", "G-msedgedriver"], "State": "closed", "Author": "aleenadavy90"}
+{"issue_number": 12797, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "ghost"}
+{"issue_number": 12796, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["C-dotnet", "I-defect", "needs-triaging"], "State": "closed", "Author": "eseger13"}
+{"issue_number": 12795, "created_at": "2023-09-20", "closed_at": "2023-09-21", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "Yadav420dilip"}
+{"issue_number": 12794, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "johnbartels"}
+{"issue_number": 12793, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "RaHehl"}
+{"issue_number": 12792, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "aashishpsaini"}
+{"issue_number": 12791, "created_at": "2023-09-20", "closed_at": null, "labels": ["C-grid", "I-defect", "needs-triaging"], "State": "open", "Author": "atos-cosmin-gavagiuc"}
+{"issue_number": 12790, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Ankit-Jakhmola"}
+{"issue_number": 12789, "created_at": "2023-09-20", "closed_at": "2023-09-22", "labels": ["I-defect", "bug", "C-rust"], "State": "closed", "Author": "F30"}
+{"issue_number": 12788, "created_at": "2023-09-20", "closed_at": null, "labels": ["I-defect", "C-rust"], "State": "open", "Author": "olafrose"}
+{"issue_number": 12787, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "SuperMeng1209"}
+{"issue_number": 12786, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["I-question"], "State": "closed", "Author": "imasadansari"}
+{"issue_number": 12785, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["I-question"], "State": "closed", "Author": "ahmedabdelhamedz"}
+{"issue_number": 12783, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "CalebKierum"}
+{"issue_number": 12782, "created_at": "2023-09-19", "closed_at": "2023-09-26", "labels": ["I-defect", "bug", "C-rust"], "State": "closed", "Author": "Kalste"}
+{"issue_number": 12780, "created_at": "2023-09-19", "closed_at": "2023-09-26", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "gimler"}
+{"issue_number": 12779, "created_at": "2023-09-19", "closed_at": "2023-11-07", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "MatzFan"}
+{"issue_number": 12778, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "bananensplit"}
+{"issue_number": 12775, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "CalebKierum"}
+{"issue_number": 12774, "created_at": "2023-09-18", "closed_at": "2023-09-19", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "PulseBeat02"}
+{"issue_number": 12771, "created_at": "2023-09-18", "closed_at": "2023-09-19", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "xavier-villelegier"}
+{"issue_number": 12770, "created_at": "2023-09-18", "closed_at": "2023-09-18", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "crystal-williams-brown"}
+{"issue_number": 12769, "created_at": "2023-09-18", "closed_at": "2023-09-18", "labels": ["G-chromedriver"], "State": "closed", "Author": "murtuzak01"}
+{"issue_number": 12766, "created_at": "2023-09-18", "closed_at": "2023-09-18", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "niall-oboyle"}
+{"issue_number": 12765, "created_at": "2023-09-18", "closed_at": null, "labels": ["I-enhancement", "needs-triaging"], "State": "open", "Author": "minorling"}
+{"issue_number": 12763, "created_at": "2023-09-18", "closed_at": "2023-09-20", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "jaychoubaby"}
+{"issue_number": 12760, "created_at": "2023-09-17", "closed_at": null, "labels": ["C-py", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12759, "created_at": "2023-09-17", "closed_at": "2023-09-17", "labels": [], "State": "closed", "Author": "cursedgrape"}
+{"issue_number": 12758, "created_at": "2023-09-17", "closed_at": "2023-10-16", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "bosaeed"}
+{"issue_number": 12757, "created_at": "2023-09-17", "closed_at": "2023-09-17", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "MatzFan"}
+{"issue_number": 12756, "created_at": "2023-09-17", "closed_at": "2023-09-17", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "baidongcaas"}
+{"issue_number": 12751, "created_at": "2023-09-15", "closed_at": null, "labels": ["I-defect", "I-issue-template"], "State": "open", "Author": "derdualist"}
+{"issue_number": 12750, "created_at": "2023-09-15", "closed_at": "2023-09-15", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "isparks-tg"}
+{"issue_number": 12749, "created_at": "2023-09-15", "closed_at": "2023-09-15", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Tristan107"}
+{"issue_number": 12748, "created_at": "2023-09-15", "closed_at": "2023-09-15", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "jaychoubaby"}
+{"issue_number": 12747, "created_at": "2023-09-15", "closed_at": null, "labels": ["C-nodejs", "I-defect", "needs-triaging"], "State": "open", "Author": "EliasToftHansen"}
+{"issue_number": 12746, "created_at": "2023-09-15", "closed_at": "2023-09-15", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "CalebKierum"}
+{"issue_number": 12745, "created_at": "2023-09-15", "closed_at": "2023-09-15", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "ParanoikCZE"}
+{"issue_number": 12743, "created_at": "2023-09-14", "closed_at": "2023-09-14", "labels": ["C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 12742, "created_at": "2023-09-14", "closed_at": "2023-10-16", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "puatrap"}
+{"issue_number": 12741, "created_at": "2023-09-14", "closed_at": null, "labels": ["C-grid", "R-awaiting answer", "I-defect"], "State": "open", "Author": "EuclidHeron"}
+{"issue_number": 12740, "created_at": "2023-09-14", "closed_at": "2023-09-14", "labels": ["I-question"], "State": "closed", "Author": "MartinK-68"}
+{"issue_number": 12739, "created_at": "2023-09-14", "closed_at": "2023-09-14", "labels": ["I-defect", "I-issue-template", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "sasharifkhan"}
+{"issue_number": 12738, "created_at": "2023-09-13", "closed_at": null, "labels": ["I-defect", "C-rust"], "State": "open", "Author": "ssrmm"}
+{"issue_number": 12737, "created_at": "2023-09-13", "closed_at": null, "labels": ["C-grid", "C-java", "I-enhancement"], "State": "open", "Author": "joerg1985"}
+{"issue_number": 12736, "created_at": "2023-09-13", "closed_at": "2023-09-13", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "Lands-1203"}
+{"issue_number": 12735, "created_at": "2023-09-13", "closed_at": "2023-09-14", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "niemawolnychusername"}
+{"issue_number": 12734, "created_at": "2023-09-13", "closed_at": "2023-09-13", "labels": ["I-defect", "I-question", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "JackKyle"}
+{"issue_number": 12732, "created_at": "2023-09-12", "closed_at": null, "labels": ["C-grid", "I-defect", "I-issue-template"], "State": "open", "Author": "Daniel-Pierce-IV"}
+{"issue_number": 12731, "created_at": "2023-09-12", "closed_at": null, "labels": ["C-nodejs", "I-enhancement"], "State": "open", "Author": "apupier"}
+{"issue_number": 12730, "created_at": "2023-09-12", "closed_at": "2023-09-12", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "akorzhoffs"}
+{"issue_number": 12729, "created_at": "2023-09-12", "closed_at": null, "labels": ["C-dotnet", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12728, "created_at": "2023-09-12", "closed_at": "2023-09-12", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "shinobi01"}
+{"issue_number": 12727, "created_at": "2023-09-12", "closed_at": "2023-09-14", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "apupier"}
+{"issue_number": 12726, "created_at": "2023-09-11", "closed_at": "2023-09-11", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "gbengaorelusi"}
+{"issue_number": 12725, "created_at": "2023-09-11", "closed_at": null, "labels": ["C-grid", "I-enhancement", "help wanted"], "State": "open", "Author": "joshea2018"}
+{"issue_number": 12723, "created_at": "2023-09-11", "closed_at": null, "labels": ["C-nodejs", "I-enhancement", "needs-triaging"], "State": "open", "Author": "apupier"}
+{"issue_number": 12714, "created_at": "2023-09-09", "closed_at": "2023-10-16", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "harikrishnan1694"}
+{"issue_number": 12713, "created_at": "2023-09-09", "closed_at": "2023-09-09", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "eaccmk"}
+{"issue_number": 12712, "created_at": "2023-09-08", "closed_at": "2023-11-16", "labels": ["C-dotnet", "I-defect", "needs-triaging", "C-devtools"], "State": "closed", "Author": "nvborisenko"}
+{"issue_number": 12710, "created_at": "2023-09-08", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "huaxing-yuan"}
+{"issue_number": 12709, "created_at": "2023-09-08", "closed_at": "2023-10-31", "labels": ["C-dotnet", "I-enhancement", "needs-triaging"], "State": "closed", "Author": "rgroenewoudt"}
+{"issue_number": 12706, "created_at": "2023-09-08", "closed_at": "2023-09-08", "labels": ["I-question"], "State": "closed", "Author": "visko-sc"}
+{"issue_number": 12698, "created_at": "2023-09-06", "closed_at": "2023-09-06", "labels": ["C-py"], "State": "closed", "Author": "uri-rodberg"}
+{"issue_number": 12697, "created_at": "2023-09-06", "closed_at": null, "labels": ["C-java", "I-enhancement"], "State": "open", "Author": "joerg1985"}
+{"issue_number": 12695, "created_at": "2023-09-06", "closed_at": "2023-11-02", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "baflQA"}
+{"issue_number": 12694, "created_at": "2023-09-06", "closed_at": "2023-09-06", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Akash-nykaa"}
+{"issue_number": 12693, "created_at": "2023-09-05", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "State": "open", "Author": "jramirezmorales"}
+{"issue_number": 12692, "created_at": "2023-09-05", "closed_at": "2023-09-27", "labels": ["C-dotnet", "I-defect", "needs-triaging"], "State": "closed", "Author": "fangwangse"}
+{"issue_number": 12691, "created_at": "2023-09-05", "closed_at": "2023-09-16", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 12689, "created_at": "2023-09-05", "closed_at": "2023-11-02", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "baflQA"}
+{"issue_number": 12688, "created_at": "2023-09-05", "closed_at": null, "labels": ["I-defect", "I-issue-template"], "State": "open", "Author": "NickhilM"}
+{"issue_number": 12686, "created_at": "2023-09-05", "closed_at": "2023-09-05", "labels": ["I-enhancement"], "State": "closed", "Author": "Evan-LY"}
+{"issue_number": 12683, "created_at": "2023-09-04", "closed_at": null, "labels": ["R-awaiting answer", "I-enhancement"], "State": "open", "Author": "gitissuepost"}
+{"issue_number": 12682, "created_at": "2023-09-04", "closed_at": "2023-09-04", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "Trigtrig"}
+{"issue_number": 12681, "created_at": "2023-09-04", "closed_at": "2023-09-04", "labels": ["C-py", "I-defect"], "State": "closed", "Author": "beliaev-maksim"}
+{"issue_number": 12680, "created_at": "2023-09-04", "closed_at": "2023-09-04", "labels": ["I-question"], "State": "closed", "Author": "federicomartinlara1976"}
+{"issue_number": 12679, "created_at": "2023-09-04", "closed_at": "2023-09-04", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "unterguru"}
+{"issue_number": 12676, "created_at": "2023-09-03", "closed_at": "2023-10-11", "labels": ["C-nodejs", "I-defect"], "State": "closed", "Author": "dtopuzov"}
+{"issue_number": 12675, "created_at": "2023-09-03", "closed_at": null, "labels": ["C-dotnet", "I-defect"], "State": "open", "Author": "ralfbalzer"}
+{"issue_number": 12671, "created_at": "2023-09-02", "closed_at": null, "labels": ["A-needs decision", "C-dotnet", "I-defect"], "State": "open", "Author": "nvborisenko"}
+{"issue_number": 12670, "created_at": "2023-09-02", "closed_at": null, "labels": ["R-awaiting merge", "bug", "C-rust"], "State": "open", "Author": "prnbtr09"}
+{"issue_number": 12665, "created_at": "2023-09-01", "closed_at": "2023-09-01", "labels": ["C-dotnet", "I-defect", "needs-triaging"], "State": "closed", "Author": "nvborisenko"}
+{"issue_number": 12663, "created_at": "2023-09-01", "closed_at": "2023-09-04", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "eugenedani"}
+{"issue_number": 12661, "created_at": "2023-09-01", "closed_at": "2023-09-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "pranesh517"}
+{"issue_number": 12659, "created_at": "2023-09-01", "closed_at": "2023-09-14", "labels": ["I-defect"], "State": "closed", "Author": "stefanoborini"}
+{"issue_number": 12658, "created_at": "2023-09-01", "closed_at": "2023-09-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "nediamond"}
+{"issue_number": 12657, "created_at": "2023-09-01", "closed_at": "2023-09-04", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "Daniel-Pierce-IV"}
+{"issue_number": 12656, "created_at": "2023-09-01", "closed_at": "2023-09-04", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "mwalaszkowski"}
+{"issue_number": 12655, "created_at": "2023-09-01", "closed_at": "2023-10-26", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "OndraM"}
+{"issue_number": 12653, "created_at": "2023-09-01", "closed_at": "2023-09-01", "labels": ["I-defect", "I-issue-template", "I-question"], "State": "closed", "Author": "hizir-bc"}
+{"issue_number": 12652, "created_at": "2023-09-01", "closed_at": "2023-09-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "javiertuya"}
+{"issue_number": 12651, "created_at": "2023-09-01", "closed_at": "2023-09-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "chadlwilson"}
+{"issue_number": 12650, "created_at": "2023-08-31", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "stefanoborini"}
+{"issue_number": 12649, "created_at": "2023-08-31", "closed_at": "2023-09-16", "labels": ["C-py", "I-defect"], "State": "closed", "Author": "jackwangshanghai"}
+{"issue_number": 12648, "created_at": "2023-08-31", "closed_at": "2023-08-31", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "miroljub1995"}
+{"issue_number": 12647, "created_at": "2023-08-31", "closed_at": "2023-08-31", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "VaibhavMTH"}
+{"issue_number": 12646, "created_at": "2023-08-31", "closed_at": "2023-08-31", "labels": ["I-question"], "State": "closed", "Author": "zoran1987"}
+{"issue_number": 12645, "created_at": "2023-08-31", "closed_at": "2023-08-31", "labels": ["I-question"], "State": "closed", "Author": "sandi-init"}
+{"issue_number": 12644, "created_at": "2023-08-31", "closed_at": null, "labels": ["I-defect", "I-issue-template"], "State": "open", "Author": "gitnithin"}
+{"issue_number": 12643, "created_at": "2023-08-30", "closed_at": "2023-08-31", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "kloczek"}
+{"issue_number": 12642, "created_at": "2023-08-30", "closed_at": "2023-08-30", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "Andreito95"}
+{"issue_number": 12640, "created_at": "2023-08-30", "closed_at": "2023-08-30", "labels": ["I-question"], "State": "closed", "Author": "krishtoautomate"}
+{"issue_number": 12638, "created_at": "2023-08-30", "closed_at": "2023-09-04", "labels": ["R-awaiting answer", "I-defect", "I-issue-template", "I-question"], "State": "closed", "Author": "MadhuKush"}
+{"issue_number": 12636, "created_at": "2023-08-30", "closed_at": "2023-09-19", "labels": ["R-awaiting answer", "C-py", "I-defect"], "State": "closed", "Author": "hi-i-m-GTooth"}
+{"issue_number": 12635, "created_at": "2023-08-30", "closed_at": "2023-08-30", "labels": ["I-defect", "I-issue-template", "G-chromedriver"], "State": "closed", "Author": "evanaaafang"}
+{"issue_number": 12634, "created_at": "2023-08-30", "closed_at": "2023-08-30", "labels": ["I-defect", "I-issue-template", "I-question"], "State": "closed", "Author": "vijayakumar471585"}
+{"issue_number": 12633, "created_at": "2023-08-29", "closed_at": "2023-08-30", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 12630, "created_at": "2023-08-29", "closed_at": "2023-08-29", "labels": ["C-java", "I-defect", "needs-triaging"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 12629, "created_at": "2023-08-29", "closed_at": "2023-08-29", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "KirillZ07"}
+{"issue_number": 12628, "created_at": "2023-08-29", "closed_at": "2023-08-29", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "kiran-meda"}
+{"issue_number": 12627, "created_at": "2023-08-29", "closed_at": "2023-08-31", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "altoorodevelead"}
+{"issue_number": 12625, "created_at": "2023-08-29", "closed_at": "2023-08-29", "labels": ["I-question"], "State": "closed", "Author": "GANGHSUN"}
+{"issue_number": 12624, "created_at": "2023-08-29", "closed_at": "2023-08-30", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "mkaldus"}
+{"issue_number": 12622, "created_at": "2023-08-28", "closed_at": "2023-08-28", "labels": ["I-question"], "State": "closed", "Author": "dkumarra"}
+{"issue_number": 12621, "created_at": "2023-08-28", "closed_at": "2023-08-28", "labels": [], "State": "closed", "Author": "ChandrasekarGenesys"}
+{"issue_number": 12620, "created_at": "2023-08-27", "closed_at": null, "labels": ["I-enhancement", "C-rust"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12619, "created_at": "2023-08-27", "closed_at": "2023-08-27", "labels": ["I-question"], "State": "closed", "Author": "fprin"}
+{"issue_number": 12618, "created_at": "2023-08-26", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "State": "open", "Author": "mora-01"}
+{"issue_number": 12617, "created_at": "2023-08-26", "closed_at": "2023-08-28", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "gidigal"}
+{"issue_number": 12616, "created_at": "2023-08-26", "closed_at": "2023-08-26", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "mohiniB-cyber"}
+{"issue_number": 12615, "created_at": "2023-08-25", "closed_at": "2023-08-25", "labels": ["I-question", "G-chromedriver"], "State": "closed", "Author": "Shakir001"}
+{"issue_number": 12613, "created_at": "2023-08-25", "closed_at": "2023-08-30", "labels": ["C-java", "I-enhancement"], "State": "closed", "Author": "harmin-parra"}
+{"issue_number": 12612, "created_at": "2023-08-25", "closed_at": "2023-09-12", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "cdesio1"}
+{"issue_number": 12611, "created_at": "2023-08-25", "closed_at": "2023-08-25", "labels": [], "State": "closed", "Author": "LynnWang1031"}
+{"issue_number": 12610, "created_at": "2023-08-25", "closed_at": "2023-09-04", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "gitkdp2844"}
+{"issue_number": 12606, "created_at": "2023-08-24", "closed_at": null, "labels": ["C-grid", "R-awaiting answer", "I-defect"], "State": "open", "Author": "csgbn"}
+{"issue_number": 12604, "created_at": "2023-08-24", "closed_at": "2023-08-24", "labels": ["R-awaiting answer", "C-nodejs", "I-defect"], "State": "closed", "Author": "fippo"}
+{"issue_number": 12602, "created_at": "2023-08-23", "closed_at": "2023-08-24", "labels": ["C-py", "I-defect"], "State": "closed", "Author": "solo-driven"}
+{"issue_number": 12600, "created_at": "2023-08-23", "closed_at": "2023-08-23", "labels": ["I-question", "G-msedgedriver"], "State": "closed", "Author": "zhuyuemings"}
+{"issue_number": 12599, "created_at": "2023-08-23", "closed_at": "2023-08-23", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "sdenholm45"}
+{"issue_number": 12598, "created_at": "2023-08-23", "closed_at": "2023-08-23", "labels": ["I-question"], "State": "closed", "Author": "bachhavdipak"}
+{"issue_number": 12597, "created_at": "2023-08-23", "closed_at": "2023-08-23", "labels": ["G-chromedriver"], "State": "closed", "Author": "iyamk"}
+{"issue_number": 12595, "created_at": "2023-08-22", "closed_at": "2023-08-23", "labels": [], "State": "closed", "Author": "Joanri20"}
+{"issue_number": 12588, "created_at": "2023-08-22", "closed_at": "2023-08-23", "labels": ["R-awaiting answer", "I-defect", "G-chromedriver"], "State": "closed", "Author": "jschmied"}
+{"issue_number": 12587, "created_at": "2023-08-22", "closed_at": "2023-08-22", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "NCLnclNCL"}
+{"issue_number": 12586, "created_at": "2023-08-22", "closed_at": "2023-08-23", "labels": ["G-chromedriver"], "State": "closed", "Author": "EuclidHeron"}
+{"issue_number": 12585, "created_at": "2023-08-22", "closed_at": "2023-08-22", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "yasin-uohyd"}
+{"issue_number": 12583, "created_at": "2023-08-22", "closed_at": "2023-08-29", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "jaemanc"}
+{"issue_number": 12580, "created_at": "2023-08-21", "closed_at": "2023-08-22", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "debomitaInfosys"}
+{"issue_number": 12579, "created_at": "2023-08-21", "closed_at": "2023-10-16", "labels": ["R-awaiting answer", "C-dotnet", "I-defect"], "State": "closed", "Author": "kenaida99"}
+{"issue_number": 12577, "created_at": "2023-08-20", "closed_at": "2023-09-15", "labels": ["C-dotnet", "I-defect", "needs-triaging"], "State": "closed", "Author": "Pique7"}
+{"issue_number": 12576, "created_at": "2023-08-19", "closed_at": "2023-08-28", "labels": ["C-java", "I-defect", "C-devtools", "bug"], "State": "closed", "Author": "asolntsev"}
+{"issue_number": 12575, "created_at": "2023-08-18", "closed_at": "2023-09-21", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "h-nakao"}
+{"issue_number": 12574, "created_at": "2023-08-18", "closed_at": "2023-08-18", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "jschmied"}
+{"issue_number": 12573, "created_at": "2023-08-18", "closed_at": "2023-08-18", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "liwenchao1995"}
+{"issue_number": 12572, "created_at": "2023-08-18", "closed_at": "2023-08-18", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "M1troll"}
+{"issue_number": 12571, "created_at": "2023-08-17", "closed_at": "2023-08-17", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "bertmad3400"}
+{"issue_number": 12570, "created_at": "2023-08-17", "closed_at": "2023-08-17", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "sudheer1437"}
+{"issue_number": 12569, "created_at": "2023-08-17", "closed_at": "2023-08-17", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "gauravbhasinudaipur"}
+{"issue_number": 12568, "created_at": "2023-08-17", "closed_at": "2023-08-21", "labels": ["I-enhancement", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "anasouardini"}
+{"issue_number": 12567, "created_at": "2023-08-17", "closed_at": "2023-08-18", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "Chetantn"}
+{"issue_number": 12566, "created_at": "2023-08-17", "closed_at": "2023-08-17", "labels": [], "State": "closed", "Author": "firnny11"}
+{"issue_number": 12565, "created_at": "2023-08-17", "closed_at": "2023-08-18", "labels": ["I-defect", "needs-triaging", "G-safaridriver"], "State": "closed", "Author": "forest1102"}
+{"issue_number": 12564, "created_at": "2023-08-16", "closed_at": "2023-09-11", "labels": ["C-dotnet", "I-defect", "C-rust"], "State": "closed", "Author": "ZianAtFirstWatch"}
+{"issue_number": 12563, "created_at": "2023-08-16", "closed_at": "2023-11-17", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "mmalandra-kb4"}
+{"issue_number": 12560, "created_at": "2023-08-16", "closed_at": "2023-08-16", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "luke-hill"}
+{"issue_number": 12558, "created_at": "2023-08-15", "closed_at": "2023-10-06", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "Abhijith2893"}
+{"issue_number": 12549, "created_at": "2023-08-14", "closed_at": null, "labels": ["D-atoms", "I-defect"], "State": "open", "Author": "jlipps"}
+{"issue_number": 12546, "created_at": "2023-08-14", "closed_at": "2023-08-14", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "tellts"}
+{"issue_number": 12544, "created_at": "2023-08-14", "closed_at": "2023-08-14", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "h928725721"}
+{"issue_number": 12543, "created_at": "2023-08-14", "closed_at": "2023-08-14", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "MarcGruener"}
+{"issue_number": 12542, "created_at": "2023-08-13", "closed_at": "2023-08-23", "labels": ["C-dotnet", "I-enhancement", "needs-triaging"], "State": "closed", "Author": "ShoodEver"}
+{"issue_number": 12541, "created_at": "2023-08-13", "closed_at": "2023-08-13", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "speedy1096"}
+{"issue_number": 12538, "created_at": "2023-08-11", "closed_at": null, "labels": ["C-dotnet", "I-enhancement"], "State": "open", "Author": "nicpinson"}
+{"issue_number": 12537, "created_at": "2023-08-11", "closed_at": null, "labels": ["C-grid", "I-defect", "I-issue-template"], "State": "open", "Author": "rajukthomas"}
+{"issue_number": 12535, "created_at": "2023-08-11", "closed_at": "2023-08-23", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "jorisdas"}
+{"issue_number": 12530, "created_at": "2023-08-10", "closed_at": "2023-11-06", "labels": ["I-enhancement"], "State": "closed", "Author": "cnbcbala"}
+{"issue_number": 12529, "created_at": "2023-08-10", "closed_at": "2023-08-14", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "gtach2o"}
+{"issue_number": 12527, "created_at": "2023-08-10", "closed_at": "2023-08-10", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "AMP-BH"}
+{"issue_number": 12525, "created_at": "2023-08-09", "closed_at": "2023-08-09", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "yacov-ma"}
+{"issue_number": 12524, "created_at": "2023-08-09", "closed_at": "2023-08-09", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "bhawna0612"}
+{"issue_number": 12522, "created_at": "2023-08-08", "closed_at": "2023-08-23", "labels": [], "State": "closed", "Author": "mietzen"}
+{"issue_number": 12521, "created_at": "2023-08-08", "closed_at": "2023-08-28", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "RohitM-IN"}
+{"issue_number": 12519, "created_at": "2023-08-08", "closed_at": "2023-08-08", "labels": [], "State": "closed", "Author": "CO0Ki3"}
+{"issue_number": 12518, "created_at": "2023-08-08", "closed_at": "2023-08-10", "labels": ["I-defect", "needs-triaging", "G-msedgedriver"], "State": "closed", "Author": "fz0000"}
+{"issue_number": 12517, "created_at": "2023-08-07", "closed_at": "2023-08-08", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "mudit7126"}
+{"issue_number": 12516, "created_at": "2023-08-07", "closed_at": "2023-08-08", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Pepan"}
+{"issue_number": 12515, "created_at": "2023-08-07", "closed_at": "2023-08-08", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "gaffneyc"}
+{"issue_number": 12513, "created_at": "2023-08-07", "closed_at": "2023-08-08", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Jeremy-Code-F"}
+{"issue_number": 12512, "created_at": "2023-08-07", "closed_at": "2023-08-08", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "technicalpickles"}
+{"issue_number": 12511, "created_at": "2023-08-07", "closed_at": "2023-10-07", "labels": ["C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 12509, "created_at": "2023-08-07", "closed_at": "2023-08-07", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Codude"}
+{"issue_number": 12505, "created_at": "2023-08-06", "closed_at": "2023-08-07", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "cursedgrape"}
+{"issue_number": 12504, "created_at": "2023-08-06", "closed_at": "2023-08-24", "labels": ["C-nodejs", "I-defect"], "State": "closed", "Author": "corrideat"}
+{"issue_number": 12503, "created_at": "2023-08-06", "closed_at": "2023-08-06", "labels": ["I-defect"], "State": "closed", "Author": "hoa-pham82"}
+{"issue_number": 12498, "created_at": "2023-08-05", "closed_at": "2023-08-07", "labels": [], "State": "closed", "Author": "sandeshmms"}
+{"issue_number": 12496, "created_at": "2023-08-04", "closed_at": "2023-08-23", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "soni-123"}
+{"issue_number": 12495, "created_at": "2023-08-04", "closed_at": "2023-10-19", "labels": ["I-defect"], "State": "closed", "Author": "jay14687se"}
+{"issue_number": 12492, "created_at": "2023-08-04", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "pbin1990"}
+{"issue_number": 12491, "created_at": "2023-08-04", "closed_at": "2023-11-06", "labels": ["C-grid", "I-enhancement"], "State": "closed", "Author": "utamas"}
+{"issue_number": 12490, "created_at": "2023-08-04", "closed_at": "2023-08-04", "labels": ["I-defect"], "State": "closed", "Author": "jvanderwoude80"}
+{"issue_number": 12487, "created_at": "2023-08-03", "closed_at": "2023-08-16", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "gf-salomao"}
+{"issue_number": 12484, "created_at": "2023-08-03", "closed_at": "2023-08-04", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "joerg1985"}
+{"issue_number": 12483, "created_at": "2023-08-03", "closed_at": "2023-08-04", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "timandella"}
+{"issue_number": 12482, "created_at": "2023-08-03", "closed_at": "2023-08-03", "labels": [], "State": "closed", "Author": "MartinVardanyan"}
+{"issue_number": 12481, "created_at": "2023-08-02", "closed_at": "2023-08-03", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "jay14687se"}
+{"issue_number": 12480, "created_at": "2023-08-02", "closed_at": "2023-08-14", "labels": ["C-dotnet", "I-defect"], "State": "closed", "Author": "nvborisenko"}
+{"issue_number": 12479, "created_at": "2023-08-02", "closed_at": "2023-08-12", "labels": ["C-nodejs", "I-defect"], "State": "closed", "Author": "rturner-edjuster"}
+{"issue_number": 12478, "created_at": "2023-08-02", "closed_at": "2023-08-03", "labels": ["C-grid", "I-enhancement"], "State": "closed", "Author": "maxnitze"}
+{"issue_number": 12476, "created_at": "2023-08-02", "closed_at": "2023-08-02", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "aledipas"}
+{"issue_number": 12475, "created_at": "2023-08-02", "closed_at": "2023-08-28", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "tslape"}
+{"issue_number": 12474, "created_at": "2023-08-02", "closed_at": "2023-08-02", "labels": ["C-py", "I-defect"], "State": "closed", "Author": "ALHopkins"}
+{"issue_number": 12473, "created_at": "2023-08-02", "closed_at": "2023-08-03", "labels": ["C-dotnet", "I-defect"], "State": "closed", "Author": "tidusjar"}
+{"issue_number": 12470, "created_at": "2023-08-02", "closed_at": "2023-09-02", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "nwongahp"}
+{"issue_number": 12469, "created_at": "2023-08-01", "closed_at": "2023-08-03", "labels": ["E-easy", "I-defect"], "State": "closed", "Author": "MarcelWilson"}
+{"issue_number": 12468, "created_at": "2023-08-01", "closed_at": "2023-08-02", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "joergschiller"}
+{"issue_number": 12467, "created_at": "2023-08-01", "closed_at": null, "labels": ["C-nodejs", "I-defect"], "State": "open", "Author": "toddtarsi"}
+{"issue_number": 12466, "created_at": "2023-08-01", "closed_at": "2023-08-07", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "ikus060"}
+{"issue_number": 12465, "created_at": "2023-08-01", "closed_at": "2023-08-01", "labels": [], "State": "closed", "Author": "Brett-kla"}
+{"issue_number": 12461, "created_at": "2023-08-01", "closed_at": "2023-08-01", "labels": ["I-defect"], "State": "closed", "Author": "naveenanimation20"}
+{"issue_number": 12459, "created_at": "2023-08-01", "closed_at": "2023-08-01", "labels": ["C-py", "I-defect"], "State": "closed", "Author": "mgorny"}
+{"issue_number": 12458, "created_at": "2023-08-01", "closed_at": "2023-08-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "yusancky"}
+{"issue_number": 12457, "created_at": "2023-08-01", "closed_at": "2023-08-01", "labels": ["C-java", "C-rust"], "State": "closed", "Author": "naveenanimation20"}
+{"issue_number": 12456, "created_at": "2023-08-01", "closed_at": "2023-08-11", "labels": ["C-nodejs", "I-defect"], "State": "closed", "Author": "Pauan"}
+{"issue_number": 12453, "created_at": "2023-07-31", "closed_at": "2023-07-31", "labels": [], "State": "closed", "Author": "flow235"}
+{"issue_number": 12452, "created_at": "2023-07-31", "closed_at": "2023-07-31", "labels": ["I-question"], "State": "closed", "Author": "MGabala"}
+{"issue_number": 12451, "created_at": "2023-07-31", "closed_at": "2023-07-31", "labels": ["I-question"], "State": "closed", "Author": "sMichellin"}
+{"issue_number": 12448, "created_at": "2023-07-31", "closed_at": "2023-07-31", "labels": ["G-chromedriver"], "State": "closed", "Author": "sobi-ki"}
+{"issue_number": 12447, "created_at": "2023-07-31", "closed_at": "2023-07-31", "labels": ["I-defect", "I-question"], "State": "closed", "Author": "bwomsm1"}
+{"issue_number": 12446, "created_at": "2023-07-31", "closed_at": "2023-07-31", "labels": ["I-question"], "State": "closed", "Author": "h928725721"}
+{"issue_number": 12442, "created_at": "2023-07-29", "closed_at": "2023-08-24", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "mykola-mokhnach"}
+{"issue_number": 12441, "created_at": "2023-07-29", "closed_at": "2023-07-29", "labels": ["C-py", "I-enhancement", "needs-triaging"], "State": "closed", "Author": "sandeepsuryaprasad"}
+{"issue_number": 12437, "created_at": "2023-07-28", "closed_at": "2023-07-28", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "iyamk"}
+{"issue_number": 12436, "created_at": "2023-07-28", "closed_at": "2023-08-02", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "oferdan"}
+{"issue_number": 12433, "created_at": "2023-07-27", "closed_at": "2023-07-27", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "slavraniuc"}
+{"issue_number": 12430, "created_at": "2023-07-27", "closed_at": "2023-07-27", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "Gertje79"}
+{"issue_number": 12428, "created_at": "2023-07-27", "closed_at": "2023-07-27", "labels": ["I-question"], "State": "closed", "Author": "st3fus"}
+{"issue_number": 12427, "created_at": "2023-07-27", "closed_at": "2023-07-29", "labels": ["C-py", "I-defect"], "State": "closed", "Author": "SenZmaKi"}
+{"issue_number": 12426, "created_at": "2023-07-27", "closed_at": "2023-07-27", "labels": ["I-defect"], "State": "closed", "Author": "rohan-ngm"}
+{"issue_number": 12425, "created_at": "2023-07-26", "closed_at": null, "labels": ["I-defect", "C-rust"], "State": "open", "Author": "joerg1985"}
+{"issue_number": 12423, "created_at": "2023-07-26", "closed_at": "2023-07-31", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "stephannv"}
+{"issue_number": 12421, "created_at": "2023-07-26", "closed_at": "2023-08-23", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "jtnord"}
+{"issue_number": 12420, "created_at": "2023-07-26", "closed_at": "2023-07-26", "labels": ["I-question"], "State": "closed", "Author": "pppppino"}
+{"issue_number": 12415, "created_at": "2023-07-25", "closed_at": "2023-07-25", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "oldwizard1010"}
+{"issue_number": 12414, "created_at": "2023-07-25", "closed_at": "2023-07-25", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "SiddharthJ09"}
+{"issue_number": 12412, "created_at": "2023-07-25", "closed_at": "2023-07-25", "labels": [], "State": "closed", "Author": "b-guerra"}
+{"issue_number": 12408, "created_at": "2023-07-24", "closed_at": null, "labels": ["C-py", "I-defect"], "State": "open", "Author": "symonk"}
+{"issue_number": 12406, "created_at": "2023-07-24", "closed_at": "2023-07-24", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "666asd"}
+{"issue_number": 12403, "created_at": "2023-07-23", "closed_at": null, "labels": [], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12399, "created_at": "2023-07-22", "closed_at": "2023-08-28", "labels": ["C-py", "I-enhancement"], "State": "closed", "Author": "symonk"}
+{"issue_number": 12397, "created_at": "2023-07-21", "closed_at": "2023-09-13", "labels": ["I-enhancement", "C-build"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 12396, "created_at": "2023-07-21", "closed_at": "2023-07-21", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "iamsarathbaskaran"}
+{"issue_number": 12393, "created_at": "2023-07-21", "closed_at": "2023-07-21", "labels": ["G-chromedriver"], "State": "closed", "Author": "david-jng"}
+{"issue_number": 12392, "created_at": "2023-07-21", "closed_at": "2023-11-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "gymshoe"}
+{"issue_number": 12390, "created_at": "2023-07-20", "closed_at": "2023-07-20", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "brennacodes"}
+{"issue_number": 12389, "created_at": "2023-07-20", "closed_at": "2023-07-20", "labels": ["I-question"], "State": "closed", "Author": "MILADZASH"}
+{"issue_number": 12388, "created_at": "2023-07-20", "closed_at": "2023-07-30", "labels": ["I-question"], "State": "closed", "Author": "dongfangtianyu"}
+{"issue_number": 12387, "created_at": "2023-07-20", "closed_at": "2023-07-20", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "shemeshx"}
+{"issue_number": 12383, "created_at": "2023-07-19", "closed_at": "2023-08-03", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "TWiStErRob"}
+{"issue_number": 12382, "created_at": "2023-07-19", "closed_at": "2023-07-19", "labels": ["I-defect"], "State": "closed", "Author": "joerg1985"}
+{"issue_number": 12381, "created_at": "2023-07-19", "closed_at": "2023-07-31", "labels": ["I-defect"], "State": "closed", "Author": "gtach2o"}
+{"issue_number": 12375, "created_at": "2023-07-18", "closed_at": "2023-07-18", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "dapolJS"}
+{"issue_number": 12374, "created_at": "2023-07-17", "closed_at": "2023-07-17", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "nvborisenko"}
+{"issue_number": 12368, "created_at": "2023-07-14", "closed_at": null, "labels": ["A-needs new owner", "C-py", "C-rb", "C-dotnet", "C-java", "C-nodejs", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12366, "created_at": "2023-07-14", "closed_at": "2023-07-16", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "Deepika-Acharya"}
+{"issue_number": 12362, "created_at": "2023-07-13", "closed_at": "2023-07-13", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "eecormier"}
+{"issue_number": 12360, "created_at": "2023-07-13", "closed_at": "2023-07-13", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "swasagarwal123"}
+{"issue_number": 12359, "created_at": "2023-07-13", "closed_at": "2023-08-23", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "mooreja-zia"}
+{"issue_number": 12358, "created_at": "2023-07-13", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "State": "open", "Author": "flowclouds"}
+{"issue_number": 12357, "created_at": "2023-07-13", "closed_at": "2023-09-08", "labels": ["R-awaiting answer", "I-enhancement"], "State": "closed", "Author": "sbabcoc"}
+{"issue_number": 12351, "created_at": "2023-07-12", "closed_at": "2023-07-12", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "BobbyCephy"}
+{"issue_number": 12350, "created_at": "2023-07-12", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "rezsep1203"}
+{"issue_number": 12348, "created_at": "2023-07-12", "closed_at": "2023-07-12", "labels": [], "State": "closed", "Author": "ShellyHuang123"}
+{"issue_number": 12347, "created_at": "2023-07-12", "closed_at": "2023-07-27", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "yennhi95zz"}
+{"issue_number": 12346, "created_at": "2023-07-12", "closed_at": "2023-07-28", "labels": ["I-defect", "I-issue-template", "I-question"], "State": "closed", "Author": "girasegauravi"}
+{"issue_number": 12341, "created_at": "2023-07-11", "closed_at": "2023-07-12", "labels": ["I-question"], "State": "closed", "Author": "jacop5676"}
+{"issue_number": 12339, "created_at": "2023-07-11", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "FreifunkerEZ"}
+{"issue_number": 12338, "created_at": "2023-07-11", "closed_at": "2023-07-11", "labels": [], "State": "closed", "Author": "brlawrence"}
+{"issue_number": 12337, "created_at": "2023-07-10", "closed_at": "2023-07-11", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "aaptwo"}
+{"issue_number": 12334, "created_at": "2023-07-10", "closed_at": "2023-07-10", "labels": ["G-chromedriver"], "State": "closed", "Author": "yennhi95zz"}
+{"issue_number": 12333, "created_at": "2023-07-10", "closed_at": "2023-07-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Rabindra184"}
+{"issue_number": 12332, "created_at": "2023-07-10", "closed_at": "2023-07-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Rabindra184"}
+{"issue_number": 12331, "created_at": "2023-07-10", "closed_at": "2023-07-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Rabindra184"}
+{"issue_number": 12329, "created_at": "2023-07-09", "closed_at": "2023-07-09", "labels": [], "State": "closed", "Author": "jfhahn2"}
+{"issue_number": 12324, "created_at": "2023-07-07", "closed_at": "2023-07-07", "labels": [], "State": "closed", "Author": "prrvchr"}
+{"issue_number": 12323, "created_at": "2023-07-07", "closed_at": "2023-07-21", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "SuchismitaPadh"}
+{"issue_number": 12322, "created_at": "2023-07-07", "closed_at": "2023-07-10", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "rprakash648"}
+{"issue_number": 12321, "created_at": "2023-07-07", "closed_at": "2023-07-10", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "lizwangying"}
+{"issue_number": 12319, "created_at": "2023-07-06", "closed_at": "2023-07-07", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "roxana-agache"}
+{"issue_number": 12318, "created_at": "2023-07-06", "closed_at": "2023-10-22", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "aaltat"}
+{"issue_number": 12317, "created_at": "2023-07-06", "closed_at": null, "labels": ["C-rb", "C-java", "C-nodejs", "I-enhancement", "C-devtools"], "State": "open", "Author": "ollie-iterators"}
+{"issue_number": 12316, "created_at": "2023-07-05", "closed_at": "2023-10-04", "labels": ["C-dotnet", "I-defect"], "State": "closed", "Author": "harunurhan"}
+{"issue_number": 12315, "created_at": "2023-07-05", "closed_at": null, "labels": ["C-dotnet", "I-enhancement", "needs-triaging"], "State": "open", "Author": "harunurhan"}
+{"issue_number": 12314, "created_at": "2023-07-05", "closed_at": "2023-07-27", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "mNarraMine"}
+{"issue_number": 12313, "created_at": "2023-07-05", "closed_at": "2023-07-05", "labels": [], "State": "closed", "Author": "jakubbester"}
+{"issue_number": 12312, "created_at": "2023-07-05", "closed_at": "2023-07-05", "labels": ["G-chromedriver"], "State": "closed", "Author": "NCLnclNCL"}
+{"issue_number": 12311, "created_at": "2023-07-05", "closed_at": "2023-07-05", "labels": ["I-defect", "G-w3c", "needs-triaging"], "State": "closed", "Author": "shirokuma-ds"}
+{"issue_number": 12310, "created_at": "2023-07-04", "closed_at": "2023-07-05", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "Bibhav48"}
+{"issue_number": 12308, "created_at": "2023-07-03", "closed_at": "2023-09-04", "labels": ["I-question"], "State": "closed", "Author": "Proziam"}
+{"issue_number": 12305, "created_at": "2023-07-03", "closed_at": null, "labels": ["C-py", "C-rb", "C-dotnet", "C-java", "C-nodejs", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12303, "created_at": "2023-07-03", "closed_at": "2023-07-03", "labels": ["I-question"], "State": "closed", "Author": "amosnothing"}
+{"issue_number": 12302, "created_at": "2023-07-02", "closed_at": null, "labels": ["R-awaiting answer", "I-defect", "C-rust"], "State": "open", "Author": "Debanjan-B"}
+{"issue_number": 12301, "created_at": "2023-07-02", "closed_at": "2023-07-13", "labels": ["C-dotnet", "I-defect"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 12300, "created_at": "2023-07-02", "closed_at": "2023-07-13", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "Debanjan-B"}
+{"issue_number": 12293, "created_at": "2023-06-29", "closed_at": "2023-06-30", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "ylecuyer"}
+{"issue_number": 12288, "created_at": "2023-06-29", "closed_at": "2023-06-29", "labels": [], "State": "closed", "Author": "pandoras-toolbox"}
+{"issue_number": 12285, "created_at": "2023-06-29", "closed_at": "2023-06-29", "labels": [], "State": "closed", "Author": "david-jng"}
+{"issue_number": 12282, "created_at": "2023-06-28", "closed_at": "2023-06-28", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "csvtuda"}
+{"issue_number": 12278, "created_at": "2023-06-28", "closed_at": "2023-06-28", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "mooragor"}
+{"issue_number": 12277, "created_at": "2023-06-28", "closed_at": "2023-07-22", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "JammiSubramanyam"}
+{"issue_number": 12275, "created_at": "2023-06-28", "closed_at": "2023-06-28", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "Slotos"}
+{"issue_number": 12273, "created_at": "2023-06-28", "closed_at": null, "labels": ["C-dotnet", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12268, "created_at": "2023-06-27", "closed_at": null, "labels": ["I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12267, "created_at": "2023-06-27", "closed_at": "2023-06-27", "labels": ["I-question"], "State": "closed", "Author": "StellarNear"}
+{"issue_number": 12266, "created_at": "2023-06-27", "closed_at": "2023-06-27", "labels": ["I-defect", "I-question"], "State": "closed", "Author": "ajaylamba-provar"}
+{"issue_number": 12260, "created_at": "2023-06-26", "closed_at": "2023-07-21", "labels": ["R-awaiting answer", "I-defect", "I-issue-template"], "State": "closed", "Author": "zbximo"}
+{"issue_number": 12259, "created_at": "2023-06-26", "closed_at": "2023-07-21", "labels": ["R-awaiting answer", "I-defect", "I-issue-template"], "State": "closed", "Author": "RequestSharp"}
+{"issue_number": 12257, "created_at": "2023-06-26", "closed_at": "2023-06-26", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "sekhartirumala"}
+{"issue_number": 12252, "created_at": "2023-06-25", "closed_at": null, "labels": ["R-awaiting answer", "C-java", "I-defect"], "State": "open", "Author": "PoppingSnack"}
+{"issue_number": 12250, "created_at": "2023-06-24", "closed_at": "2023-06-25", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "aarahmanqa"}
+{"issue_number": 12247, "created_at": "2023-06-23", "closed_at": "2023-06-23", "labels": [], "State": "closed", "Author": "AbhiAuto"}
+{"issue_number": 12245, "created_at": "2023-06-23", "closed_at": "2023-06-23", "labels": ["I-question"], "State": "closed", "Author": "kingrapha"}
+{"issue_number": 12243, "created_at": "2023-06-22", "closed_at": null, "labels": ["C-nodejs", "I-defect"], "State": "open", "Author": "marvinruder"}
+{"issue_number": 12242, "created_at": "2023-06-22", "closed_at": null, "labels": ["I-enhancement"], "State": "open", "Author": "ollie-iterators"}
+{"issue_number": 12241, "created_at": "2023-06-22", "closed_at": "2023-06-22", "labels": ["I-question"], "State": "closed", "Author": "principat"}
+{"issue_number": 12239, "created_at": "2023-06-22", "closed_at": "2023-06-22", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "Valentyna"}
+{"issue_number": 12238, "created_at": "2023-06-22", "closed_at": "2023-06-22", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "letskodeit"}
+{"issue_number": 12236, "created_at": "2023-06-21", "closed_at": "2023-06-22", "labels": ["I-defect"], "State": "closed", "Author": "cmarquez5"}
+{"issue_number": 12234, "created_at": "2023-06-21", "closed_at": "2023-07-26", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "bhecquet"}
+{"issue_number": 12233, "created_at": "2023-06-20", "closed_at": "2023-06-21", "labels": ["I-question"], "State": "closed", "Author": "GuntramG"}
+{"issue_number": 12232, "created_at": "2023-06-20", "closed_at": "2023-07-19", "labels": ["R-awaiting answer", "C-dotnet", "I-defect", "C-devtools"], "State": "closed", "Author": "arnonax-tr"}
+{"issue_number": 12230, "created_at": "2023-06-20", "closed_at": "2023-08-07", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "ylecuyer"}
+{"issue_number": 12229, "created_at": "2023-06-19", "closed_at": "2023-06-20", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "ezrac0des"}
+{"issue_number": 12227, "created_at": "2023-06-19", "closed_at": "2023-06-19", "labels": ["I-defect", "needs-triaging", "G-safaridriver"], "State": "closed", "Author": "tpospisil"}
+{"issue_number": 12225, "created_at": "2023-06-19", "closed_at": "2023-06-21", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "sparsh00"}
+{"issue_number": 12224, "created_at": "2023-06-19", "closed_at": "2023-06-26", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "Auto81"}
+{"issue_number": 12223, "created_at": "2023-06-19", "closed_at": null, "labels": ["C-grid", "I-defect"], "State": "open", "Author": "mstrucken"}
+{"issue_number": 12222, "created_at": "2023-06-19", "closed_at": "2023-06-19", "labels": ["I-defect"], "State": "closed", "Author": "Menaga110"}
+{"issue_number": 12221, "created_at": "2023-06-19", "closed_at": "2023-06-21", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "Geobm"}
+{"issue_number": 12220, "created_at": "2023-06-19", "closed_at": "2023-07-12", "labels": ["R-awaiting answer", "C-rb", "I-defect"], "State": "closed", "Author": "jlucartc"}
+{"issue_number": 12217, "created_at": "2023-06-17", "closed_at": "2023-06-25", "labels": ["C-java", "I-defect", "I-question"], "State": "closed", "Author": "bchhabra"}
+{"issue_number": 12212, "created_at": "2023-06-17", "closed_at": "2023-06-17", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "aamirali-dev"}
+{"issue_number": 12207, "created_at": "2023-06-15", "closed_at": null, "labels": ["C-py", "I-enhancement"], "State": "open", "Author": "bollwyvl"}
+{"issue_number": 12206, "created_at": "2023-06-15", "closed_at": "2023-06-15", "labels": ["I-defect"], "State": "closed", "Author": "b-chinmay"}
+{"issue_number": 12204, "created_at": "2023-06-15", "closed_at": "2023-06-15", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "pkc221992"}
+{"issue_number": 12203, "created_at": "2023-06-15", "closed_at": "2023-06-15", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Fradhyle"}
+{"issue_number": 12201, "created_at": "2023-06-14", "closed_at": "2023-06-15", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "idontusenumbers"}
+{"issue_number": 12200, "created_at": "2023-06-14", "closed_at": "2023-06-14", "labels": ["I-question"], "State": "closed", "Author": "iamxiaojianzheng"}
+{"issue_number": 12198, "created_at": "2023-06-13", "closed_at": "2023-06-14", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "wantz1018"}
+{"issue_number": 12196, "created_at": "2023-06-13", "closed_at": null, "labels": ["C-py", "I-defect", "C-rust"], "State": "open", "Author": "fenchu"}
+{"issue_number": 12195, "created_at": "2023-06-13", "closed_at": "2023-06-13", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "python-zys"}
+{"issue_number": 12192, "created_at": "2023-06-11", "closed_at": "2023-06-12", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "stanleysearles"}
+{"issue_number": 12189, "created_at": "2023-06-09", "closed_at": "2023-06-09", "labels": ["I-question"], "State": "closed", "Author": "prahaat"}
+{"issue_number": 12188, "created_at": "2023-06-09", "closed_at": "2023-06-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "pgaria"}
+{"issue_number": 12187, "created_at": "2023-06-09", "closed_at": "2023-06-10", "labels": ["I-defect", "I-issue-template", "G-chromedriver"], "State": "closed", "Author": "smarak111"}
+{"issue_number": 12185, "created_at": "2023-06-08", "closed_at": "2023-06-08", "labels": [], "State": "closed", "Author": "Fserver"}
+{"issue_number": 12184, "created_at": "2023-06-08", "closed_at": "2023-06-09", "labels": ["I-defect", "I-issue-template", "G-chromedriver"], "State": "closed", "Author": "hassanrazakhalid"}
+{"issue_number": 12181, "created_at": "2023-06-08", "closed_at": "2023-06-09", "labels": ["I-defect", "I-question"], "State": "closed", "Author": "shermanrxie"}
+{"issue_number": 12180, "created_at": "2023-06-08", "closed_at": "2023-06-08", "labels": ["I-defect"], "State": "closed", "Author": "rotorrest"}
+{"issue_number": 12179, "created_at": "2023-06-07", "closed_at": "2023-06-07", "labels": ["I-enhancement"], "State": "closed", "Author": "hazendaz"}
+{"issue_number": 12178, "created_at": "2023-06-07", "closed_at": "2023-06-08", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "markp2"}
+{"issue_number": 12177, "created_at": "2023-06-07", "closed_at": "2023-07-03", "labels": ["A-needs new owner", "I-defect", "C-rust"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 12176, "created_at": "2023-06-07", "closed_at": "2023-06-07", "labels": ["I-question"], "State": "closed", "Author": "jbiams77"}
+{"issue_number": 12172, "created_at": "2023-06-07", "closed_at": "2023-06-08", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Reza-Nadaf"}
+{"issue_number": 12171, "created_at": "2023-06-07", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "PraveenThirumoorthy"}
+{"issue_number": 12168, "created_at": "2023-06-07", "closed_at": null, "labels": ["I-enhancement", "needs-triaging"], "State": "open", "Author": "calebplum"}
+{"issue_number": 12167, "created_at": "2023-06-07", "closed_at": "2023-06-10", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "emakei"}
+{"issue_number": 12166, "created_at": "2023-06-07", "closed_at": null, "labels": ["C-py", "I-defect"], "State": "open", "Author": "s-t-e-v-e-n-k"}
+{"issue_number": 12165, "created_at": "2023-06-07", "closed_at": "2023-06-07", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "pavanwashimkar"}
+{"issue_number": 12163, "created_at": "2023-06-06", "closed_at": "2023-06-16", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "danicotra"}
+{"issue_number": 12162, "created_at": "2023-06-06", "closed_at": "2023-06-07", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "Tzachc"}
+{"issue_number": 12161, "created_at": "2023-06-06", "closed_at": "2023-06-07", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "dncastilho"}
+{"issue_number": 12160, "created_at": "2023-06-06", "closed_at": "2023-06-07", "labels": ["I-defect", "I-issue-template", "I-question"], "State": "closed", "Author": "CodeWizardette"}
+{"issue_number": 12155, "created_at": "2023-06-06", "closed_at": "2023-08-23", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "pgi-jsanchez"}
+{"issue_number": 12151, "created_at": "2023-06-05", "closed_at": null, "labels": ["I-enhancement", "C-rust"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12143, "created_at": "2023-06-05", "closed_at": "2023-06-05", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "Correia87"}
+{"issue_number": 12142, "created_at": "2023-06-05", "closed_at": "2023-06-08", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "kekekezi"}
+{"issue_number": 12140, "created_at": "2023-06-04", "closed_at": "2023-08-23", "labels": ["R-awaiting answer", "I-enhancement"], "State": "closed", "Author": "nvborisenko"}
+{"issue_number": 12138, "created_at": "2023-06-03", "closed_at": "2023-06-03", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "olfMombach"}
+{"issue_number": 12134, "created_at": "2023-06-03", "closed_at": "2023-06-03", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "harmin-parra"}
+{"issue_number": 12133, "created_at": "2023-06-03", "closed_at": "2023-06-03", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "harmin-parra"}
+{"issue_number": 12129, "created_at": "2023-06-02", "closed_at": "2023-08-23", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "ShamsMuralidharan"}
+{"issue_number": 12128, "created_at": "2023-06-02", "closed_at": "2023-10-26", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "dgulen"}
+{"issue_number": 12126, "created_at": "2023-06-01", "closed_at": "2023-06-05", "labels": ["I-defect", "G-msedgedriver"], "State": "closed", "Author": "PraveenThirumoorthy"}
+{"issue_number": 12123, "created_at": "2023-05-31", "closed_at": "2023-05-31", "labels": ["G-chromedriver"], "State": "closed", "Author": "jrod567"}
+{"issue_number": 12121, "created_at": "2023-05-31", "closed_at": "2023-06-01", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "JaazopFIN"}
+{"issue_number": 12120, "created_at": "2023-05-31", "closed_at": "2023-05-31", "labels": ["I-question"], "State": "closed", "Author": "JackieShangJie"}
+{"issue_number": 12119, "created_at": "2023-05-31", "closed_at": "2023-05-31", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "olbapgv"}
+{"issue_number": 12118, "created_at": "2023-05-31", "closed_at": null, "labels": ["C-dotnet", "C-java", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 12116, "created_at": "2023-05-30", "closed_at": "2023-07-28", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "hariharanbrowserstack"}
+{"issue_number": 12115, "created_at": "2023-05-30", "closed_at": "2023-10-27", "labels": ["I-defect", "C-devtools"], "State": "closed", "Author": "KatalinGacs"}
+{"issue_number": 12114, "created_at": "2023-05-30", "closed_at": "2023-06-01", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "Pandzioch"}
+{"issue_number": 12113, "created_at": "2023-05-30", "closed_at": "2023-05-30", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "hchenxu"}
+{"issue_number": 12112, "created_at": "2023-05-30", "closed_at": "2023-05-30", "labels": ["I-question"], "State": "closed", "Author": "pranesh517"}
+{"issue_number": 12111, "created_at": "2023-05-29", "closed_at": null, "labels": ["I-enhancement", "needs-triaging"], "State": "open", "Author": "wazzeps"}
+{"issue_number": 12110, "created_at": "2023-05-29", "closed_at": "2023-05-29", "labels": [], "State": "closed", "Author": "weitaifu"}
+{"issue_number": 12107, "created_at": "2023-05-27", "closed_at": "2023-05-29", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "sjana12345"}
+{"issue_number": 12105, "created_at": "2023-05-27", "closed_at": null, "labels": ["R-awaiting answer", "C-py", "I-enhancement"], "State": "open", "Author": "mdantonio"}
+{"issue_number": 12104, "created_at": "2023-05-27", "closed_at": "2023-05-30", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 12102, "created_at": "2023-05-26", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "nvborisenko"}
+{"issue_number": 12101, "created_at": "2023-05-26", "closed_at": "2023-05-26", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "TarunSandupatla"}
+{"issue_number": 12099, "created_at": "2023-05-26", "closed_at": "2023-05-26", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "kishorenadiger"}
+{"issue_number": 12098, "created_at": "2023-05-26", "closed_at": "2023-05-26", "labels": [], "State": "closed", "Author": "albwrekt"}
+{"issue_number": 12097, "created_at": "2023-05-26", "closed_at": "2023-05-26", "labels": ["I-question"], "State": "closed", "Author": "fayeniz211"}
+{"issue_number": 12095, "created_at": "2023-05-25", "closed_at": "2023-05-26", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "ngan"}
+{"issue_number": 12094, "created_at": "2023-05-25", "closed_at": "2023-05-26", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "willdurand"}
+{"issue_number": 12093, "created_at": "2023-05-25", "closed_at": "2023-06-06", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "rsenthilr"}
+{"issue_number": 12092, "created_at": "2023-05-25", "closed_at": "2023-05-29", "labels": ["C-grid", "I-enhancement"], "State": "closed", "Author": "ShadowLNC"}
+{"issue_number": 12091, "created_at": "2023-05-24", "closed_at": "2023-06-23", "labels": ["C-cpp", "I-defect", "D-edge"], "State": "closed", "Author": "saucetom"}
+{"issue_number": 12090, "created_at": "2023-05-24", "closed_at": "2023-05-24", "labels": ["I-defect"], "State": "closed", "Author": "iniyavans"}
+{"issue_number": 12089, "created_at": "2023-05-24", "closed_at": "2023-06-16", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "tarunaggarwal23"}
+{"issue_number": 12088, "created_at": "2023-05-23", "closed_at": null, "labels": ["C-py", "C-rb", "C-dotnet", "C-java", "C-nodejs", "I-enhancement"], "State": "open", "Author": "cbiesinger"}
+{"issue_number": 12086, "created_at": "2023-05-23", "closed_at": "2023-05-23", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "ninhktran"}
+{"issue_number": 12085, "created_at": "2023-05-23", "closed_at": "2023-06-01", "labels": ["C-dotnet", "I-defect", "G-chromedriver"], "State": "closed", "Author": "IMeijSAR"}
+{"issue_number": 12084, "created_at": "2023-05-23", "closed_at": "2023-05-23", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "plsfixthis"}
+{"issue_number": 12083, "created_at": "2023-05-22", "closed_at": "2023-05-22", "labels": ["I-question"], "State": "closed", "Author": "TheCarpetMerchant"}
+{"issue_number": 12081, "created_at": "2023-05-22", "closed_at": "2023-05-22", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "TheCarpetMerchant"}
+{"issue_number": 12080, "created_at": "2023-05-22", "closed_at": "2023-05-22", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "TheCarpetMerchant"}
+{"issue_number": 12078, "created_at": "2023-05-22", "closed_at": "2023-05-25", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "qingfeng520"}
+{"issue_number": 12077, "created_at": "2023-05-22", "closed_at": "2023-05-22", "labels": ["I-question"], "State": "closed", "Author": "MHabiib"}
+{"issue_number": 12076, "created_at": "2023-05-22", "closed_at": "2023-06-09", "labels": ["R-awaiting answer", "C-nodejs", "I-defect"], "State": "closed", "Author": "bswhb"}
+{"issue_number": 12075, "created_at": "2023-05-21", "closed_at": null, "labels": ["C-grid", "I-enhancement", "help wanted"], "State": "open", "Author": "ghost"}
+{"issue_number": 12074, "created_at": "2023-05-21", "closed_at": "2023-05-21", "labels": ["I-question"], "State": "closed", "Author": "chenrui333"}
+{"issue_number": 12071, "created_at": "2023-05-19", "closed_at": "2023-05-20", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "moonfloww"}
+{"issue_number": 12069, "created_at": "2023-05-19", "closed_at": "2023-05-19", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "Artur-"}
+{"issue_number": 12066, "created_at": "2023-05-18", "closed_at": "2023-05-18", "labels": ["I-defect", "needs-triaging", "G-geckodriver"], "State": "closed", "Author": "MrChadMWood"}
+{"issue_number": 12064, "created_at": "2023-05-18", "closed_at": "2023-05-19", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "kool79"}
+{"issue_number": 12062, "created_at": "2023-05-18", "closed_at": "2023-07-03", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "kora-rider"}
+{"issue_number": 12060, "created_at": "2023-05-18", "closed_at": "2023-05-18", "labels": [], "State": "closed", "Author": "justme6666"}
+{"issue_number": 12057, "created_at": "2023-05-18", "closed_at": "2023-05-19", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "ShadowLNC"}
+{"issue_number": 12053, "created_at": "2023-05-17", "closed_at": "2023-05-19", "labels": ["I-defect"], "State": "closed", "Author": "Lydia-new"}
+{"issue_number": 12050, "created_at": "2023-05-16", "closed_at": "2023-05-16", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "enesonus"}
+{"issue_number": 12049, "created_at": "2023-05-16", "closed_at": "2023-06-08", "labels": ["C-dotnet", "I-defect", "help wanted"], "State": "closed", "Author": "mcichonqa"}
+{"issue_number": 12048, "created_at": "2023-05-16", "closed_at": "2023-05-16", "labels": ["I-defect", "I-question"], "State": "closed", "Author": "Lydia-new"}
+{"issue_number": 12047, "created_at": "2023-05-15", "closed_at": "2023-06-05", "labels": ["A-needs new owner", "I-enhancement", "C-build"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 12046, "created_at": "2023-05-15", "closed_at": "2023-05-15", "labels": ["I-enhancement", "needs-triaging", "G-safaridriver"], "State": "closed", "Author": "bryancoxdish"}
+{"issue_number": 12044, "created_at": "2023-05-15", "closed_at": "2023-05-25", "labels": ["I-question"], "State": "closed", "Author": "idan72"}
+{"issue_number": 12043, "created_at": "2023-05-15", "closed_at": null, "labels": ["I-enhancement", "help wanted"], "State": "open", "Author": "spea1"}
+{"issue_number": 12041, "created_at": "2023-05-15", "closed_at": "2023-05-15", "labels": ["R-awaiting answer", "I-enhancement"], "State": "closed", "Author": "delbra1n"}
+{"issue_number": 12040, "created_at": "2023-05-15", "closed_at": "2023-05-17", "labels": ["C-rb", "I-defect"], "State": "closed", "Author": "mihael"}
+{"issue_number": 12034, "created_at": "2023-05-14", "closed_at": "2023-11-02", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "yairddj2"}
+{"issue_number": 12031, "created_at": "2023-05-12", "closed_at": "2023-05-12", "labels": ["I-enhancement"], "State": "closed", "Author": "ksingha161"}
+{"issue_number": 12028, "created_at": "2023-05-11", "closed_at": "2023-05-25", "labels": ["I-defect", "I-issue-template", "I-question"], "State": "closed", "Author": "andrew-morin"}
+{"issue_number": 12027, "created_at": "2023-05-11", "closed_at": "2023-05-15", "labels": ["I-defect", "I-question"], "State": "closed", "Author": "MatteoH2O1999"}
+{"issue_number": 12026, "created_at": "2023-05-11", "closed_at": "2023-05-12", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "89333367"}
+{"issue_number": 12025, "created_at": "2023-05-10", "closed_at": "2023-05-10", "labels": ["G-chromedriver"], "State": "closed", "Author": "sooraj171"}
+{"issue_number": 12019, "created_at": "2023-05-10", "closed_at": "2023-05-10", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "VladYuditsky"}
+{"issue_number": 12017, "created_at": "2023-05-09", "closed_at": "2023-05-10", "labels": ["I-enhancement"], "State": "closed", "Author": "systemboogie"}
+{"issue_number": 12016, "created_at": "2023-05-09", "closed_at": "2023-06-15", "labels": ["I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 12015, "created_at": "2023-05-09", "closed_at": "2023-05-30", "labels": ["C-java", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 12013, "created_at": "2023-05-09", "closed_at": "2023-05-09", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Pepan"}
+{"issue_number": 12012, "created_at": "2023-05-09", "closed_at": "2023-05-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "hassangithub100"}
+{"issue_number": 12010, "created_at": "2023-05-08", "closed_at": null, "labels": ["I-enhancement", "needs-triaging"], "State": "open", "Author": "awangc"}
+{"issue_number": 12009, "created_at": "2023-05-08", "closed_at": "2023-06-07", "labels": ["I-defect", "C-docs", "help wanted"], "State": "closed", "Author": "elgatov"}
+{"issue_number": 12005, "created_at": "2023-05-08", "closed_at": "2023-05-08", "labels": ["C-rb", "I-defect", "needs-triaging"], "State": "closed", "Author": "jorg-vr"}
+{"issue_number": 12004, "created_at": "2023-05-08", "closed_at": "2023-05-08", "labels": ["I-defect"], "State": "closed", "Author": "Mirt12"}
+{"issue_number": 12003, "created_at": "2023-05-08", "closed_at": "2023-05-08", "labels": ["I-question"], "State": "closed", "Author": "ksingha161"}
+{"issue_number": 11999, "created_at": "2023-05-06", "closed_at": "2023-05-08", "labels": ["I-question"], "State": "closed", "Author": "gitissuepost"}
+{"issue_number": 11998, "created_at": "2023-05-06", "closed_at": "2023-05-08", "labels": ["G-chromedriver"], "State": "closed", "Author": "samuelsennev"}
+{"issue_number": 11997, "created_at": "2023-05-05", "closed_at": "2023-05-19", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "fascience"}
+{"issue_number": 11996, "created_at": "2023-05-05", "closed_at": "2023-05-05", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "RobertoPegoraro"}
+{"issue_number": 11995, "created_at": "2023-05-05", "closed_at": "2023-05-05", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "Mek7"}
+{"issue_number": 11991, "created_at": "2023-05-04", "closed_at": null, "labels": ["C-grid", "I-enhancement", "help wanted"], "State": "open", "Author": "asolanki-in"}
+{"issue_number": 11989, "created_at": "2023-05-03", "closed_at": "2023-05-03", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "stanhu"}
+{"issue_number": 11988, "created_at": "2023-05-03", "closed_at": "2023-05-05", "labels": ["C-py", "I-defect"], "State": "closed", "Author": "mdmintz"}
+{"issue_number": 11987, "created_at": "2023-05-03", "closed_at": null, "labels": ["C-grid", "I-enhancement", "help wanted"], "State": "open", "Author": "krishtoautomate"}
+{"issue_number": 11986, "created_at": "2023-05-03", "closed_at": "2023-08-08", "labels": ["C-grid", "I-enhancement", "help wanted"], "State": "closed", "Author": "ksingha161"}
+{"issue_number": 11985, "created_at": "2023-05-03", "closed_at": "2023-05-05", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "BugShredder"}
+{"issue_number": 11984, "created_at": "2023-05-03", "closed_at": "2023-05-10", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "arpithaHM"}
+{"issue_number": 11983, "created_at": "2023-05-03", "closed_at": "2023-05-03", "labels": ["I-defect"], "State": "closed", "Author": "Nagam-Naidu"}
+{"issue_number": 11982, "created_at": "2023-05-02", "closed_at": "2023-05-03", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "diemol"}
+{"issue_number": 11981, "created_at": "2023-05-02", "closed_at": "2023-05-02", "labels": ["I-question"], "State": "closed", "Author": "kumarsiyer"}
+{"issue_number": 11980, "created_at": "2023-05-02", "closed_at": "2023-05-02", "labels": ["C-py", "I-defect"], "State": "closed", "Author": "kwikwag"}
+{"issue_number": 11979, "created_at": "2023-05-02", "closed_at": null, "labels": ["I-enhancement"], "State": "open", "Author": "whimboo"}
+{"issue_number": 11978, "created_at": "2023-05-02", "closed_at": "2023-05-24", "labels": ["I-enhancement"], "State": "closed", "Author": "idan72"}
+{"issue_number": 11977, "created_at": "2023-05-02", "closed_at": "2023-05-25", "labels": ["I-question"], "State": "closed", "Author": "aliraza948"}
+{"issue_number": 11976, "created_at": "2023-05-01", "closed_at": "2023-05-02", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "exelanz"}
+{"issue_number": 11972, "created_at": "2023-04-30", "closed_at": "2023-04-30", "labels": [], "State": "closed", "Author": "mhussein1984"}
+{"issue_number": 11969, "created_at": "2023-04-30", "closed_at": "2023-05-02", "labels": ["I-defect", "G-msedgedriver"], "State": "closed", "Author": "Honsal"}
+{"issue_number": 11965, "created_at": "2023-04-28", "closed_at": "2023-04-28", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "RandMental"}
+{"issue_number": 11960, "created_at": "2023-04-27", "closed_at": "2023-05-04", "labels": ["I-defect"], "State": "closed", "Author": "a2m8"}
+{"issue_number": 11958, "created_at": "2023-04-27", "closed_at": "2023-05-10", "labels": ["C-java"], "State": "closed", "Author": "tusharw02"}
+{"issue_number": 11956, "created_at": "2023-04-27", "closed_at": "2023-05-04", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "iamxiaojianzheng"}
+{"issue_number": 11955, "created_at": "2023-04-26", "closed_at": "2023-04-26", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "vicozohili"}
+{"issue_number": 11954, "created_at": "2023-04-26", "closed_at": "2023-04-26", "labels": ["I-defect", "G-msedgedriver"], "State": "closed", "Author": "primejay24"}
+{"issue_number": 11953, "created_at": "2023-04-26", "closed_at": "2023-04-26", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "domosgabor"}
+{"issue_number": 11952, "created_at": "2023-04-25", "closed_at": "2023-05-04", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11951, "created_at": "2023-04-25", "closed_at": "2023-10-16", "labels": ["R-awaiting answer", "I-defect", "I-issue-template"], "State": "closed", "Author": "Mary1210"}
+{"issue_number": 11950, "created_at": "2023-04-25", "closed_at": "2023-04-26", "labels": ["I-question"], "State": "closed", "Author": "kevinyeah00"}
+{"issue_number": 11949, "created_at": "2023-04-25", "closed_at": "2023-04-25", "labels": ["R-awaiting answer", "I-enhancement"], "State": "closed", "Author": "gtach2o"}
+{"issue_number": 11948, "created_at": "2023-04-25", "closed_at": null, "labels": ["C-grid", "I-defect"], "State": "open", "Author": "joerg1985"}
+{"issue_number": 11947, "created_at": "2023-04-25", "closed_at": "2023-05-05", "labels": ["C-dotnet", "I-defect"], "State": "closed", "Author": "MuhSchaf"}
+{"issue_number": 11946, "created_at": "2023-04-25", "closed_at": "2023-05-04", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "MohabMohie"}
+{"issue_number": 11944, "created_at": "2023-04-24", "closed_at": "2023-05-04", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "gitissuepost"}
+{"issue_number": 11943, "created_at": "2023-04-24", "closed_at": "2023-04-25", "labels": ["I-question"], "State": "closed", "Author": "dornelas-hw"}
+{"issue_number": 11942, "created_at": "2023-04-24", "closed_at": "2023-05-05", "labels": ["C-dotnet", "I-defect"], "State": "closed", "Author": "jefsmo"}
+{"issue_number": 11940, "created_at": "2023-04-24", "closed_at": "2023-04-30", "labels": ["C-java", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11938, "created_at": "2023-04-24", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "State": "open", "Author": "akm1967"}
+{"issue_number": 11937, "created_at": "2023-04-24", "closed_at": "2023-04-24", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "slhck"}
+{"issue_number": 11936, "created_at": "2023-04-24", "closed_at": "2023-05-24", "labels": ["R-awaiting answer", "C-java", "I-defect"], "State": "closed", "Author": "kaixinwangzi1982"}
+{"issue_number": 11935, "created_at": "2023-04-24", "closed_at": "2023-05-03", "labels": ["C-java"], "State": "closed", "Author": "gitissuepost"}
+{"issue_number": 11934, "created_at": "2023-04-23", "closed_at": "2023-10-24", "labels": ["C-dotnet", "I-defect"], "State": "closed", "Author": "alanbelanger"}
+{"issue_number": 11933, "created_at": "2023-04-23", "closed_at": "2023-04-24", "labels": ["I-enhancement"], "State": "closed", "Author": "ollie-iterators"}
+{"issue_number": 11932, "created_at": "2023-04-23", "closed_at": "2023-11-17", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "ollie-iterators"}
+{"issue_number": 11929, "created_at": "2023-04-23", "closed_at": "2023-05-04", "labels": ["C-java"], "State": "closed", "Author": "DeepKandey"}
+{"issue_number": 11928, "created_at": "2023-04-23", "closed_at": "2023-05-04", "labels": ["C-py", "I-defect"], "State": "closed", "Author": "dyadav7"}
+{"issue_number": 11927, "created_at": "2023-04-22", "closed_at": "2023-05-23", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11926, "created_at": "2023-04-22", "closed_at": "2023-04-22", "labels": ["I-defect", "needs-triaging", "G-safaridriver"], "State": "closed", "Author": "ssk512"}
+{"issue_number": 11925, "created_at": "2023-04-21", "closed_at": "2023-04-22", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Roman1137"}
+{"issue_number": 11924, "created_at": "2023-04-21", "closed_at": "2023-04-21", "labels": ["I-defect", "I-issue-template", "G-chromedriver"], "State": "closed", "Author": "sbasu2023"}
+{"issue_number": 11923, "created_at": "2023-04-21", "closed_at": "2023-04-21", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "czp13"}
+{"issue_number": 11919, "created_at": "2023-04-19", "closed_at": "2023-04-19", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "GorgMish"}
+{"issue_number": 11917, "created_at": "2023-04-19", "closed_at": "2023-04-19", "labels": [], "State": "closed", "Author": "akm1967"}
+{"issue_number": 11915, "created_at": "2023-04-19", "closed_at": "2023-08-11", "labels": ["C-py", "I-enhancement"], "State": "closed", "Author": "blueyed"}
+{"issue_number": 11914, "created_at": "2023-04-19", "closed_at": "2023-04-19", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "JohnChen0"}
+{"issue_number": 11911, "created_at": "2023-04-17", "closed_at": "2023-04-18", "labels": ["I-question"], "State": "closed", "Author": "anhtester"}
+{"issue_number": 11910, "created_at": "2023-04-17", "closed_at": "2023-04-25", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "PinhoL"}
+{"issue_number": 11909, "created_at": "2023-04-17", "closed_at": "2023-05-04", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "sravan-jessu"}
+{"issue_number": 11908, "created_at": "2023-04-15", "closed_at": "2023-04-25", "labels": ["C-java", "G-geckodriver"], "State": "closed", "Author": "elektroyazilim"}
+{"issue_number": 11906, "created_at": "2023-04-15", "closed_at": "2023-04-17", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "dev-ardi"}
+{"issue_number": 11904, "created_at": "2023-04-15", "closed_at": "2023-05-04", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "tkumar18"}
+{"issue_number": 11903, "created_at": "2023-04-15", "closed_at": "2023-04-16", "labels": ["I-defect"], "State": "closed", "Author": "cursedgrape"}
+{"issue_number": 11902, "created_at": "2023-04-15", "closed_at": "2023-04-17", "labels": ["I-defect"], "State": "closed", "Author": "kv-naveen"}
+{"issue_number": 11901, "created_at": "2023-04-14", "closed_at": "2023-04-14", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Salomonsson"}
+{"issue_number": 11900, "created_at": "2023-04-14", "closed_at": "2023-04-18", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "MajesticOl"}
+{"issue_number": 11899, "created_at": "2023-04-14", "closed_at": "2023-04-14", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "NCLnclNCL"}
+{"issue_number": 11898, "created_at": "2023-04-14", "closed_at": "2023-04-19", "labels": ["C-dotnet"], "State": "closed", "Author": "NCLnclNCL"}
+{"issue_number": 11897, "created_at": "2023-04-13", "closed_at": null, "labels": ["C-py", "I-defect"], "State": "open", "Author": "davidjayb"}
+{"issue_number": 11896, "created_at": "2023-04-13", "closed_at": "2023-11-06", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "indeed-ted"}
+{"issue_number": 11895, "created_at": "2023-04-13", "closed_at": "2023-04-19", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "NickOppersdorff-Velo"}
+{"issue_number": 11892, "created_at": "2023-04-13", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "Auto81"}
+{"issue_number": 11891, "created_at": "2023-04-13", "closed_at": "2023-04-13", "labels": ["I-defect", "needs-triaging", "G-geckodriver"], "State": "closed", "Author": "hoba87"}
+{"issue_number": 11890, "created_at": "2023-04-13", "closed_at": "2023-04-19", "labels": ["I-issue-template"], "State": "closed", "Author": "gitnithin"}
+{"issue_number": 11889, "created_at": "2023-04-12", "closed_at": null, "labels": ["I-enhancement", "C-devtools"], "State": "open", "Author": "ollie-iterators"}
+{"issue_number": 11888, "created_at": "2023-04-12", "closed_at": "2023-04-12", "labels": [], "State": "closed", "Author": "Scobee"}
+{"issue_number": 11885, "created_at": "2023-04-11", "closed_at": "2023-09-04", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "aspeed98"}
+{"issue_number": 11884, "created_at": "2023-04-11", "closed_at": "2023-04-20", "labels": ["C-rb", "I-defect", "C-rust"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11881, "created_at": "2023-04-11", "closed_at": "2023-04-24", "labels": ["I-question"], "State": "closed", "Author": "bhecquet"}
+{"issue_number": 11879, "created_at": "2023-04-10", "closed_at": "2023-04-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "mohamedoabbiit"}
+{"issue_number": 11878, "created_at": "2023-04-10", "closed_at": null, "labels": ["I-enhancement", "C-devtools"], "State": "open", "Author": "ollie-iterators"}
+{"issue_number": 11877, "created_at": "2023-04-10", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "dev-ardi"}
+{"issue_number": 11875, "created_at": "2023-04-08", "closed_at": "2023-04-10", "labels": ["R-awaiting answer", "I-defect", "I-issue-template"], "State": "closed", "Author": "2397hushar"}
+{"issue_number": 11874, "created_at": "2023-04-08", "closed_at": "2023-04-10", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "vicozohili"}
+{"issue_number": 11872, "created_at": "2023-04-07", "closed_at": "2023-04-07", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "Terence625"}
+{"issue_number": 11870, "created_at": "2023-04-06", "closed_at": "2023-04-06", "labels": ["I-defect"], "State": "closed", "Author": "remyanekkuth"}
+{"issue_number": 11868, "created_at": "2023-04-05", "closed_at": "2023-05-15", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "pogrebnyaksa"}
+{"issue_number": 11867, "created_at": "2023-04-05", "closed_at": "2023-04-06", "labels": ["I-defect"], "State": "closed", "Author": "ggnetoo"}
+{"issue_number": 11861, "created_at": "2023-04-04", "closed_at": "2023-04-04", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "br0k3nglass"}
+{"issue_number": 11860, "created_at": "2023-04-04", "closed_at": "2023-04-19", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "sumitsg004"}
+{"issue_number": 11859, "created_at": "2023-04-04", "closed_at": "2023-04-30", "labels": ["C-java", "I-enhancement", "help wanted"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11858, "created_at": "2023-04-04", "closed_at": "2023-06-09", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "dnicholas2001"}
+{"issue_number": 11857, "created_at": "2023-04-03", "closed_at": "2023-04-03", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "brucechen-github"}
+{"issue_number": 11855, "created_at": "2023-04-03", "closed_at": "2023-04-03", "labels": [], "State": "closed", "Author": "chutang"}
+{"issue_number": 11854, "created_at": "2023-04-01", "closed_at": "2023-04-05", "labels": ["C-py", "I-defect"], "State": "closed", "Author": "OutOfFocus4"}
+{"issue_number": 11851, "created_at": "2023-03-31", "closed_at": "2023-03-31", "labels": ["I-enhancement", "G-w3c", "needs-triaging"], "State": "closed", "Author": "NikkieCold"}
+{"issue_number": 11850, "created_at": "2023-03-31", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "Schtil"}
+{"issue_number": 11849, "created_at": "2023-03-31", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "parkhomchukp"}
+{"issue_number": 11848, "created_at": "2023-03-31", "closed_at": "2023-04-03", "labels": ["I-defect", "G-msedgedriver"], "State": "closed", "Author": "kalpeshdlad"}
+{"issue_number": 11846, "created_at": "2023-03-30", "closed_at": "2023-03-30", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "jdotsoft"}
+{"issue_number": 11845, "created_at": "2023-03-30", "closed_at": "2023-04-03", "labels": ["I-defect"], "State": "closed", "Author": "csgbn"}
+{"issue_number": 11843, "created_at": "2023-03-30", "closed_at": "2023-03-30", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "sundeepdange"}
+{"issue_number": 11842, "created_at": "2023-03-30", "closed_at": "2023-04-06", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "omer-za"}
+{"issue_number": 11841, "created_at": "2023-03-29", "closed_at": "2023-04-07", "labels": ["C-dotnet", "I-defect"], "State": "closed", "Author": "ccarmannt"}
+{"issue_number": 11839, "created_at": "2023-03-29", "closed_at": "2023-03-31", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "DanielHJA"}
+{"issue_number": 11838, "created_at": "2023-03-29", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "State": "open", "Author": "tmatveye-tibco"}
+{"issue_number": 11836, "created_at": "2023-03-29", "closed_at": "2023-04-06", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "ayushi-nyk"}
+{"issue_number": 11834, "created_at": "2023-03-29", "closed_at": "2023-04-04", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "iamxiaojianzheng"}
+{"issue_number": 11833, "created_at": "2023-03-29", "closed_at": "2023-10-23", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "floa93"}
+{"issue_number": 11826, "created_at": "2023-03-28", "closed_at": "2023-06-16", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "EuclidHeron"}
+{"issue_number": 11824, "created_at": "2023-03-27", "closed_at": "2023-03-30", "labels": ["I-enhancement", "G-w3c", "needs-triaging"], "State": "closed", "Author": "Mevatlave-Kraspek"}
+{"issue_number": 11820, "created_at": "2023-03-27", "closed_at": null, "labels": ["C-py", "C-dotnet", "C-java", "I-defect"], "State": "open", "Author": "whimboo"}
+{"issue_number": 11819, "created_at": "2023-03-26", "closed_at": null, "labels": ["C-java", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 11817, "created_at": "2023-03-26", "closed_at": "2023-06-08", "labels": ["C-java", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11815, "created_at": "2023-03-24", "closed_at": "2023-03-31", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "pgundlupetvenkatesh"}
+{"issue_number": 11813, "created_at": "2023-03-24", "closed_at": "2023-04-06", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "ssd9881"}
+{"issue_number": 11811, "created_at": "2023-03-24", "closed_at": "2023-03-24", "labels": ["I-defect"], "State": "closed", "Author": "sriramsridharanvr"}
+{"issue_number": 11809, "created_at": "2023-03-23", "closed_at": "2023-04-07", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "riki95"}
+{"issue_number": 11807, "created_at": "2023-03-23", "closed_at": "2023-04-03", "labels": ["I-defect", "G-msedgedriver"], "State": "closed", "Author": "iamxiaojianzheng"}
+{"issue_number": 11806, "created_at": "2023-03-23", "closed_at": "2023-03-30", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "mighty98"}
+{"issue_number": 11805, "created_at": "2023-03-23", "closed_at": "2023-03-31", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "sandeeprapolu"}
+{"issue_number": 11804, "created_at": "2023-03-23", "closed_at": null, "labels": ["C-cpp", "I-enhancement", "help wanted"], "State": "open", "Author": "rbourga"}
+{"issue_number": 11803, "created_at": "2023-03-22", "closed_at": "2023-03-22", "labels": [], "State": "closed", "Author": "msanchezBek"}
+{"issue_number": 11801, "created_at": "2023-03-22", "closed_at": "2023-04-24", "labels": ["C-dotnet", "I-defect"], "State": "closed", "Author": "VulumeCode"}
+{"issue_number": 11800, "created_at": "2023-03-22", "closed_at": "2023-03-29", "labels": [], "State": "closed", "Author": "joerg1985"}
+{"issue_number": 11799, "created_at": "2023-03-22", "closed_at": "2023-03-23", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "iamxiaojianzheng"}
+{"issue_number": 11798, "created_at": "2023-03-22", "closed_at": "2023-04-04", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "robbytx"}
+{"issue_number": 11797, "created_at": "2023-03-21", "closed_at": "2023-06-05", "labels": ["C-rb", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11796, "created_at": "2023-03-21", "closed_at": "2023-06-27", "labels": ["C-nodejs", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11795, "created_at": "2023-03-21", "closed_at": "2023-03-24", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "yksatria"}
+{"issue_number": 11794, "created_at": "2023-03-21", "closed_at": "2023-03-29", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "rturner-edjuster"}
+{"issue_number": 11793, "created_at": "2023-03-21", "closed_at": "2023-03-21", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "srinukusumanchi"}
+{"issue_number": 11792, "created_at": "2023-03-20", "closed_at": "2023-03-21", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "hardikchandi"}
+{"issue_number": 11791, "created_at": "2023-03-20", "closed_at": "2023-03-20", "labels": ["R-awaiting answer", "I-defect", "G-safaridriver"], "State": "closed", "Author": "huydaoQE"}
+{"issue_number": 11790, "created_at": "2023-03-20", "closed_at": "2023-03-24", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "uday0804"}
+{"issue_number": 11789, "created_at": "2023-03-17", "closed_at": null, "labels": ["C-nodejs", "I-defect", "needs-triaging"], "State": "open", "Author": "StanislavKharchenko"}
+{"issue_number": 11787, "created_at": "2023-03-17", "closed_at": "2023-03-17", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "hnestorova"}
+{"issue_number": 11786, "created_at": "2023-03-17", "closed_at": "2023-04-25", "labels": ["R-awaiting answer", "I-enhancement"], "State": "closed", "Author": "harishtesting01"}
+{"issue_number": 11785, "created_at": "2023-03-16", "closed_at": "2023-03-16", "labels": ["I-defect"], "State": "closed", "Author": "maestroant"}
+{"issue_number": 11784, "created_at": "2023-03-16", "closed_at": "2023-03-16", "labels": ["I-defect"], "State": "closed", "Author": "csgbn"}
+{"issue_number": 11783, "created_at": "2023-03-16", "closed_at": "2023-04-06", "labels": ["I-defect", "I-issue-template", "G-msedgedriver"], "State": "closed", "Author": "Luciano1689"}
+{"issue_number": 11782, "created_at": "2023-03-16", "closed_at": "2023-03-16", "labels": ["R-awaiting answer", "I-defect", "I-issue-template"], "State": "closed", "Author": "lalith-mcw"}
+{"issue_number": 11780, "created_at": "2023-03-16", "closed_at": "2023-03-16", "labels": ["I-question"], "State": "closed", "Author": "chutang"}
+{"issue_number": 11779, "created_at": "2023-03-15", "closed_at": "2023-03-15", "labels": ["G-msedgedriver"], "State": "closed", "Author": "Luciano1689"}
+{"issue_number": 11778, "created_at": "2023-03-15", "closed_at": "2023-03-15", "labels": [], "State": "closed", "Author": "ghost"}
+{"issue_number": 11775, "created_at": "2023-03-15", "closed_at": "2023-03-15", "labels": ["I-defect"], "State": "closed", "Author": "rbourga"}
+{"issue_number": 11774, "created_at": "2023-03-15", "closed_at": "2023-03-19", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "LiHaiYuan0606"}
+{"issue_number": 11772, "created_at": "2023-03-14", "closed_at": null, "labels": ["C-dotnet", "I-enhancement"], "State": "open", "Author": "RoDo777"}
+{"issue_number": 11771, "created_at": "2023-03-14", "closed_at": "2023-03-15", "labels": ["A-needs decision", "C-rb", "I-enhancement"], "State": "closed", "Author": "md5"}
+{"issue_number": 11770, "created_at": "2023-03-14", "closed_at": "2023-03-14", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "morepizza"}
+{"issue_number": 11769, "created_at": "2023-03-14", "closed_at": null, "labels": ["C-py", "C-rb", "C-dotnet", "C-java", "C-nodejs", "C-devtools"], "State": "open", "Author": "pujagani"}
+{"issue_number": 11768, "created_at": "2023-03-14", "closed_at": null, "labels": ["C-py", "C-rb", "C-dotnet", "C-java", "C-nodejs", "C-devtools"], "State": "open", "Author": "pujagani"}
+{"issue_number": 11767, "created_at": "2023-03-14", "closed_at": null, "labels": ["C-py", "C-rb", "C-dotnet", "C-java", "C-nodejs", "C-devtools"], "State": "open", "Author": "pujagani"}
+{"issue_number": 11766, "created_at": "2023-03-14", "closed_at": null, "labels": ["C-py", "C-rb", "C-dotnet", "C-java", "C-nodejs", "C-devtools"], "State": "open", "Author": "pujagani"}
+{"issue_number": 11765, "created_at": "2023-03-14", "closed_at": null, "labels": ["C-py", "C-rb", "C-dotnet", "C-java", "C-nodejs", "C-devtools"], "State": "open", "Author": "pujagani"}
+{"issue_number": 11764, "created_at": "2023-03-14", "closed_at": null, "labels": ["C-py", "C-dotnet", "C-devtools"], "State": "open", "Author": "pujagani"}
+{"issue_number": 11763, "created_at": "2023-03-14", "closed_at": null, "labels": ["C-py", "C-dotnet", "C-devtools"], "State": "open", "Author": "pujagani"}
+{"issue_number": 11762, "created_at": "2023-03-14", "closed_at": null, "labels": ["C-py", "C-dotnet", "C-devtools"], "State": "open", "Author": "pujagani"}
+{"issue_number": 11761, "created_at": "2023-03-14", "closed_at": "2023-03-14", "labels": ["G-msedgedriver"], "State": "closed", "Author": "Gowtham7707"}
+{"issue_number": 11760, "created_at": "2023-03-13", "closed_at": "2023-03-15", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "testermarcinf"}
+{"issue_number": 11758, "created_at": "2023-03-13", "closed_at": "2023-03-13", "labels": [], "State": "closed", "Author": "simon-spier0"}
+{"issue_number": 11757, "created_at": "2023-03-10", "closed_at": "2023-03-13", "labels": ["I-question"], "State": "closed", "Author": "lbhavani9"}
+{"issue_number": 11756, "created_at": "2023-03-09", "closed_at": "2023-03-13", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "kristijorgji"}
+{"issue_number": 11755, "created_at": "2023-03-09", "closed_at": "2023-03-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Correia87"}
+{"issue_number": 11754, "created_at": "2023-03-09", "closed_at": "2023-04-25", "labels": ["R-awaiting answer"], "State": "closed", "Author": "gkyx"}
+{"issue_number": 11753, "created_at": "2023-03-09", "closed_at": "2023-03-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "knnthchng"}
+{"issue_number": 11751, "created_at": "2023-03-08", "closed_at": "2023-03-09", "labels": ["I-question"], "State": "closed", "Author": "Apteryks"}
+{"issue_number": 11750, "created_at": "2023-03-08", "closed_at": "2023-03-16", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "jamesplawry"}
+{"issue_number": 11748, "created_at": "2023-03-08", "closed_at": "2023-03-08", "labels": ["R-awaiting answer", "I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "jeankst01"}
+{"issue_number": 11747, "created_at": "2023-03-08", "closed_at": "2023-03-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "asolntsev"}
+{"issue_number": 11746, "created_at": "2023-03-08", "closed_at": "2023-03-08", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "danielhoherd"}
+{"issue_number": 11745, "created_at": "2023-03-08", "closed_at": "2023-03-16", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "cosmo0"}
+{"issue_number": 11743, "created_at": "2023-03-07", "closed_at": "2023-03-07", "labels": ["G-chromedriver"], "State": "closed", "Author": "domosgabor"}
+{"issue_number": 11741, "created_at": "2023-03-07", "closed_at": "2023-03-10", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "Poonam-25445"}
+{"issue_number": 11740, "created_at": "2023-03-07", "closed_at": "2023-03-07", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "zerodayz"}
+{"issue_number": 11739, "created_at": "2023-03-06", "closed_at": "2023-03-10", "labels": ["I-defect", "G-chromedriver", "G-msedgedriver", "G-safaridriver"], "State": "closed", "Author": "mrpet88"}
+{"issue_number": 11738, "created_at": "2023-03-06", "closed_at": "2023-03-08", "labels": ["R-awaiting answer", "I-enhancement"], "State": "closed", "Author": "eddumelendez"}
+{"issue_number": 11737, "created_at": "2023-03-06", "closed_at": "2023-03-15", "labels": ["I-issue-template", "I-question"], "State": "closed", "Author": "MichaelOdumosu57"}
+{"issue_number": 11736, "created_at": "2023-03-06", "closed_at": null, "labels": ["C-java", "I-enhancement"], "State": "open", "Author": "pujagani"}
+{"issue_number": 11734, "created_at": "2023-03-05", "closed_at": "2023-03-06", "labels": ["I-question"], "State": "closed", "Author": "aslanonline"}
+{"issue_number": 11733, "created_at": "2023-03-04", "closed_at": "2023-03-06", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "jasperstone"}
+{"issue_number": 11731, "created_at": "2023-03-04", "closed_at": "2023-03-11", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "jasperstone"}
+{"issue_number": 11730, "created_at": "2023-03-03", "closed_at": "2023-03-11", "labels": ["C-py", "I-defect", "needs-triaging"], "State": "closed", "Author": "acbilson"}
+{"issue_number": 11729, "created_at": "2023-03-03", "closed_at": "2023-03-03", "labels": ["G-chromedriver", "G-msedgedriver"], "State": "closed", "Author": "AMP-BH"}
+{"issue_number": 11726, "created_at": "2023-03-02", "closed_at": null, "labels": ["C-dotnet", "I-enhancement"], "State": "open", "Author": "FSharpCSharp"}
+{"issue_number": 11725, "created_at": "2023-03-02", "closed_at": "2023-09-24", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "romovs"}
+{"issue_number": 11723, "created_at": "2023-03-01", "closed_at": "2023-03-06", "labels": ["I-defect", "D-edge", "I-question", "G-chromedriver"], "State": "closed", "Author": "zubairkhakwani"}
+{"issue_number": 11721, "created_at": "2023-03-01", "closed_at": "2023-03-03", "labels": ["G-chromedriver"], "State": "closed", "Author": "adambeth"}
+{"issue_number": 11720, "created_at": "2023-03-01", "closed_at": "2023-04-18", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "StanislavKharchenko"}
+{"issue_number": 11717, "created_at": "2023-02-28", "closed_at": "2023-03-27", "labels": ["I-defect", "C-rust"], "State": "closed", "Author": "benhutton"}
+{"issue_number": 11715, "created_at": "2023-02-28", "closed_at": "2023-03-15", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "xinmans"}
+{"issue_number": 11714, "created_at": "2023-02-27", "closed_at": "2023-02-28", "labels": ["I-question"], "State": "closed", "Author": "jrod567"}
+{"issue_number": 11712, "created_at": "2023-02-27", "closed_at": "2023-03-03", "labels": ["I-defect"], "State": "closed", "Author": "MohabMohie"}
+{"issue_number": 11710, "created_at": "2023-02-27", "closed_at": "2023-02-27", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "dlee-amplify"}
+{"issue_number": 11709, "created_at": "2023-02-25", "closed_at": "2023-03-15", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "MT010104"}
+{"issue_number": 11708, "created_at": "2023-02-24", "closed_at": "2023-02-24", "labels": [], "State": "closed", "Author": "nainighai-iqa"}
+{"issue_number": 11707, "created_at": "2023-02-24", "closed_at": "2023-02-27", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Redysz"}
+{"issue_number": 11706, "created_at": "2023-02-24", "closed_at": "2023-02-24", "labels": ["G-chromedriver"], "State": "closed", "Author": "daomien"}
+{"issue_number": 11705, "created_at": "2023-02-24", "closed_at": "2023-02-25", "labels": ["I-enhancement", "G-w3c", "needs-triaging"], "State": "closed", "Author": "tholewebgods"}
+{"issue_number": 11703, "created_at": "2023-02-23", "closed_at": "2023-08-30", "labels": ["R-awaiting answer", "C-dotnet", "I-defect", "C-devtools"], "State": "closed", "Author": "fenben5754"}
+{"issue_number": 11700, "created_at": "2023-02-23", "closed_at": "2023-02-23", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "ayushi-nyk"}
+{"issue_number": 11698, "created_at": "2023-02-21", "closed_at": "2023-02-24", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "cosoc"}
+{"issue_number": 11697, "created_at": "2023-02-20", "closed_at": "2023-02-22", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "david-pulkowski"}
+{"issue_number": 11696, "created_at": "2023-02-20", "closed_at": "2023-02-28", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "oldwizard1010"}
+{"issue_number": 11695, "created_at": "2023-02-20", "closed_at": "2023-10-22", "labels": ["C-docs", "I-enhancement"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11694, "created_at": "2023-02-20", "closed_at": null, "labels": ["A-needs decision", "I-enhancement", "C-build"], "State": "open", "Author": "bonigarcia"}
+{"issue_number": 11693, "created_at": "2023-02-20", "closed_at": "2023-06-16", "labels": ["C-py", "C-rb", "C-cpp", "C-java", "C-nodejs", "I-enhancement"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11692, "created_at": "2023-02-20", "closed_at": "2023-06-05", "labels": ["C-java", "I-enhancement"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11691, "created_at": "2023-02-20", "closed_at": "2023-02-23", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "many1337"}
+{"issue_number": 11690, "created_at": "2023-02-20", "closed_at": "2023-04-03", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11689, "created_at": "2023-02-20", "closed_at": "2023-02-21", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11688, "created_at": "2023-02-20", "closed_at": "2023-08-08", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11687, "created_at": "2023-02-20", "closed_at": "2023-10-11", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11686, "created_at": "2023-02-20", "closed_at": "2023-10-22", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11685, "created_at": "2023-02-20", "closed_at": "2023-08-07", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11684, "created_at": "2023-02-20", "closed_at": "2023-07-27", "labels": ["C-py", "C-rb", "C-cpp", "C-java", "C-nodejs", "I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11683, "created_at": "2023-02-20", "closed_at": "2023-10-07", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11682, "created_at": "2023-02-20", "closed_at": "2023-10-22", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11681, "created_at": "2023-02-20", "closed_at": "2023-10-07", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11680, "created_at": "2023-02-20", "closed_at": "2023-10-22", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11679, "created_at": "2023-02-20", "closed_at": "2023-08-02", "labels": ["C-py", "C-rb", "C-cpp", "C-java", "C-nodejs", "I-enhancement"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11678, "created_at": "2023-02-20", "closed_at": "2023-10-23", "labels": ["A-needs decision", "I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11677, "created_at": "2023-02-20", "closed_at": "2023-07-24", "labels": ["C-py", "C-rb", "C-dotnet", "C-java", "C-nodejs", "I-enhancement"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11676, "created_at": "2023-02-20", "closed_at": "2023-07-26", "labels": ["I-enhancement"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11675, "created_at": "2023-02-20", "closed_at": "2023-03-27", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11674, "created_at": "2023-02-20", "closed_at": "2023-10-22", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11673, "created_at": "2023-02-20", "closed_at": "2023-08-02", "labels": ["I-enhancement"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11672, "created_at": "2023-02-20", "closed_at": "2023-03-01", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11671, "created_at": "2023-02-20", "closed_at": "2023-11-13", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "bonigarcia"}
+{"issue_number": 11670, "created_at": "2023-02-20", "closed_at": null, "labels": ["C-nodejs", "I-enhancement", "C-devtools"], "State": "open", "Author": "dtopuzov"}
+{"issue_number": 11669, "created_at": "2023-02-20", "closed_at": "2023-02-20", "labels": ["I-enhancement"], "State": "closed", "Author": "nadvolod"}
+{"issue_number": 11665, "created_at": "2023-02-16", "closed_at": "2023-02-16", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "danylo-chekina"}
+{"issue_number": 11664, "created_at": "2023-02-16", "closed_at": "2023-02-20", "labels": ["R-awaiting answer", "I-defect", "C-rust"], "State": "closed", "Author": "Randy1510"}
+{"issue_number": 11662, "created_at": "2023-02-16", "closed_at": "2023-02-16", "labels": ["I-question"], "State": "closed", "Author": "nidhijha-tfc"}
+{"issue_number": 11660, "created_at": "2023-02-15", "closed_at": "2023-02-15", "labels": ["I-enhancement", "needs-triaging", "G-geckodriver"], "State": "closed", "Author": "Gauravrc25"}
+{"issue_number": 11659, "created_at": "2023-02-14", "closed_at": "2023-02-15", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "jrod567"}
+{"issue_number": 11658, "created_at": "2023-02-14", "closed_at": "2023-03-15", "labels": ["C-grid", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11657, "created_at": "2023-02-14", "closed_at": null, "labels": ["C-nodejs", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 11656, "created_at": "2023-02-14", "closed_at": "2023-03-15", "labels": ["C-grid", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11655, "created_at": "2023-02-14", "closed_at": "2023-02-14", "labels": ["R-awaiting answer", "C-py", "I-defect", "G-chromedriver"], "State": "closed", "Author": "PashaM999"}
+{"issue_number": 11654, "created_at": "2023-02-14", "closed_at": "2023-02-14", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "bachhavdipak"}
+{"issue_number": 11653, "created_at": "2023-02-14", "closed_at": "2023-02-15", "labels": ["I-defect", "G-msedgedriver"], "State": "closed", "Author": "kiss2016"}
+{"issue_number": 11652, "created_at": "2023-02-14", "closed_at": "2023-02-14", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "mjflint"}
+{"issue_number": 11651, "created_at": "2023-02-13", "closed_at": "2023-03-28", "labels": ["C-rb", "I-enhancement", "C-devtools"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11650, "created_at": "2023-02-13", "closed_at": "2023-02-13", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "arielj"}
+{"issue_number": 11649, "created_at": "2023-02-13", "closed_at": "2023-04-20", "labels": ["C-nodejs", "I-defect"], "State": "closed", "Author": "cfarmerga"}
+{"issue_number": 11648, "created_at": "2023-02-13", "closed_at": "2023-03-07", "labels": ["C-nodejs", "I-defect"], "State": "closed", "Author": "Gyurmaschine"}
+{"issue_number": 11647, "created_at": "2023-02-13", "closed_at": "2023-04-19", "labels": ["R-awaiting answer", "I-enhancement"], "State": "closed", "Author": "StellarNear"}
+{"issue_number": 11645, "created_at": "2023-02-12", "closed_at": "2023-04-20", "labels": ["C-java", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11644, "created_at": "2023-02-12", "closed_at": null, "labels": ["C-py", "I-enhancement", "I-stale"], "State": "open", "Author": "bro-web3-dev"}
+{"issue_number": 11643, "created_at": "2023-02-10", "closed_at": "2023-05-04", "labels": ["C-java", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11642, "created_at": "2023-02-10", "closed_at": "2023-05-02", "labels": ["C-java", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11641, "created_at": "2023-02-10", "closed_at": "2023-02-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "zamgill"}
+{"issue_number": 11639, "created_at": "2023-02-09", "closed_at": "2023-07-19", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11638, "created_at": "2023-02-09", "closed_at": "2023-02-09", "labels": ["I-defect", "needs-triaging", "G-geckodriver"], "State": "closed", "Author": "reece-white"}
+{"issue_number": 11637, "created_at": "2023-02-09", "closed_at": "2023-02-09", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "malorny"}
+{"issue_number": 11636, "created_at": "2023-02-09", "closed_at": "2023-02-10", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "joerg1985"}
+{"issue_number": 11635, "created_at": "2023-02-09", "closed_at": "2023-02-10", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Mathan31"}
+{"issue_number": 11634, "created_at": "2023-02-08", "closed_at": "2023-02-08", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "drheld"}
+{"issue_number": 11633, "created_at": "2023-02-08", "closed_at": "2023-02-14", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "huajingtong"}
+{"issue_number": 11632, "created_at": "2023-02-08", "closed_at": "2023-02-08", "labels": ["I-question"], "State": "closed", "Author": "Gowtham7707"}
+{"issue_number": 11631, "created_at": "2023-02-08", "closed_at": "2023-02-08", "labels": ["I-question"], "State": "closed", "Author": "wang3156"}
+{"issue_number": 11628, "created_at": "2023-02-07", "closed_at": "2023-02-08", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "jdashton"}
+{"issue_number": 11627, "created_at": "2023-02-07", "closed_at": "2023-02-08", "labels": ["I-defect", "G-chromedriver"], "State": "closed", "Author": "nainighai-iqa"}
+{"issue_number": 11625, "created_at": "2023-02-07", "closed_at": "2023-03-08", "labels": ["I-needs investigation"], "State": "closed", "Author": "mpstellar"}
+{"issue_number": 11624, "created_at": "2023-02-07", "closed_at": "2023-02-07", "labels": ["I-question"], "State": "closed", "Author": "gadgadskiy"}
+{"issue_number": 11621, "created_at": "2023-02-07", "closed_at": "2023-02-07", "labels": ["I-question"], "State": "closed", "Author": "Gowtham7707"}
+{"issue_number": 11620, "created_at": "2023-02-06", "closed_at": "2023-02-11", "labels": ["R-awaiting answer", "C-java", "C-rust"], "State": "closed", "Author": "attila-fazekas"}
+{"issue_number": 11619, "created_at": "2023-02-06", "closed_at": "2023-02-17", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "State": "closed", "Author": "dsouznelson"}
+{"issue_number": 11618, "created_at": "2023-02-06", "closed_at": "2023-02-06", "labels": ["I-issue-template", "I-question"], "State": "closed", "Author": "xxxxxxH"}
+{"issue_number": 11617, "created_at": "2023-02-06", "closed_at": "2023-02-24", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "remyanekkuth"}
+{"issue_number": 11616, "created_at": "2023-02-04", "closed_at": "2023-02-17", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "RenderMichael"}
+{"issue_number": 11615, "created_at": "2023-02-04", "closed_at": "2023-02-06", "labels": ["I-defect", "I-question", "G-geckodriver"], "State": "closed", "Author": "Mr-Spade"}
+{"issue_number": 11614, "created_at": "2023-02-04", "closed_at": "2023-02-04", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "TolstoyDotCom"}
+{"issue_number": 11613, "created_at": "2023-02-03", "closed_at": "2023-03-15", "labels": ["R-awaiting answer"], "State": "closed", "Author": "mahsumakbas"}
+{"issue_number": 11612, "created_at": "2023-02-03", "closed_at": "2023-11-10", "labels": ["C-dotnet", "I-enhancement", "I-stale"], "State": "closed", "Author": "SKumar-777"}
+{"issue_number": 11610, "created_at": "2023-02-02", "closed_at": "2023-02-02", "labels": ["I-question"], "State": "closed", "Author": "MohamedAbdelgayed97"}
+{"issue_number": 11608, "created_at": "2023-02-01", "closed_at": "2023-02-02", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "aditya-qapitol"}
+{"issue_number": 11607, "created_at": "2023-02-01", "closed_at": null, "labels": ["C-grid", "I-defect", "help wanted"], "State": "open", "Author": "arnonax-tr"}
+{"issue_number": 11606, "created_at": "2023-02-01", "closed_at": "2023-02-27", "labels": ["C-java", "I-defect", "C-devtools"], "State": "closed", "Author": "MakKeywa"}
+{"issue_number": 11605, "created_at": "2023-02-01", "closed_at": "2023-02-01", "labels": ["G-chromedriver", "G-msedgedriver"], "State": "closed", "Author": "erik-rnbt"}
+{"issue_number": 11602, "created_at": "2023-01-31", "closed_at": "2023-01-31", "labels": ["I-defect", "I-question"], "State": "closed", "Author": "shravanv1"}
+{"issue_number": 11600, "created_at": "2023-01-31", "closed_at": "2023-02-24", "labels": ["C-rb", "I-defect", "I-question"], "State": "closed", "Author": "sauravdas1997"}
+{"issue_number": 11599, "created_at": "2023-01-30", "closed_at": "2023-04-21", "labels": ["C-py", "C-rb", "C-dotnet", "C-java", "C-nodejs", "I-enhancement"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11596, "created_at": "2023-01-30", "closed_at": "2023-02-19", "labels": ["C-grid", "I-defect", "I-issue-template"], "State": "closed", "Author": "ShadowLNC"}
+{"issue_number": 11595, "created_at": "2023-01-28", "closed_at": "2023-01-30", "labels": ["G-chromedriver"], "State": "closed", "Author": "nnson0310"}
+{"issue_number": 11593, "created_at": "2023-01-26", "closed_at": "2023-03-15", "labels": ["R-awaiting answer"], "State": "closed", "Author": "arnonax-tr"}
+{"issue_number": 11592, "created_at": "2023-01-25", "closed_at": "2023-01-30", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "AndreasPetersen"}
+{"issue_number": 11591, "created_at": "2023-01-24", "closed_at": "2023-01-24", "labels": ["I-enhancement", "needs-triaging"], "State": "closed", "Author": "RenderMichael"}
+{"issue_number": 11590, "created_at": "2023-01-24", "closed_at": "2023-05-02", "labels": ["C-grid", "I-defect"], "State": "closed", "Author": "wodyjowski"}
+{"issue_number": 11589, "created_at": "2023-01-23", "closed_at": "2023-02-20", "labels": ["C-java", "I-defect", "I-issue-template"], "State": "closed", "Author": "csgbn"}
+{"issue_number": 11588, "created_at": "2023-01-23", "closed_at": "2023-01-23", "labels": [], "State": "closed", "Author": "ParanoikCZE"}
+{"issue_number": 11587, "created_at": "2023-01-23", "closed_at": null, "labels": ["D-firefox", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 11585, "created_at": "2023-01-23", "closed_at": "2023-02-20", "labels": ["D-IE", "I-issue-template"], "State": "closed", "Author": "nwatab"}
+{"issue_number": 11581, "created_at": "2023-01-23", "closed_at": "2023-02-02", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "ollie-iterators"}
+{"issue_number": 11580, "created_at": "2023-01-22", "closed_at": "2023-01-23", "labels": ["I-question"], "State": "closed", "Author": "hammondreg"}
+{"issue_number": 11579, "created_at": "2023-01-21", "closed_at": "2023-01-25", "labels": ["C-nodejs", "I-defect"], "State": "closed", "Author": "cbl980226"}
+{"issue_number": 11578, "created_at": "2023-01-21", "closed_at": null, "labels": ["R-awaiting answer", "C-dotnet"], "State": "open", "Author": "nwatab"}
+{"issue_number": 11577, "created_at": "2023-01-21", "closed_at": "2023-01-21", "labels": ["I-question"], "State": "closed", "Author": "frank505"}
+{"issue_number": 11576, "created_at": "2023-01-21", "closed_at": "2023-11-10", "labels": ["C-rb", "I-defect"], "State": "closed", "Author": "mwgkgk"}
+{"issue_number": 11574, "created_at": "2023-01-20", "closed_at": "2023-01-23", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "Tyutyunov"}
+{"issue_number": 11573, "created_at": "2023-01-20", "closed_at": "2023-01-31", "labels": ["C-java", "I-defect", "C-devtools"], "State": "closed", "Author": "Shivshive"}
+{"issue_number": 11572, "created_at": "2023-01-20", "closed_at": "2023-01-20", "labels": [], "State": "closed", "Author": "egorsh0"}
+{"issue_number": 11571, "created_at": "2023-01-20", "closed_at": "2023-01-23", "labels": ["I-defect", "I-issue-template", "G-chromedriver"], "State": "closed", "Author": "RanjithKumarGundloori"}
+{"issue_number": 11570, "created_at": "2023-01-19", "closed_at": null, "labels": ["A-needs new owner", "I-enhancement"], "State": "open", "Author": "garg3133"}
+{"issue_number": 11569, "created_at": "2023-01-19", "closed_at": "2023-01-19", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "darrenvechain"}
+{"issue_number": 11567, "created_at": "2023-01-18", "closed_at": "2023-01-27", "labels": ["R-awaiting answer", "I-enhancement"], "State": "closed", "Author": "workatecesisnathaniel"}
+{"issue_number": 11566, "created_at": "2023-01-18", "closed_at": "2023-01-20", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "janonymus"}
+{"issue_number": 11565, "created_at": "2023-01-18", "closed_at": "2023-01-18", "labels": [], "State": "closed", "Author": "SanjaSiskovicVasiljevic"}
+{"issue_number": 11564, "created_at": "2023-01-17", "closed_at": "2023-01-18", "labels": [], "State": "closed", "Author": "keerthiGit-SDET"}
+{"issue_number": 11562, "created_at": "2023-01-17", "closed_at": "2023-01-23", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "MajinKLS"}
+{"issue_number": 11561, "created_at": "2023-01-17", "closed_at": "2023-01-17", "labels": ["I-defect", "needs-triaging", "G-geckodriver"], "State": "closed", "Author": "v0idname"}
+{"issue_number": 11559, "created_at": "2023-01-17", "closed_at": "2023-01-17", "labels": [], "State": "closed", "Author": "djavvadi"}
+{"issue_number": 11556, "created_at": "2023-01-16", "closed_at": "2023-06-09", "labels": ["C-java", "I-defect", "I-issue-template"], "State": "closed", "Author": "yuruotong1"}
+{"issue_number": 11555, "created_at": "2023-01-16", "closed_at": "2023-01-16", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "alexsch01"}
+{"issue_number": 11554, "created_at": "2023-01-16", "closed_at": "2023-01-16", "labels": [], "State": "closed", "Author": "helloworld213"}
+{"issue_number": 11550, "created_at": "2023-01-15", "closed_at": "2023-02-27", "labels": ["C-java", "I-defect"], "State": "closed", "Author": "RussiaVk"}
+{"issue_number": 11549, "created_at": "2023-01-15", "closed_at": "2023-01-16", "labels": ["R-awaiting answer", "I-defect"], "State": "closed", "Author": "Xinyu-Wu-0000"}
+{"issue_number": 11548, "created_at": "2023-01-14", "closed_at": "2023-01-14", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "cpeck-rmvd"}
+{"issue_number": 11547, "created_at": "2023-01-13", "closed_at": "2023-01-13", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "dariopnc"}
+{"issue_number": 11543, "created_at": "2023-01-12", "closed_at": "2023-01-27", "labels": ["R-awaiting answer", "C-py", "I-defect"], "State": "closed", "Author": "markman641"}
+{"issue_number": 11542, "created_at": "2023-01-12", "closed_at": "2023-01-12", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "gitfibcucumber"}
+{"issue_number": 11540, "created_at": "2023-01-12", "closed_at": "2023-01-12", "labels": ["I-question"], "State": "closed", "Author": "amitkpal83"}
+{"issue_number": 11536, "created_at": "2023-01-11", "closed_at": "2023-01-11", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "ascendantofrain"}
+{"issue_number": 11534, "created_at": "2023-01-11", "closed_at": "2023-01-11", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "jaca786"}
+{"issue_number": 11533, "created_at": "2023-01-10", "closed_at": "2023-01-10", "labels": ["I-question"], "State": "closed", "Author": "Canario0001"}
+{"issue_number": 11530, "created_at": "2023-01-10", "closed_at": "2023-01-10", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "State": "closed", "Author": "tjhlansbergen"}
+{"issue_number": 11528, "created_at": "2023-01-09", "closed_at": "2023-01-09", "labels": ["I-question"], "State": "closed", "Author": "dbire"}
+{"issue_number": 11526, "created_at": "2023-01-09", "closed_at": "2023-10-06", "labels": ["C-java", "I-enhancement"], "State": "closed", "Author": "pujagani"}
+{"issue_number": 11525, "created_at": "2023-01-08", "closed_at": "2023-01-09", "labels": ["I-defect"], "State": "closed", "Author": "helloworld213"}
+{"issue_number": 11522, "created_at": "2023-01-07", "closed_at": "2023-03-15", "labels": ["I-enhancement", "C-rust"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11519, "created_at": "2023-01-06", "closed_at": null, "labels": ["I-enhancement", "help wanted"], "State": "open", "Author": "shmikkil"}
+{"issue_number": 11518, "created_at": "2023-01-06", "closed_at": "2023-02-15", "labels": ["C-grid", "R-awaiting answer", "I-defect"], "State": "closed", "Author": "muodov"}
+{"issue_number": 11517, "created_at": "2023-01-06", "closed_at": "2023-02-21", "labels": ["C-py", "C-rb", "C-dotnet", "C-java", "C-nodejs", "I-enhancement", "C-rust"], "State": "closed", "Author": "titusfortner"}
+{"issue_number": 11516, "created_at": "2023-01-05", "closed_at": "2023-01-09", "labels": ["I-defect", "I-issue-template"], "State": "closed", "Author": "rcornelsen-iccu"}
+{"issue_number": 11514, "created_at": "2023-01-05", "closed_at": "2023-01-05", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "balloumn"}
+{"issue_number": 11512, "created_at": "2023-01-04", "closed_at": null, "labels": ["A-needs new owner", "I-enhancement"], "State": "open", "Author": "titusfortner"}
+{"issue_number": 11506, "created_at": "2023-01-03", "closed_at": "2023-01-03", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "andrykonchin"}
+{"issue_number": 11505, "created_at": "2023-01-03", "closed_at": "2023-01-03", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "BilalKamran"}
+{"issue_number": 11501, "created_at": "2022-12-31", "closed_at": "2023-01-01", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "jackrodgers3"}
+{"issue_number": 11498, "created_at": "2022-12-31", "closed_at": "2023-01-02", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "mtasaka"}
+{"issue_number": 11494, "created_at": "2022-12-29", "closed_at": "2022-12-30", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "d-sprasad"}
+{"issue_number": 11493, "created_at": "2022-12-28", "closed_at": "2023-02-20", "labels": ["C-grid", "I-defect", "I-issue-template"], "State": "closed", "Author": "dylanz666"}
+{"issue_number": 11492, "created_at": "2022-12-28", "closed_at": "2023-01-02", "labels": ["I-defect", "I-issue-template", "needs-triaging"], "State": "closed", "Author": "sdet-ab"}
+{"issue_number": 11490, "created_at": "2022-12-27", "closed_at": "2022-12-27", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "murilonerdx"}
+{"issue_number": 11489, "created_at": "2022-12-27", "closed_at": "2022-12-27", "labels": ["I-defect", "needs-triaging"], "State": "closed", "Author": "Jonsch-HTL"}
+{"issue_number": 11488, "created_at": "2022-12-27", "closed_at": "2022-12-27", "labels": ["I-defect", "I-question", "needs-triaging"], "State": "closed", "Author": "jackgoldsmith4"}
+{"issue_number": 11487, "created_at": "2022-12-27", "closed_at": "2023-10-17", "labels": ["C-dotnet", "I-enhancement", "I-stale"], "State": "closed", "Author": "hikaru1337"}

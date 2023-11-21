@@ -1,0 +1,1000 @@
+{"issue_number": 64303, "created_at": "2023-11-21", "closed_at": null, "labels": ["Documentation"], "State": "open", "Author": "your-diary"}
+{"issue_number": 64302, "created_at": "2023-11-21", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64301, "created_at": "2023-11-21", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "findleyr"}
+{"issue_number": 64298, "created_at": "2023-11-21", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "flc1125"}
+{"issue_number": 64297, "created_at": "2023-11-21", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "dashazi1806"}
+{"issue_number": 64295, "created_at": "2023-11-20", "closed_at": null, "labels": [], "State": "open", "Author": "adonovan"}
+{"issue_number": 64294, "created_at": "2023-11-20", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64293, "created_at": "2023-11-20", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "timothy-king"}
+{"issue_number": 64292, "created_at": "2023-11-20", "closed_at": null, "labels": [], "State": "open", "Author": "adonovan"}
+{"issue_number": 64291, "created_at": "2023-11-20", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "findleyr"}
+{"issue_number": 64290, "created_at": "2023-11-20", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "findleyr"}
+{"issue_number": 64289, "created_at": "2023-11-20", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64288, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": [], "State": "closed", "Author": "Meisamrzp"}
+{"issue_number": 64287, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": [], "State": "closed", "Author": "Meisamrzp"}
+{"issue_number": 64286, "created_at": "2023-11-20", "closed_at": null, "labels": ["NeedsFix", "GoCommand"], "State": "open", "Author": "joyzheng"}
+{"issue_number": 64285, "created_at": "2023-11-20", "closed_at": null, "labels": ["NeedsInvestigation", "arch-riscv"], "State": "open", "Author": "bcmills"}
+{"issue_number": 64284, "created_at": "2023-11-20", "closed_at": null, "labels": ["NeedsInvestigation", "release-blocker", "arch-ppc64x", "arch-s390x", "arch-mips"], "State": "open", "Author": "bcmills"}
+{"issue_number": 64283, "created_at": "2023-11-20", "closed_at": null, "labels": ["Documentation", "help wanted", "NeedsFix", "compiler/runtime"], "State": "open", "Author": "mauri870"}
+{"issue_number": 64282, "created_at": "2023-11-20", "closed_at": null, "labels": ["NeedsInvestigation", "GoCommand"], "State": "open", "Author": "marjus45"}
+{"issue_number": 64281, "created_at": "2023-11-20", "closed_at": null, "labels": ["NeedsFix"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 64280, "created_at": "2023-11-20", "closed_at": null, "labels": ["Documentation", "NeedsFix"], "State": "open", "Author": "johannes-riecken"}
+{"issue_number": 64279, "created_at": "2023-11-20", "closed_at": null, "labels": ["WaitingForInfo", "pkgsite", "pkgsite/package-removal"], "State": "open", "Author": "andersjohnsen"}
+{"issue_number": 64278, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": ["pkgsite"], "State": "closed", "Author": "teovilo"}
+{"issue_number": 64277, "created_at": "2023-11-20", "closed_at": null, "labels": ["NeedsFix", "release-blocker"], "State": "open", "Author": "rsc"}
+{"issue_number": 64276, "created_at": "2023-11-20", "closed_at": null, "labels": ["NeedsFix", "compiler/runtime"], "State": "open", "Author": "rsc"}
+{"issue_number": 64275, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": ["NeedsInvestigation", "GoCommand"], "State": "closed", "Author": "jingyuanliang"}
+{"issue_number": 64274, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": [], "State": "closed", "Author": "lkeix"}
+{"issue_number": 64272, "created_at": "2023-11-20", "closed_at": null, "labels": ["Performance", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "go101"}
+{"issue_number": 64271, "created_at": "2023-11-20", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "win5do"}
+{"issue_number": 64269, "created_at": "2023-11-19", "closed_at": "2023-11-20", "labels": ["OS-Darwin", "Builders", "NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64267, "created_at": "2023-11-19", "closed_at": "2023-11-21", "labels": ["WaitingForInfo", "gopls", "Tools"], "State": "closed", "Author": "raghvenders"}
+{"issue_number": 64266, "created_at": "2023-11-19", "closed_at": null, "labels": ["help wanted", "FeatureRequest", "gopls", "Tools"], "State": "open", "Author": "vikblom"}
+{"issue_number": 64265, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": [], "State": "closed", "Author": "Russkiygolod1993"}
+{"issue_number": 64264, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": [], "State": "closed", "Author": "jayofelony"}
+{"issue_number": 64262, "created_at": "2023-11-19", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 64261, "created_at": "2023-11-19", "closed_at": "2023-11-20", "labels": ["OS-OpenBSD", "NeedsInvestigation", "arch-arm64", "compiler/runtime"], "State": "closed", "Author": "rpn32"}
+{"issue_number": 64259, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": [], "State": "closed", "Author": "Msadegh18"}
+{"issue_number": 64257, "created_at": "2023-11-18", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 64256, "created_at": "2023-11-18", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 64255, "created_at": "2023-11-18", "closed_at": null, "labels": ["NeedsDecision"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 64254, "created_at": "2023-11-18", "closed_at": null, "labels": ["NeedsInvestigation", "vulncheck or vulndb"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64253, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64252, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64251, "created_at": "2023-11-17", "closed_at": null, "labels": ["help wanted", "OS-Solaris", "NeedsInvestigation"], "State": "open", "Author": "panjf2000"}
+{"issue_number": 64250, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": ["NeedsInvestigation", "gopls", "Tools", "gopls/telemetry-wins"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 64249, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": ["NeedsInvestigation", "gopls", "Tools", "gopls/telemetry-wins"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 64248, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation", "release-blocker"], "State": "open", "Author": "mateusz834"}
+{"issue_number": 64247, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": [], "State": "closed", "Author": "titpetric"}
+{"issue_number": 64246, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "sethvargo"}
+{"issue_number": 64245, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools", "gopls/telemetry-wins"], "State": "open", "Author": "adonovan"}
+{"issue_number": 64244, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 64243, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 64242, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 64241, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools", "gopls/telemetry-wins"], "State": "open", "Author": "adonovan"}
+{"issue_number": 64240, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 64239, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools", "gopls/telemetry-wins"], "State": "open", "Author": "adonovan"}
+{"issue_number": 64238, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools", "gopls/telemetry-wins"], "State": "open", "Author": "adonovan"}
+{"issue_number": 64237, "created_at": "2023-11-17", "closed_at": null, "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "open", "Author": "adonovan"}
+{"issue_number": 64236, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools", "gopls/telemetry-wins"], "State": "open", "Author": "adonovan"}
+{"issue_number": 64235, "created_at": "2023-11-17", "closed_at": null, "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "open", "Author": "adonovan"}
+{"issue_number": 64234, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 64233, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools", "gopls/telemetry-wins"], "State": "open", "Author": "adonovan"}
+{"issue_number": 64232, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": [], "State": "closed", "Author": "benorgil"}
+{"issue_number": 64231, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "grantseltzer"}
+{"issue_number": 64230, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": ["pkgsite"], "State": "closed", "Author": "MisterLis123"}
+{"issue_number": 64229, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64228, "created_at": "2023-11-17", "closed_at": null, "labels": ["LanguageChange", "v2", "Proposal", "WaitingForInfo", "error-handling"], "State": "open", "Author": "xiaokentrl"}
+{"issue_number": 64226, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": ["Proposal"], "State": "closed", "Author": "peterwillcn"}
+{"issue_number": 64223, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": [], "State": "closed", "Author": "learneryork"}
+{"issue_number": 64222, "created_at": "2023-11-17", "closed_at": null, "labels": ["Performance", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 64216, "created_at": "2023-11-17", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "WeidiDeng"}
+{"issue_number": 64224, "created_at": "2023-11-17", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "alecthomas"}
+{"issue_number": 64225, "created_at": "2023-11-17", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "muse-jimmy"}
+{"issue_number": 64215, "created_at": "2023-11-16", "closed_at": null, "labels": ["OS-Darwin", "NeedsFix"], "State": "open", "Author": "iamcalledrob"}
+{"issue_number": 64213, "created_at": "2023-11-16", "closed_at": "2023-11-20", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 64212, "created_at": "2023-11-16", "closed_at": "2023-11-20", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 64211, "created_at": "2023-11-16", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "drakkan"}
+{"issue_number": 64210, "created_at": "2023-11-16", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "extemporalgenome"}
+{"issue_number": 64209, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": ["release-blocker", "compiler/runtime"], "State": "closed", "Author": "prattmic"}
+{"issue_number": 64208, "created_at": "2023-11-16", "closed_at": null, "labels": ["NeedsFix", "early-in-cycle", "compiler/runtime"], "State": "open", "Author": "griesemer"}
+{"issue_number": 64207, "created_at": "2023-11-16", "closed_at": null, "labels": ["OS-Darwin", "Proposal"], "State": "open", "Author": "dmitshur"}
+{"issue_number": 64206, "created_at": "2023-11-16", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "Izbitzer"}
+{"issue_number": 64205, "created_at": "2023-11-16", "closed_at": "2023-11-17", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64204, "created_at": "2023-11-16", "closed_at": "2023-11-20", "labels": ["compiler/runtime"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 64203, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64201, "created_at": "2023-11-16", "closed_at": "2023-11-17", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "roman-khimov"}
+{"issue_number": 64200, "created_at": "2023-11-16", "closed_at": null, "labels": ["OS-Windows", "release-blocker", "compiler/runtime"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 64199, "created_at": "2023-11-16", "closed_at": "2023-11-17", "labels": ["Documentation", "Tools", "Analysis"], "State": "closed", "Author": "uffy"}
+{"issue_number": 64197, "created_at": "2023-11-16", "closed_at": null, "labels": ["Proposal", "generics", "TypeInference"], "State": "open", "Author": "pat42smith"}
+{"issue_number": 64196, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": ["Proposal"], "State": "closed", "Author": "QuentinFAIDIDE"}
+{"issue_number": 64195, "created_at": "2023-11-16", "closed_at": null, "labels": ["Builders", "NeedsFix"], "State": "open", "Author": "cherrymui"}
+{"issue_number": 64194, "created_at": "2023-11-15", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "dancojocaru2000"}
+{"issue_number": 64193, "created_at": "2023-11-15", "closed_at": null, "labels": ["Unfortunate", "Proposal", "GoCommand"], "State": "open", "Author": "bcmills"}
+{"issue_number": 64191, "created_at": "2023-11-15", "closed_at": "2023-11-20", "labels": ["gopls", "Tools"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 64190, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation", "arch-arm64"], "State": "closed", "Author": "shaneHowearth"}
+{"issue_number": 64189, "created_at": "2023-11-15", "closed_at": "2023-11-17", "labels": ["NeedsFix"], "State": "closed", "Author": "thanm"}
+{"issue_number": 64188, "created_at": "2023-11-15", "closed_at": "2023-11-16", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64187, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64186, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64185, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64184, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64183, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "Alonekkpthpttall"}
+{"issue_number": 64182, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["vulncheck or vulndb"], "State": "closed", "Author": "Alonekkpthpttall"}
+{"issue_number": 64181, "created_at": "2023-11-15", "closed_at": null, "labels": ["OS-Windows", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "SamuelVeloce"}
+{"issue_number": 64179, "created_at": "2023-11-15", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "powellnorma"}
+{"issue_number": 64178, "created_at": "2023-11-15", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools"], "State": "open", "Author": "rogeryk"}
+{"issue_number": 64177, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64176, "created_at": "2023-11-15", "closed_at": null, "labels": ["Builders", "NeedsFix", "new-builder"], "State": "open", "Author": "mengzhuo"}
+{"issue_number": 64175, "created_at": "2023-11-15", "closed_at": "2023-11-17", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "nywilken"}
+{"issue_number": 64174, "created_at": "2023-11-15", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "Nasfame"}
+{"issue_number": 64173, "created_at": "2023-11-15", "closed_at": null, "labels": ["WaitingForInfo", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "joepadmiraal"}
+{"issue_number": 64172, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64171, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64170, "created_at": "2023-11-15", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "sherif-elmetainy"}
+{"issue_number": 64169, "created_at": "2023-11-15", "closed_at": null, "labels": ["Documentation"], "State": "open", "Author": "jba"}
+{"issue_number": 64167, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["OS-FreeBSD", "NeedsInvestigation", "arch-riscv", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64166, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "LenaBullens"}
+{"issue_number": 64165, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "flc1125"}
+{"issue_number": 64164, "created_at": "2023-11-15", "closed_at": null, "labels": ["WaitingForInfo"], "State": "open", "Author": "rawat-divyanshu"}
+{"issue_number": 64162, "created_at": "2023-11-15", "closed_at": null, "labels": ["Proposal", "GoCommand"], "State": "open", "Author": "flimzy"}
+{"issue_number": 64161, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64159, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64160, "created_at": "2023-11-15", "closed_at": null, "labels": ["NeedsInvestigation", "telemetry"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64158, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64157, "created_at": "2023-11-15", "closed_at": null, "labels": ["NeedsInvestigation", "telemetry"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64156, "created_at": "2023-11-15", "closed_at": null, "labels": ["NeedsInvestigation", "telemetry"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64154, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64153, "created_at": "2023-11-15", "closed_at": "2023-11-16", "labels": ["NeedsInvestigation", "release-blocker", "compiler/runtime"], "State": "closed", "Author": "RuinanSun"}
+{"issue_number": 64152, "created_at": "2023-11-15", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "sedyh"}
+{"issue_number": 64151, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64150, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64149, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64148, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64147, "created_at": "2023-11-15", "closed_at": "2023-11-17", "labels": ["gopls", "Tools"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 64146, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64145, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64143, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["OS-Darwin", "NeedsInvestigation", "Debugging", "compiler/runtime"], "State": "closed", "Author": "gongxulei"}
+{"issue_number": 64142, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64141, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64140, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "State": "closed", "Author": "zhujintao"}
+{"issue_number": 64139, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64138, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64137, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64135, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64134, "created_at": "2023-11-15", "closed_at": null, "labels": ["NeedsInvestigation", "arch-loong64", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64133, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64132, "created_at": "2023-11-14", "closed_at": null, "labels": ["Documentation", "NeedsFix"], "State": "open", "Author": "3052"}
+{"issue_number": 64131, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64130, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64129, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64128, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64127, "created_at": "2023-11-14", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "griesemer"}
+{"issue_number": 64126, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64125, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64124, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64123, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64122, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64121, "created_at": "2023-11-14", "closed_at": "2023-11-16", "labels": ["gopls", "Tools"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 64120, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64119, "created_at": "2023-11-14", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64118, "created_at": "2023-11-14", "closed_at": null, "labels": ["LanguageChange", "v2", "Proposal"], "State": "open", "Author": "raghvenders"}
+{"issue_number": 64116, "created_at": "2023-11-14", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "justpretending"}
+{"issue_number": 64115, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": [], "State": "closed", "Author": "gavD"}
+{"issue_number": 64114, "created_at": "2023-11-14", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "tttoad"}
+{"issue_number": 64113, "created_at": "2023-11-14", "closed_at": null, "labels": ["NeedsFix", "release-blocker", "compiler/runtime"], "State": "open", "Author": "mauri870"}
+{"issue_number": 64112, "created_at": "2023-11-14", "closed_at": null, "labels": ["vulncheck or vulndb"], "State": "open", "Author": "porridge"}
+{"issue_number": 64111, "created_at": "2023-11-14", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gucio321"}
+{"issue_number": 64110, "created_at": "2023-11-14", "closed_at": null, "labels": ["OS-Darwin", "Builders", "NeedsInvestigation"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64109, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": [], "State": "closed", "Author": "zengfr"}
+{"issue_number": 64108, "created_at": "2023-11-14", "closed_at": null, "labels": ["Documentation", "help wanted", "NeedsFix"], "State": "open", "Author": "DylanSp"}
+{"issue_number": 64106, "created_at": "2023-11-13", "closed_at": "2023-11-14", "labels": ["NeedsFix", "release-blocker", "compiler/runtime"], "State": "closed", "Author": "kevinburke"}
+{"issue_number": 64104, "created_at": "2023-11-13", "closed_at": null, "labels": ["WaitingForInfo", "NeedsInvestigation", "GoCommand", "modules"], "State": "open", "Author": "LordPraslea"}
+{"issue_number": 64103, "created_at": "2023-11-13", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "pgaskin"}
+{"issue_number": 64102, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": [], "State": "closed", "Author": "ruhankhandakar"}
+{"issue_number": 64101, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": [], "State": "closed", "Author": "ncw"}
+{"issue_number": 64100, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64099, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64098, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64096, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": ["NeedsInvestigation", "arch-ppc64x", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64095, "created_at": "2023-11-13", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "pgaskin"}
+{"issue_number": 64094, "created_at": "2023-11-13", "closed_at": null, "labels": ["Security", "help wanted", "NeedsInvestigation"], "State": "open", "Author": "spikecurtis"}
+{"issue_number": 64093, "created_at": "2023-11-13", "closed_at": "2023-11-15", "labels": ["Tools"], "State": "closed", "Author": "didebughu"}
+{"issue_number": 64090, "created_at": "2023-11-13", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "mitioshi"}
+{"issue_number": 64089, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": ["NeedsInvestigation", "gopls", "Tools"], "State": "closed", "Author": "myitcv"}
+{"issue_number": 64087, "created_at": "2023-11-12", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools", "gopls/telemetry-wins"], "State": "open", "Author": "adonovan"}
+{"issue_number": 64086, "created_at": "2023-11-12", "closed_at": "2023-11-18", "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 64085, "created_at": "2023-11-12", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools", "gopls/telemetry-wins"], "State": "open", "Author": "adonovan"}
+{"issue_number": 64084, "created_at": "2023-11-12", "closed_at": "2023-11-12", "labels": [], "State": "closed", "Author": "MakIcon"}
+{"issue_number": 64083, "created_at": "2023-11-12", "closed_at": null, "labels": ["gopls", "Tools", "gopls/imports"], "State": "open", "Author": "findleyr"}
+{"issue_number": 64082, "created_at": "2023-11-12", "closed_at": "2023-11-12", "labels": ["compiler/runtime"], "State": "closed", "Author": "aimuz"}
+{"issue_number": 64081, "created_at": "2023-11-12", "closed_at": "2023-11-12", "labels": ["Proposal"], "State": "closed", "Author": "mpldr"}
+{"issue_number": 64079, "created_at": "2023-11-12", "closed_at": "2023-11-12", "labels": ["LanguageChange", "v2", "Proposal"], "State": "closed", "Author": "checkm4ted"}
+{"issue_number": 64078, "created_at": "2023-11-12", "closed_at": null, "labels": ["FeatureRequest", "gopls", "Tools"], "State": "open", "Author": "tttoad"}
+{"issue_number": 64073, "created_at": "2023-11-11", "closed_at": null, "labels": ["CherryPickApproved", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64072, "created_at": "2023-11-11", "closed_at": "2023-11-11", "labels": ["pkgsite"], "State": "closed", "Author": "thanhhai1234"}
+{"issue_number": 64071, "created_at": "2023-11-11", "closed_at": "2023-11-11", "labels": [], "State": "closed", "Author": "inso"}
+{"issue_number": 64068, "created_at": "2023-11-10", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "bcmills"}
+{"issue_number": 64067, "created_at": "2023-11-10", "closed_at": "2023-11-13", "labels": ["NeedsFix", "release-blocker", "compiler/runtime"], "State": "closed", "Author": "mknyszek"}
+{"issue_number": 64066, "created_at": "2023-11-10", "closed_at": null, "labels": ["Builders", "NeedsInvestigation"], "State": "open", "Author": "dmitshur"}
+{"issue_number": 64065, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": ["NeedsInvestigation", "Tools"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64064, "created_at": "2023-11-10", "closed_at": null, "labels": ["Builders", "NeedsInvestigation"], "State": "open", "Author": "cagedmantis"}
+{"issue_number": 64063, "created_at": "2023-11-10", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation", "release-blocker", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64062, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64061, "created_at": "2023-11-10", "closed_at": "2023-11-14", "labels": ["NeedsFix", "release-blocker", "compiler/runtime"], "State": "closed", "Author": "mknyszek"}
+{"issue_number": 64060, "created_at": "2023-11-10", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64059, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": ["NeedsFix", "release-blocker", "compiler/runtime"], "State": "closed", "Author": "bcmills"}
+{"issue_number": 64057, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": [], "State": "closed", "Author": "Chise1"}
+{"issue_number": 64055, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64054, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64053, "created_at": "2023-11-10", "closed_at": "2023-11-13", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "bgentry"}
+{"issue_number": 64051, "created_at": "2023-11-10", "closed_at": null, "labels": ["WaitingForInfo"], "State": "open", "Author": "PaulForgey-Discovery"}
+{"issue_number": 64050, "created_at": "2023-11-09", "closed_at": "2023-11-13", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64049, "created_at": "2023-11-09", "closed_at": null, "labels": ["NeedsFix", "release-blocker", "compiler/runtime"], "State": "open", "Author": "mknyszek"}
+{"issue_number": 64048, "created_at": "2023-11-09", "closed_at": "2023-11-10", "labels": ["NeedsFix", "compiler/runtime"], "State": "closed", "Author": "mknyszek"}
+{"issue_number": 64047, "created_at": "2023-11-09", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "rolandshoemaker"}
+{"issue_number": 64046, "created_at": "2023-11-09", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "Nasfame"}
+{"issue_number": 64045, "created_at": "2023-11-09", "closed_at": null, "labels": ["Documentation", "NeedsInvestigation"], "State": "open", "Author": "vhakulinen"}
+{"issue_number": 64044, "created_at": "2023-11-09", "closed_at": null, "labels": ["Documentation", "NeedsFix", "compiler/runtime"], "State": "open", "Author": "bcmills"}
+{"issue_number": 64043, "created_at": "2023-11-09", "closed_at": null, "labels": ["vulncheck or vulndb"], "State": "open", "Author": "tatianab"}
+{"issue_number": 64042, "created_at": "2023-11-09", "closed_at": null, "labels": ["vulncheck or vulndb"], "State": "open", "Author": "tatianab"}
+{"issue_number": 64041, "created_at": "2023-11-09", "closed_at": null, "labels": ["Security", "release-blocker", "CherryPickApproved"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64040, "created_at": "2023-11-09", "closed_at": null, "labels": ["Security", "release-blocker", "CherryPickApproved"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 64039, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": [], "State": "closed", "Author": "prymitive"}
+{"issue_number": 64038, "created_at": "2023-11-09", "closed_at": null, "labels": ["RaceDetector", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "bcmills"}
+{"issue_number": 64037, "created_at": "2023-11-09", "closed_at": null, "labels": ["help wanted", "FeatureRequest", "gopls", "Tools"], "State": "open", "Author": "rogeryk"}
+{"issue_number": 64036, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": [], "State": "closed", "Author": "prr123"}
+{"issue_number": 64035, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["gopls", "Tools"], "State": "closed", "Author": "coderj001"}
+{"issue_number": 64034, "created_at": "2023-11-09", "closed_at": "2023-11-13", "labels": ["NeedsFix"], "State": "closed", "Author": "holiman"}
+{"issue_number": 64033, "created_at": "2023-11-09", "closed_at": null, "labels": ["NeedsFix", "release-blocker"], "State": "open", "Author": "catenacyber"}
+{"issue_number": 64032, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": [], "State": "closed", "Author": "gucio321"}
+{"issue_number": 64031, "created_at": "2023-11-09", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "aimuz"}
+{"issue_number": 64030, "created_at": "2023-11-09", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "vlasisPit"}
+{"issue_number": 64029, "created_at": "2023-11-09", "closed_at": null, "labels": ["NeedsInvestigation", "mobile"], "State": "open", "Author": "Gaal123"}
+{"issue_number": 64028, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["Security", "OS-Windows", "NeedsInvestigation", "release-blocker"], "State": "closed", "Author": "calmh"}
+{"issue_number": 64026, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": [], "State": "closed", "Author": "superajun-wsj"}
+{"issue_number": 64023, "created_at": "2023-11-08", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "findleyr"}
+{"issue_number": 64022, "created_at": "2023-11-08", "closed_at": null, "labels": ["NeedsInvestigation", "GoCommand"], "State": "open", "Author": "bcmills"}
+{"issue_number": 64021, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64020, "created_at": "2023-11-08", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "yznima"}
+{"issue_number": 64019, "created_at": "2023-11-08", "closed_at": null, "labels": ["Testing", "NeedsFix", "GoCommand"], "State": "open", "Author": "bcmills"}
+{"issue_number": 64018, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64017, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["Testing", "GoCommand"], "State": "closed", "Author": "bcmills"}
+{"issue_number": 64016, "created_at": "2023-11-08", "closed_at": null, "labels": ["NeedsFix", "proxy.golang.org"], "State": "open", "Author": "bcmills"}
+{"issue_number": 64015, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["WaitingForInfo"], "State": "closed", "Author": "bentcoder"}
+{"issue_number": 64014, "created_at": "2023-11-08", "closed_at": null, "labels": ["NeedsInvestigation", "GoCommand", "compiler/runtime"], "State": "open", "Author": "bcmills"}
+{"issue_number": 64013, "created_at": "2023-11-08", "closed_at": "2023-11-09", "labels": ["Documentation"], "State": "closed", "Author": "gazerro"}
+{"issue_number": 64012, "created_at": "2023-11-08", "closed_at": null, "labels": ["Proposal", "release-blocker"], "State": "open", "Author": "mateusz834"}
+{"issue_number": 64011, "created_at": "2023-11-08", "closed_at": "2023-11-15", "labels": ["NeedsInvestigation", "gopls", "Tools", "gopls/performance"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 64010, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["NeedsInvestigation", "GoCommand"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64009, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 64008, "created_at": "2023-11-08", "closed_at": null, "labels": ["Proposal", "GoCommand"], "State": "open", "Author": "bcmills"}
+{"issue_number": 64007, "created_at": "2023-11-08", "closed_at": null, "labels": ["NeedsInvestigation", "GoCommand"], "State": "open", "Author": "lpar"}
+{"issue_number": 64006, "created_at": "2023-11-08", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "msteinert"}
+{"issue_number": 64005, "created_at": "2023-11-08", "closed_at": "2023-11-10", "labels": ["WaitingForInfo"], "State": "closed", "Author": "wulianglongrd"}
+{"issue_number": 64004, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["pkgsite"], "State": "closed", "Author": "VEDANTDOKANIA"}
+{"issue_number": 64000, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["Testing", "NeedsFix"], "State": "closed", "Author": "aimuz"}
+{"issue_number": 63999, "created_at": "2023-11-08", "closed_at": null, "labels": ["Performance", "Proposal"], "State": "open", "Author": "mauri870"}
+{"issue_number": 63998, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": [], "State": "closed", "Author": "prr123"}
+{"issue_number": 63997, "created_at": "2023-11-08", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools"], "State": "open", "Author": "koliyo"}
+{"issue_number": 63996, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": [], "State": "closed", "Author": "nodir-t"}
+{"issue_number": 63995, "created_at": "2023-11-07", "closed_at": null, "labels": ["OS-Darwin", "WaitingForInfo", "NeedsInvestigation"], "State": "open", "Author": "sinukus"}
+{"issue_number": 63994, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["Testing", "CherryPickApproved", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63993, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["Testing", "NeedsFix", "compiler/runtime"], "State": "closed", "Author": "dmitshur"}
+{"issue_number": 63992, "created_at": "2023-11-07", "closed_at": null, "labels": ["Builders", "NeedsFix"], "State": "open", "Author": "cagedmantis"}
+{"issue_number": 63991, "created_at": "2023-11-07", "closed_at": "2023-11-15", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63989, "created_at": "2023-11-07", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63988, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["GoCommand", "CherryPickApproved"], "State": "closed", "Author": "heschi"}
+{"issue_number": 63987, "created_at": "2023-11-07", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "shomron"}
+{"issue_number": 63984, "created_at": "2023-11-07", "closed_at": null, "labels": ["CherryPickApproved", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63983, "created_at": "2023-11-07", "closed_at": null, "labels": ["CherryPickApproved", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63982, "created_at": "2023-11-07", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "dominikh"}
+{"issue_number": 63981, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["WaitingForInfo", "NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "qqxhb"}
+{"issue_number": 63979, "created_at": "2023-11-07", "closed_at": null, "labels": ["NeedsFix"], "State": "open", "Author": "aimuz"}
+{"issue_number": 63978, "created_at": "2023-11-07", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "mateusz834"}
+{"issue_number": 63977, "created_at": "2023-11-07", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "nnzv"}
+{"issue_number": 63976, "created_at": "2023-11-07", "closed_at": "2023-11-11", "labels": ["Proposal"], "State": "closed", "Author": "amiremohamadi"}
+{"issue_number": 63975, "created_at": "2023-11-07", "closed_at": null, "labels": ["pkgsite"], "State": "open", "Author": "viocha"}
+{"issue_number": 63974, "created_at": "2023-11-07", "closed_at": "2023-11-15", "labels": ["NeedsFix"], "State": "closed", "Author": "griesemer"}
+{"issue_number": 63973, "created_at": "2023-11-06", "closed_at": null, "labels": ["GoCommand", "release-blocker", "CherryPickApproved"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63972, "created_at": "2023-11-06", "closed_at": null, "labels": ["GoCommand", "release-blocker", "CherryPickApproved"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63971, "created_at": "2023-11-06", "closed_at": "2023-11-07", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63970, "created_at": "2023-11-06", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "Nasfame"}
+{"issue_number": 63969, "created_at": "2023-11-06", "closed_at": "2023-11-08", "labels": ["NeedsFix"], "State": "closed", "Author": "brycekahle"}
+{"issue_number": 63968, "created_at": "2023-11-06", "closed_at": null, "labels": ["NeedsFix", "pkgsite"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63967, "created_at": "2023-11-06", "closed_at": "2023-11-06", "labels": ["vulncheck or vulndb"], "State": "closed", "Author": "bcmills"}
+{"issue_number": 63966, "created_at": "2023-11-06", "closed_at": "2023-11-06", "labels": ["Unfortunate", "ToolSpeed", "NeedsInvestigation"], "State": "closed", "Author": "catenacyber"}
+{"issue_number": 63964, "created_at": "2023-11-06", "closed_at": "2023-11-06", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 63963, "created_at": "2023-11-06", "closed_at": null, "labels": ["Proposal", "Proposal-Crypto"], "State": "open", "Author": "mrwonko"}
+{"issue_number": 63962, "created_at": "2023-11-06", "closed_at": "2023-11-18", "labels": ["Proposal"], "State": "closed", "Author": "alex-matei"}
+{"issue_number": 63961, "created_at": "2023-11-06", "closed_at": null, "labels": ["LanguageChange", "v2", "Proposal", "WaitingForInfo", "error-handling"], "State": "open", "Author": "xiaokentrl"}
+{"issue_number": 63960, "created_at": "2023-11-06", "closed_at": null, "labels": ["NeedsFix", "compiler/runtime"], "State": "open", "Author": "felixge"}
+{"issue_number": 64227, "created_at": "2023-11-06", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "husamettinarabaci"}
+{"issue_number": 63958, "created_at": "2023-11-05", "closed_at": "2023-11-06", "labels": [], "State": "closed", "Author": "SKumarSpace"}
+{"issue_number": 63957, "created_at": "2023-11-05", "closed_at": "2023-11-05", "labels": [], "State": "closed", "Author": "Luis4020"}
+{"issue_number": 63955, "created_at": "2023-11-05", "closed_at": "2023-11-07", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "fzipp"}
+{"issue_number": 63953, "created_at": "2023-11-05", "closed_at": "2023-11-05", "labels": ["arch-wasm", "compiler/runtime"], "State": "closed", "Author": "mauri870"}
+{"issue_number": 63952, "created_at": "2023-11-05", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "benbaker76"}
+{"issue_number": 63951, "created_at": "2023-11-05", "closed_at": "2023-11-05", "labels": [], "State": "closed", "Author": "Luis4020"}
+{"issue_number": 63950, "created_at": "2023-11-05", "closed_at": null, "labels": ["NeedsDecision", "Tools"], "State": "open", "Author": "achenet"}
+{"issue_number": 63949, "created_at": "2023-11-05", "closed_at": null, "labels": ["Proposal", "Proposal-Crypto"], "State": "open", "Author": "35niavlys"}
+{"issue_number": 63948, "created_at": "2023-11-05", "closed_at": "2023-11-05", "labels": ["LanguageChange", "v2", "Proposal"], "State": "closed", "Author": "rahulRedie"}
+{"issue_number": 63946, "created_at": "2023-11-04", "closed_at": "2023-11-13", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "tiagomelo"}
+{"issue_number": 63945, "created_at": "2023-11-04", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "mitar"}
+{"issue_number": 63944, "created_at": "2023-11-04", "closed_at": "2023-11-13", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "ruralcoder"}
+{"issue_number": 63942, "created_at": "2023-11-03", "closed_at": null, "labels": ["Documentation", "NeedsInvestigation"], "State": "open", "Author": "dsnet"}
+{"issue_number": 63941, "created_at": "2023-11-03", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "dsnet"}
+{"issue_number": 63940, "created_at": "2023-11-03", "closed_at": null, "labels": ["NeedsInvestigation", "umbrella"], "State": "open", "Author": "griesemer"}
+{"issue_number": 63939, "created_at": "2023-11-03", "closed_at": null, "labels": ["NeedsFix", "GoCommand"], "State": "open", "Author": "hyangah"}
+{"issue_number": 63938, "created_at": "2023-11-03", "closed_at": "2023-11-21", "labels": ["OS-Windows", "NeedsInvestigation", "release-blocker", "arch-arm64", "compiler/runtime"], "State": "closed", "Author": "cherrymui"}
+{"issue_number": 63937, "created_at": "2023-11-03", "closed_at": null, "labels": ["OS-Darwin", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "bcmills"}
+{"issue_number": 63936, "created_at": "2023-11-03", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "marten-seemann"}
+{"issue_number": 63935, "created_at": "2023-11-03", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "nmeum"}
+{"issue_number": 63934, "created_at": "2023-11-03", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "znkr"}
+{"issue_number": 63932, "created_at": "2023-11-03", "closed_at": "2023-11-03", "labels": ["Unfortunate", "GoCommand"], "State": "closed", "Author": "mvasi90"}
+{"issue_number": 63931, "created_at": "2023-11-03", "closed_at": "2023-11-06", "labels": [], "State": "closed", "Author": "3goats"}
+{"issue_number": 63930, "created_at": "2023-11-03", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools"], "State": "open", "Author": "tttoad"}
+{"issue_number": 63929, "created_at": "2023-11-03", "closed_at": null, "labels": ["Proposal", "Tools", "Analysis"], "State": "open", "Author": "Antonboom"}
+{"issue_number": 63927, "created_at": "2023-11-03", "closed_at": "2023-11-06", "labels": ["WaitingForInfo"], "State": "closed", "Author": "lyouthzzz"}
+{"issue_number": 63925, "created_at": "2023-11-03", "closed_at": "2023-11-06", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "aimuz"}
+{"issue_number": 63924, "created_at": "2023-11-03", "closed_at": null, "labels": ["WaitingForInfo", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "cuishuang"}
+{"issue_number": 63922, "created_at": "2023-11-03", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "raghvenders"}
+{"issue_number": 63921, "created_at": "2023-11-03", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63933, "created_at": "2023-11-03", "closed_at": null, "labels": ["WaitingForInfo", "NeedsInvestigation", "gopls", "Tools", "TypeInference"], "State": "open", "Author": "ForrestLinjianLi"}
+{"issue_number": 63920, "created_at": "2023-11-02", "closed_at": "2023-11-07", "labels": ["Documentation", "NeedsFix"], "State": "closed", "Author": "c-kruse"}
+{"issue_number": 63919, "created_at": "2023-11-02", "closed_at": null, "labels": ["Documentation", "NeedsInvestigation"], "State": "open", "Author": "dsnet"}
+{"issue_number": 63918, "created_at": "2023-11-02", "closed_at": null, "labels": ["Documentation", "NeedsInvestigation"], "State": "open", "Author": "dsnet"}
+{"issue_number": 63917, "created_at": "2023-11-02", "closed_at": null, "labels": ["gopls", "Tools", "gopls/metadata"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63916, "created_at": "2023-11-02", "closed_at": "2023-11-06", "labels": ["NeedsDecision"], "State": "closed", "Author": "mateusz834"}
+{"issue_number": 63915, "created_at": "2023-11-02", "closed_at": null, "labels": ["Documentation", "NeedsInvestigation"], "State": "open", "Author": "dsnet"}
+{"issue_number": 63914, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": ["NeedsInvestigation", "GoCommand"], "State": "closed", "Author": "rogpeppe"}
+{"issue_number": 63913, "created_at": "2023-11-02", "closed_at": "2023-11-08", "labels": ["NeedsFix"], "State": "closed", "Author": "gazerro"}
+{"issue_number": 63912, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": [], "State": "closed", "Author": "mtk1989"}
+{"issue_number": 63911, "created_at": "2023-11-02", "closed_at": null, "labels": ["Testing", "Builders", "CherryPickApproved", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63910, "created_at": "2023-11-02", "closed_at": null, "labels": ["Testing", "Builders", "CherryPickApproved", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63909, "created_at": "2023-11-02", "closed_at": "2023-11-03", "labels": ["NeedsFix", "release-blocker"], "State": "closed", "Author": "rolandshoemaker"}
+{"issue_number": 63907, "created_at": "2023-11-02", "closed_at": "2023-11-07", "labels": ["NeedsDecision"], "State": "closed", "Author": "rolandshoemaker"}
+{"issue_number": 63904, "created_at": "2023-11-02", "closed_at": null, "labels": ["Proposal", "arch-wasm"], "State": "open", "Author": "mihaiav"}
+{"issue_number": 63903, "created_at": "2023-11-02", "closed_at": null, "labels": ["NeedsDecision", "compiler/runtime"], "State": "open", "Author": "williamh"}
+{"issue_number": 63902, "created_at": "2023-11-02", "closed_at": "2023-11-06", "labels": ["WaitingForInfo"], "State": "closed", "Author": "StephanVerbeeck"}
+{"issue_number": 63901, "created_at": "2023-11-02", "closed_at": null, "labels": ["WaitingForInfo", "NeedsInvestigation", "GoCommand", "modules"], "State": "open", "Author": "rogpeppe"}
+{"issue_number": 63900, "created_at": "2023-11-02", "closed_at": null, "labels": ["OS-OpenBSD", "NeedsFix"], "State": "open", "Author": "4a6f656c"}
+{"issue_number": 63898, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": [], "State": "closed", "Author": "jeschkies"}
+{"issue_number": 63892, "created_at": "2023-11-02", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63891, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": ["NeedsFix", "release-blocker"], "State": "closed", "Author": "griesemer"}
+{"issue_number": 63890, "created_at": "2023-11-01", "closed_at": "2023-11-05", "labels": ["Proposal"], "State": "closed", "Author": "1f604"}
+{"issue_number": 63889, "created_at": "2023-11-01", "closed_at": "2023-11-03", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cherrymui"}
+{"issue_number": 63888, "created_at": "2023-11-01", "closed_at": null, "labels": ["NeedsFix", "release-blocker", "Tools", "Analysis"], "State": "open", "Author": "timothy-king"}
+{"issue_number": 63887, "created_at": "2023-11-01", "closed_at": "2023-11-06", "labels": ["NeedsDecision"], "State": "closed", "Author": "rhysh"}
+{"issue_number": 63886, "created_at": "2023-11-01", "closed_at": "2023-11-02", "labels": ["compiler/runtime"], "State": "closed", "Author": "nevkontakte"}
+{"issue_number": 63885, "created_at": "2023-11-01", "closed_at": null, "labels": ["WaitingForInfo", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63884, "created_at": "2023-11-01", "closed_at": null, "labels": ["NeedsFix", "telemetry"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63883, "created_at": "2023-11-01", "closed_at": null, "labels": ["NeedsFix", "telemetry"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63882, "created_at": "2023-11-01", "closed_at": null, "labels": ["WaitingForInfo"], "State": "open", "Author": "dbernadett"}
+{"issue_number": 63881, "created_at": "2023-11-01", "closed_at": null, "labels": ["vulncheck or vulndb"], "State": "open", "Author": "tatianab"}
+{"issue_number": 63880, "created_at": "2023-11-01", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "abdullah-alaadine"}
+{"issue_number": 63878, "created_at": "2023-11-01", "closed_at": "2023-11-07", "labels": ["LanguageChange", "v2", "Proposal", "Proposal-FinalCommentPeriod"], "State": "closed", "Author": "iFrozenPhoenix"}
+{"issue_number": 63876, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63875, "created_at": "2023-11-01", "closed_at": null, "labels": ["Testing", "Builders", "NeedsFix", "compiler/runtime"], "State": "open", "Author": "prattmic"}
+{"issue_number": 63873, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["NeedsInvestigation", "TypeInference", "compiler/runtime"], "State": "closed", "Author": "aykevl"}
+{"issue_number": 63872, "created_at": "2023-11-01", "closed_at": null, "labels": ["help wanted", "Builders", "NeedsFix", "compiler/runtime"], "State": "open", "Author": "rsc"}
+{"issue_number": 63871, "created_at": "2023-11-01", "closed_at": null, "labels": ["NeedsFix"], "State": "open", "Author": "rsc"}
+{"issue_number": 63868, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": [], "State": "closed", "Author": "JDGKanavi"}
+{"issue_number": 63867, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63866, "created_at": "2023-11-01", "closed_at": null, "labels": ["help wanted", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63864, "created_at": "2023-11-01", "closed_at": null, "labels": ["compiler/runtime"], "State": "open", "Author": "felixge"}
+{"issue_number": 63863, "created_at": "2023-11-01", "closed_at": "2023-11-10", "labels": ["OS-Darwin", "WaitingForInfo", "ToolSpeed", "NeedsInvestigation", "GoCommand"], "State": "closed", "Author": "alecthomas"}
+{"issue_number": 63862, "created_at": "2023-11-01", "closed_at": "2023-11-08", "labels": ["NeedsInvestigation", "Debugging", "compiler/runtime"], "State": "closed", "Author": "gnlsw"}
+{"issue_number": 63861, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["Proposal"], "State": "closed", "Author": "komisan19"}
+{"issue_number": 63858, "created_at": "2023-10-31", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "nnzv"}
+{"issue_number": 63857, "created_at": "2023-10-31", "closed_at": null, "labels": ["Documentation", "NeedsFix"], "State": "open", "Author": "griesemer"}
+{"issue_number": 63856, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": [], "State": "closed", "Author": "NehamaS"}
+{"issue_number": 63855, "created_at": "2023-10-31", "closed_at": null, "labels": [], "State": "open", "Author": "neild"}
+{"issue_number": 63853, "created_at": "2023-10-31", "closed_at": "2023-11-01", "labels": ["pkgsite", "UX"], "State": "closed", "Author": "tschaub"}
+{"issue_number": 63852, "created_at": "2023-10-31", "closed_at": "2023-11-02", "labels": ["FeatureRequest", "gopls", "Tools"], "State": "closed", "Author": "hyangah"}
+{"issue_number": 63851, "created_at": "2023-10-31", "closed_at": "2023-11-11", "labels": ["GoCommand"], "State": "closed", "Author": "bmwiedemann"}
+{"issue_number": 63850, "created_at": "2023-10-31", "closed_at": "2023-11-06", "labels": ["NeedsFix"], "State": "closed", "Author": "danwinship"}
+{"issue_number": 63849, "created_at": "2023-10-31", "closed_at": null, "labels": ["NeedsInvestigation", "Analysis"], "State": "open", "Author": "Antonboom"}
+{"issue_number": 63848, "created_at": "2023-10-31", "closed_at": null, "labels": ["NeedsInvestigation", "telemetry"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63846, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "fumeboy"}
+{"issue_number": 63845, "created_at": "2023-10-31", "closed_at": "2023-11-06", "labels": ["NeedsFix", "GoCommand", "modules"], "State": "closed", "Author": "dgl"}
+{"issue_number": 63844, "created_at": "2023-10-31", "closed_at": null, "labels": ["Performance", "Proposal", "NeedsInvestigation"], "State": "open", "Author": "normandesjr"}
+{"issue_number": 63843, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": [], "State": "closed", "Author": "shaoqingyang"}
+{"issue_number": 63841, "created_at": "2023-10-31", "closed_at": "2023-11-04", "labels": ["WaitingForInfo"], "State": "closed", "Author": "felixge"}
+{"issue_number": 63840, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": [], "State": "closed", "Author": "1AderoWycliff"}
+{"issue_number": 63839, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": ["pkgsite"], "State": "closed", "Author": "mrCleverIdiot"}
+{"issue_number": 63838, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": ["fuzz"], "State": "closed", "Author": "coventry"}
+{"issue_number": 63837, "created_at": "2023-10-31", "closed_at": "2023-11-01", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "benbaker76"}
+{"issue_number": 63835, "created_at": "2023-10-30", "closed_at": "2023-10-31", "labels": ["NeedsFix"], "State": "closed", "Author": "griesemer"}
+{"issue_number": 63834, "created_at": "2023-10-30", "closed_at": null, "labels": ["NeedsInvestigation", "gopls/parsing"], "State": "open", "Author": "griesemer"}
+{"issue_number": 63833, "created_at": "2023-10-30", "closed_at": "2023-10-31", "labels": ["OS-Linux", "NeedsFix"], "State": "closed", "Author": "mauri870"}
+{"issue_number": 63832, "created_at": "2023-10-30", "closed_at": "2023-11-16", "labels": ["Proposal", "Proposal-Accepted", "telemetry"], "State": "closed", "Author": "hyangah"}
+{"issue_number": 63831, "created_at": "2023-10-30", "closed_at": null, "labels": ["Builders", "NeedsInvestigation"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63830, "created_at": "2023-10-30", "closed_at": "2023-11-08", "labels": ["NeedsFix", "arch-arm64", "compiler/runtime"], "State": "closed", "Author": "nsrip-dd"}
+{"issue_number": 63829, "created_at": "2023-10-30", "closed_at": "2023-10-30", "labels": [], "State": "closed", "Author": "NicoNex"}
+{"issue_number": 63828, "created_at": "2023-10-30", "closed_at": "2023-11-07", "labels": ["Testing", "help wanted", "NeedsFix"], "State": "closed", "Author": "bcmills"}
+{"issue_number": 63827, "created_at": "2023-10-30", "closed_at": null, "labels": ["compiler/runtime"], "State": "open", "Author": "nevkontakte"}
+{"issue_number": 63826, "created_at": "2023-10-30", "closed_at": "2023-10-30", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63825, "created_at": "2023-10-30", "closed_at": "2023-10-30", "labels": ["telemetry"], "State": "closed", "Author": "pofl"}
+{"issue_number": 63824, "created_at": "2023-10-30", "closed_at": "2023-11-09", "labels": ["help wanted", "NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "klauspost"}
+{"issue_number": 63823, "created_at": "2023-10-30", "closed_at": "2023-10-30", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "masseelch"}
+{"issue_number": 63822, "created_at": "2023-10-30", "closed_at": null, "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63820, "created_at": "2023-10-30", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "hyangah"}
+{"issue_number": 63819, "created_at": "2023-10-30", "closed_at": null, "labels": ["Builders", "NeedsInvestigation"], "State": "open", "Author": "cagedmantis"}
+{"issue_number": 63817, "created_at": "2023-10-30", "closed_at": "2023-10-30", "labels": ["RaceDetector", "NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "egonelbre"}
+{"issue_number": 63815, "created_at": "2023-10-29", "closed_at": null, "labels": ["WaitingForInfo", "CherryPickCandidate", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63813, "created_at": "2023-10-29", "closed_at": null, "labels": ["NeedsDecision", "compiler/runtime"], "State": "open", "Author": "raghvenders"}
+{"issue_number": 63812, "created_at": "2023-10-29", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "mitar"}
+{"issue_number": 63811, "created_at": "2023-10-29", "closed_at": "2023-10-29", "labels": ["pkgsite"], "State": "closed", "Author": "bentcoder"}
+{"issue_number": 63810, "created_at": "2023-10-29", "closed_at": "2023-10-29", "labels": ["Proposal"], "State": "closed", "Author": "3052"}
+{"issue_number": 63809, "created_at": "2023-10-29", "closed_at": "2023-10-29", "labels": [], "State": "closed", "Author": "MakrandMZare"}
+{"issue_number": 63807, "created_at": "2023-10-29", "closed_at": "2023-10-29", "labels": [], "State": "closed", "Author": "lysShub"}
+{"issue_number": 63805, "created_at": "2023-10-28", "closed_at": null, "labels": ["Security", "NeedsFix"], "State": "open", "Author": "rjboer"}
+{"issue_number": 63821, "created_at": "2023-10-28", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "Carsten-Leue"}
+{"issue_number": 63804, "created_at": "2023-10-28", "closed_at": "2023-11-13", "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 63803, "created_at": "2023-10-28", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "lcheylus"}
+{"issue_number": 63802, "created_at": "2023-10-28", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63801, "created_at": "2023-10-28", "closed_at": "2023-11-08", "labels": ["CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63800, "created_at": "2023-10-28", "closed_at": "2023-11-07", "labels": ["Testing", "help wanted", "OS-Windows", "NeedsInvestigation"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 63799, "created_at": "2023-10-28", "closed_at": null, "labels": ["Tools", "Analysis"], "State": "open", "Author": "Antonboom"}
+{"issue_number": 63798, "created_at": "2023-10-28", "closed_at": "2023-10-28", "labels": [], "State": "closed", "Author": "Bistutu"}
+{"issue_number": 63797, "created_at": "2023-10-28", "closed_at": "2023-10-28", "labels": [], "State": "closed", "Author": "wxmeng04"}
+{"issue_number": 63796, "created_at": "2023-10-28", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "dolmen"}
+{"issue_number": 63795, "created_at": "2023-10-28", "closed_at": "2023-11-03", "labels": ["OS-Linux", "NeedsFix"], "State": "closed", "Author": "sebastien-rosset"}
+{"issue_number": 63794, "created_at": "2023-10-27", "closed_at": "2023-10-31", "labels": ["OS-OpenBSD", "NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "mauri870"}
+{"issue_number": 63793, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63792, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63791, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63790, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63789, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63788, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63787, "created_at": "2023-10-27", "closed_at": "2023-10-27", "labels": ["compiler/runtime"], "State": "closed", "Author": "pellared"}
+{"issue_number": 63786, "created_at": "2023-10-27", "closed_at": "2023-10-27", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63785, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Proposal"], "State": "closed", "Author": "ucirello"}
+{"issue_number": 63784, "created_at": "2023-10-27", "closed_at": "2023-10-27", "labels": [], "State": "closed", "Author": "mlucic"}
+{"issue_number": 63783, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63782, "created_at": "2023-10-27", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "cherrymui"}
+{"issue_number": 63781, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63780, "created_at": "2023-10-27", "closed_at": "2023-10-31", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63779, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63778, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63777, "created_at": "2023-10-27", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "btoews"}
+{"issue_number": 63776, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63775, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63774, "created_at": "2023-10-27", "closed_at": "2023-10-30", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 63773, "created_at": "2023-10-27", "closed_at": "2023-10-27", "labels": [], "State": "closed", "Author": "longquanzheng"}
+{"issue_number": 63771, "created_at": "2023-10-27", "closed_at": null, "labels": ["Proposal", "NeedsInvestigation", "FeatureRequest"], "State": "open", "Author": "HouseK"}
+{"issue_number": 63769, "created_at": "2023-10-27", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "meblum"}
+{"issue_number": 63768, "created_at": "2023-10-27", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "bcmills"}
+{"issue_number": 63767, "created_at": "2023-10-27", "closed_at": null, "labels": ["gopls", "Tools", "gopls/imports"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63765, "created_at": "2023-10-27", "closed_at": "2023-10-27", "labels": [], "State": "closed", "Author": "nlacey"}
+{"issue_number": 63764, "created_at": "2023-10-27", "closed_at": "2023-11-08", "labels": ["CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63763, "created_at": "2023-10-27", "closed_at": null, "labels": ["Security", "OS-Windows", "NeedsInvestigation"], "State": "open", "Author": "printfn"}
+{"issue_number": 63762, "created_at": "2023-10-27", "closed_at": null, "labels": ["OS-FreeBSD", "NeedsInvestigation", "arch-arm", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63761, "created_at": "2023-10-27", "closed_at": null, "labels": ["WaitingForInfo", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "Mr1X"}
+{"issue_number": 63760, "created_at": "2023-10-27", "closed_at": null, "labels": ["WaitingForInfo", "GoCommand", "compiler/runtime"], "State": "open", "Author": "sandy-lcq"}
+{"issue_number": 63759, "created_at": "2023-10-26", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "mitar"}
+{"issue_number": 63758, "created_at": "2023-10-26", "closed_at": null, "labels": ["help wanted", "NeedsInvestigation", "GoCommand", "modules"], "State": "open", "Author": "Fryuni"}
+{"issue_number": 63756, "created_at": "2023-10-26", "closed_at": "2023-10-30", "labels": ["gopls", "Tools"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 63755, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 63753, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "dmitshur"}
+{"issue_number": 63752, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": ["Proposal"], "State": "closed", "Author": "ftcopilot106"}
+{"issue_number": 63751, "created_at": "2023-10-26", "closed_at": "2023-10-30", "labels": ["gopls", "Tools"], "State": "closed", "Author": "sunzhy"}
+{"issue_number": 63750, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": ["compiler/runtime"], "State": "closed", "Author": "go101"}
+{"issue_number": 63749, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": [], "State": "closed", "Author": "rolfostvik"}
+{"issue_number": 63747, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": [], "State": "closed", "Author": "nicelizhi"}
+{"issue_number": 63745, "created_at": "2023-10-25", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "codcodea"}
+{"issue_number": 63744, "created_at": "2023-10-25", "closed_at": null, "labels": ["pkgsite", "pkgsite/cmd"], "State": "open", "Author": "raghvenders"}
+{"issue_number": 63743, "created_at": "2023-10-25", "closed_at": "2023-11-07", "labels": ["CherryPickApproved", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63742, "created_at": "2023-10-25", "closed_at": null, "labels": ["gopls", "Tools", "gopls/performance", "gopls/metadata"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63741, "created_at": "2023-10-25", "closed_at": null, "labels": ["Security", "Proposal", "Proposal-Accepted"], "State": "open", "Author": "rolandshoemaker"}
+{"issue_number": 63740, "created_at": "2023-10-25", "closed_at": "2023-10-30", "labels": ["CherryPickApproved"], "State": "closed", "Author": "neild"}
+{"issue_number": 63739, "created_at": "2023-10-25", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "stapelberg"}
+{"issue_number": 63738, "created_at": "2023-10-25", "closed_at": "2023-10-25", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63737, "created_at": "2023-10-25", "closed_at": null, "labels": ["OS-OpenBSD", "NeedsInvestigation"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63736, "created_at": "2023-10-25", "closed_at": "2023-11-20", "labels": ["NeedsInvestigation", "gopls", "Tools"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63735, "created_at": "2023-10-25", "closed_at": null, "labels": ["help wanted", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63734, "created_at": "2023-10-25", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63733, "created_at": "2023-10-25", "closed_at": "2023-10-27", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63732, "created_at": "2023-10-25", "closed_at": null, "labels": ["WaitingForInfo", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63731, "created_at": "2023-10-25", "closed_at": "2023-11-03", "labels": ["Testing", "OS-Darwin", "Builders", "NeedsFix"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63730, "created_at": "2023-10-25", "closed_at": "2023-10-25", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63729, "created_at": "2023-10-25", "closed_at": "2023-10-25", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63728, "created_at": "2023-10-25", "closed_at": "2023-11-01", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63727, "created_at": "2023-10-25", "closed_at": "2023-10-25", "labels": [], "State": "closed", "Author": "AdminBenni"}
+{"issue_number": 63726, "created_at": "2023-10-25", "closed_at": null, "labels": ["Performance", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "laboger"}
+{"issue_number": 63725, "created_at": "2023-10-25", "closed_at": "2023-11-02", "labels": ["NeedsFix", "arch-loong64", "compiler/runtime"], "State": "closed", "Author": "abner-chenc"}
+{"issue_number": 63724, "created_at": "2023-10-25", "closed_at": "2023-11-03", "labels": ["NeedsDecision"], "State": "closed", "Author": "callthingsoff"}
+{"issue_number": 63723, "created_at": "2023-10-25", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "marten-seemann"}
+{"issue_number": 63722, "created_at": "2023-10-25", "closed_at": null, "labels": ["NeedsFix"], "State": "open", "Author": "marten-seemann"}
+{"issue_number": 63721, "created_at": "2023-10-25", "closed_at": "2023-10-25", "labels": [], "State": "closed", "Author": "yangyile1990"}
+{"issue_number": 63720, "created_at": "2023-10-25", "closed_at": null, "labels": ["RaceDetector", "OS-Windows", "WaitingForInfo", "compiler/runtime"], "State": "open", "Author": "buguang01"}
+{"issue_number": 63719, "created_at": "2023-10-25", "closed_at": "2023-10-25", "labels": ["help wanted"], "State": "closed", "Author": "apocelipes"}
+{"issue_number": 63718, "created_at": "2023-10-24", "closed_at": "2023-11-19", "labels": ["NeedsFix", "arch-wasm"], "State": "closed", "Author": "johanbrandhorst"}
+{"issue_number": 63717, "created_at": "2023-10-24", "closed_at": null, "labels": ["gopls", "Tools", "Refactoring"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63716, "created_at": "2023-10-24", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "carlmjohnson"}
+{"issue_number": 63715, "created_at": "2023-10-24", "closed_at": "2023-11-07", "labels": ["Security", "release-blocker", "CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63714, "created_at": "2023-10-24", "closed_at": "2023-11-07", "labels": ["Security", "release-blocker", "CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63713, "created_at": "2023-10-24", "closed_at": "2023-11-07", "labels": ["Security", "release-blocker"], "State": "closed", "Author": "neild"}
+{"issue_number": 63712, "created_at": "2023-10-24", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "xaurx"}
+{"issue_number": 63711, "created_at": "2023-10-24", "closed_at": "2023-10-30", "labels": ["WaitingForInfo"], "State": "closed", "Author": "sichen1234"}
+{"issue_number": 63710, "created_at": "2023-10-24", "closed_at": null, "labels": ["Builders", "NeedsFix"], "State": "open", "Author": "cagedmantis"}
+{"issue_number": 63709, "created_at": "2023-10-24", "closed_at": null, "labels": ["telemetry"], "State": "open", "Author": "hyangah"}
+{"issue_number": 63708, "created_at": "2023-10-24", "closed_at": "2023-10-25", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "mitar"}
+{"issue_number": 63707, "created_at": "2023-10-24", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "dolmen"}
+{"issue_number": 63706, "created_at": "2023-10-24", "closed_at": "2023-11-15", "labels": ["Proposal"], "State": "closed", "Author": "mitar"}
+{"issue_number": 63703, "created_at": "2023-10-23", "closed_at": null, "labels": ["OS-Windows", "Proposal"], "State": "open", "Author": "bcmills"}
+{"issue_number": 63699, "created_at": "2023-10-23", "closed_at": "2023-10-25", "labels": ["vulncheck or vulndb"], "State": "closed", "Author": "tatianab"}
+{"issue_number": 63698, "created_at": "2023-10-23", "closed_at": null, "labels": ["OS-NetBSD", "Builders", "NeedsFix", "new-builder"], "State": "open", "Author": "bsiegert"}
+{"issue_number": 63697, "created_at": "2023-10-23", "closed_at": "2023-10-24", "labels": [], "State": "closed", "Author": "dagood"}
+{"issue_number": 63696, "created_at": "2023-10-23", "closed_at": null, "labels": ["Proposal", "Proposal-Accepted", "GoCommand", "modules"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63695, "created_at": "2023-10-23", "closed_at": "2023-11-14", "labels": ["NeedsDecision"], "State": "closed", "Author": "mauri870"}
+{"issue_number": 63694, "created_at": "2023-10-23", "closed_at": null, "labels": ["NeedsInvestigation", "telemetry"], "State": "open", "Author": "hyangah"}
+{"issue_number": 63693, "created_at": "2023-10-23", "closed_at": null, "labels": ["FeatureRequest", "gopls", "Tools"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63692, "created_at": "2023-10-23", "closed_at": null, "labels": ["NeedsInvestigation", "telemetry"], "State": "open", "Author": "hyangah"}
+{"issue_number": 63691, "created_at": "2023-10-23", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "neild"}
+{"issue_number": 63689, "created_at": "2023-10-23", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "1f604"}
+{"issue_number": 63688, "created_at": "2023-10-23", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "mitar"}
+{"issue_number": 63700, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": ["gopls", "Tools"], "State": "closed", "Author": "opsanatoliy"}
+{"issue_number": 63687, "created_at": "2023-10-23", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "peter-xiao"}
+{"issue_number": 63684, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": ["Soon", "proxy.golang.org"], "State": "closed", "Author": "heschi"}
+{"issue_number": 63683, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": ["Proposal"], "State": "closed", "Author": "cuishuang"}
+{"issue_number": 63682, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": ["Proposal"], "State": "closed", "Author": "eudore"}
+{"issue_number": 63679, "created_at": "2023-10-23", "closed_at": null, "labels": ["Documentation", "NeedsInvestigation"], "State": "open", "Author": "mitar"}
+{"issue_number": 63678, "created_at": "2023-10-23", "closed_at": null, "labels": ["Performance", "help wanted", "NeedsFix", "compiler/runtime"], "State": "open", "Author": "mauri870"}
+{"issue_number": 63676, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": ["Proposal"], "State": "closed", "Author": "MrNocTV"}
+{"issue_number": 63675, "created_at": "2023-10-22", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "dolmen"}
+{"issue_number": 63674, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": [], "State": "closed", "Author": "amirhosseinpayab"}
+{"issue_number": 63673, "created_at": "2023-10-22", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "danderson"}
+{"issue_number": 63672, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": [], "State": "closed", "Author": "VikrantKS"}
+{"issue_number": 63671, "created_at": "2023-10-22", "closed_at": null, "labels": ["LanguageChange", "v2", "Proposal", "Proposal-FinalCommentPeriod"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 63670, "created_at": "2023-10-22", "closed_at": null, "labels": ["Performance", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "y1yang0"}
+{"issue_number": 63669, "created_at": "2023-10-22", "closed_at": null, "labels": ["Documentation", "NeedsFix", "compiler/runtime"], "State": "open", "Author": "mitar"}
+{"issue_number": 63667, "created_at": "2023-10-22", "closed_at": "2023-10-24", "labels": ["NeedsInvestigation", "gopls", "Tools"], "State": "closed", "Author": "AnhQuanTrl"}
+{"issue_number": 63665, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": ["Proposal"], "State": "closed", "Author": "KacperPerschke"}
+{"issue_number": 63662, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": [], "State": "closed", "Author": "extemporalgenome"}
+{"issue_number": 63660, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": [], "State": "closed", "Author": "davidmdm"}
+{"issue_number": 63659, "created_at": "2023-10-21", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63657, "created_at": "2023-10-21", "closed_at": "2023-10-31", "labels": ["RaceDetector", "NeedsFix", "compiler/runtime"], "State": "closed", "Author": "fischerman"}
+{"issue_number": 63656, "created_at": "2023-10-21", "closed_at": "2023-10-21", "labels": ["WaitingForInfo"], "State": "closed", "Author": "Pim-Infuzed"}
+{"issue_number": 63653, "created_at": "2023-10-21", "closed_at": "2023-10-24", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "arcsub"}
+{"issue_number": 63652, "created_at": "2023-10-21", "closed_at": null, "labels": ["WaitingForInfo", "pkgsite", "pkgsite/package-removal"], "State": "open", "Author": "arcsub"}
+{"issue_number": 63651, "created_at": "2023-10-21", "closed_at": "2023-10-23", "labels": ["compiler/runtime"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 63650, "created_at": "2023-10-21", "closed_at": null, "labels": ["WaitingForInfo", "compiler/runtime"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 63649, "created_at": "2023-10-21", "closed_at": "2023-10-24", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "gaukas"}
+{"issue_number": 63648, "created_at": "2023-10-21", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "hyangah"}
+{"issue_number": 63702, "created_at": "2023-10-20", "closed_at": "2023-10-23", "labels": ["gopls", "Tools"], "State": "closed", "Author": "kchristi111"}
+{"issue_number": 63701, "created_at": "2023-10-20", "closed_at": "2023-10-24", "labels": ["gopls", "Tools"], "State": "closed", "Author": "MrSutra"}
+{"issue_number": 63647, "created_at": "2023-10-20", "closed_at": "2023-11-01", "labels": ["LanguageChange", "v2", "Proposal", "WaitingForInfo", "error-handling"], "State": "closed", "Author": "xiaokentrl"}
+{"issue_number": 63646, "created_at": "2023-10-20", "closed_at": null, "labels": ["Documentation", "NeedsInvestigation"], "State": "open", "Author": "3052"}
+{"issue_number": 63645, "created_at": "2023-10-20", "closed_at": "2023-10-21", "labels": ["Proposal"], "State": "closed", "Author": "saurabh-mish"}
+{"issue_number": 63644, "created_at": "2023-10-20", "closed_at": "2023-10-23", "labels": ["GoCommand"], "State": "closed", "Author": "adamroyjones"}
+{"issue_number": 63643, "created_at": "2023-10-20", "closed_at": "2023-10-24", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "Abu-Zakaria"}
+{"issue_number": 63642, "created_at": "2023-10-20", "closed_at": "2023-11-01", "labels": ["NeedsInvestigation", "Tools", "compiler/runtime"], "State": "closed", "Author": "lfolger"}
+{"issue_number": 63641, "created_at": "2023-10-20", "closed_at": "2023-10-25", "labels": ["gopls", "Tools"], "State": "closed", "Author": "jgardona"}
+{"issue_number": 63640, "created_at": "2023-10-20", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "wbyao"}
+{"issue_number": 63638, "created_at": "2023-10-20", "closed_at": "2023-10-20", "labels": [], "State": "closed", "Author": "Rory-Z"}
+{"issue_number": 63637, "created_at": "2023-10-20", "closed_at": "2023-10-20", "labels": [], "State": "closed", "Author": "Makpara"}
+{"issue_number": 63635, "created_at": "2023-10-19", "closed_at": "2023-10-21", "labels": ["NeedsFix"], "State": "closed", "Author": "mauri870"}
+{"issue_number": 63634, "created_at": "2023-10-19", "closed_at": "2023-10-20", "labels": ["WaitingForInfo"], "State": "closed", "Author": "pandasoli"}
+{"issue_number": 63633, "created_at": "2023-10-19", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "dolmen"}
+{"issue_number": 63632, "created_at": "2023-10-19", "closed_at": "2023-10-19", "labels": [], "State": "closed", "Author": "leath-dub"}
+{"issue_number": 63631, "created_at": "2023-10-19", "closed_at": "2023-11-19", "labels": ["WaitingForInfo"], "State": "closed", "Author": "leomirandadev"}
+{"issue_number": 63630, "created_at": "2023-10-19", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "nsrip-dd"}
+{"issue_number": 63629, "created_at": "2023-10-19", "closed_at": "2023-10-20", "labels": ["WaitingForInfo"], "State": "closed", "Author": "xiaomi1991"}
+{"issue_number": 63628, "created_at": "2023-10-19", "closed_at": "2023-10-19", "labels": [], "State": "closed", "Author": "Ponewor"}
+{"issue_number": 63627, "created_at": "2023-10-19", "closed_at": "2023-10-19", "labels": [], "State": "closed", "Author": "mail2nnv"}
+{"issue_number": 63626, "created_at": "2023-10-19", "closed_at": "2023-10-19", "labels": [], "State": "closed", "Author": "alexandear"}
+{"issue_number": 63625, "created_at": "2023-10-19", "closed_at": "2023-10-19", "labels": [], "State": "closed", "Author": "anuphalarnkar"}
+{"issue_number": 63623, "created_at": "2023-10-19", "closed_at": "2023-10-23", "labels": ["NeedsDecision"], "State": "closed", "Author": "quantonganh"}
+{"issue_number": 63622, "created_at": "2023-10-19", "closed_at": "2023-11-14", "labels": ["WaitingForInfo", "compiler/runtime"], "State": "closed", "Author": "zhangbo1882"}
+{"issue_number": 63621, "created_at": "2023-10-18", "closed_at": null, "labels": ["LanguageChange", "v2", "Proposal", "Proposal-FinalCommentPeriod", "error-handling"], "State": "open", "Author": "xiaokentrl"}
+{"issue_number": 63620, "created_at": "2023-10-18", "closed_at": "2023-10-19", "labels": [], "State": "closed", "Author": "buchs"}
+{"issue_number": 63619, "created_at": "2023-10-18", "closed_at": null, "labels": ["NeedsInvestigation", "telemetry"], "State": "open", "Author": "hyangah"}
+{"issue_number": 63618, "created_at": "2023-10-18", "closed_at": "2023-10-18", "labels": [], "State": "closed", "Author": "Enigma8821"}
+{"issue_number": 63616, "created_at": "2023-10-18", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "cuonglm"}
+{"issue_number": 63615, "created_at": "2023-10-18", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "szuecs"}
+{"issue_number": 63614, "created_at": "2023-10-18", "closed_at": null, "labels": ["Builders", "NeedsInvestigation", "new-builder"], "State": "open", "Author": "bsiegert"}
+{"issue_number": 63613, "created_at": "2023-10-18", "closed_at": "2023-10-23", "labels": ["gopls", "Tools"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 63612, "created_at": "2023-10-18", "closed_at": "2023-10-18", "labels": ["Proposal"], "State": "closed", "Author": "julienrbrt"}
+{"issue_number": 63611, "created_at": "2023-10-18", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "dolmen"}
+{"issue_number": 63610, "created_at": "2023-10-18", "closed_at": "2023-10-25", "labels": ["NeedsFix", "compiler/runtime"], "State": "closed", "Author": "catenacyber"}
+{"issue_number": 63608, "created_at": "2023-10-18", "closed_at": "2023-10-20", "labels": ["compiler/runtime"], "State": "closed", "Author": "j2gg0s"}
+{"issue_number": 63607, "created_at": "2023-10-18", "closed_at": "2023-10-27", "labels": ["Proposal"], "State": "closed", "Author": "mitar"}
+{"issue_number": 63605, "created_at": "2023-10-18", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "aimuz"}
+{"issue_number": 63602, "created_at": "2023-10-17", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "myaaaaaaaaa"}
+{"issue_number": 63601, "created_at": "2023-10-17", "closed_at": null, "labels": ["Builders", "NeedsInvestigation", "new-builder"], "State": "open", "Author": "0intro"}
+{"issue_number": 63600, "created_at": "2023-10-17", "closed_at": null, "labels": ["Builders", "NeedsInvestigation", "new-builder"], "State": "open", "Author": "0intro"}
+{"issue_number": 63599, "created_at": "2023-10-17", "closed_at": null, "labels": ["Builders", "NeedsInvestigation", "new-builder"], "State": "open", "Author": "0intro"}
+{"issue_number": 63598, "created_at": "2023-10-17", "closed_at": null, "labels": ["NeedsDecision"], "State": "open", "Author": "colin969"}
+{"issue_number": 63597, "created_at": "2023-10-17", "closed_at": "2023-11-10", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "hoeppi-google"}
+{"issue_number": 63596, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": [], "State": "closed", "Author": "pelenium"}
+{"issue_number": 63592, "created_at": "2023-10-17", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools"], "State": "open", "Author": "pierrre"}
+{"issue_number": 63591, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": ["Proposal"], "State": "closed", "Author": "K83FJ3M4"}
+{"issue_number": 63590, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "NikunjPatel31"}
+{"issue_number": 63589, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": [], "State": "closed", "Author": "smwltr"}
+{"issue_number": 63588, "created_at": "2023-10-17", "closed_at": "2023-10-18", "labels": [], "State": "closed", "Author": "aimuz"}
+{"issue_number": 63586, "created_at": "2023-10-17", "closed_at": null, "labels": ["Security", "NeedsInvestigation"], "State": "open", "Author": "gyuber"}
+{"issue_number": 63585, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": ["WaitingForInfo"], "State": "closed", "Author": "Nasfame"}
+{"issue_number": 63584, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": [], "State": "closed", "Author": "bamcop"}
+{"issue_number": 63583, "created_at": "2023-10-17", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "Nasfame"}
+{"issue_number": 63582, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": ["LanguageChange", "v2", "Proposal"], "State": "closed", "Author": "someview"}
+{"issue_number": 63581, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": [], "State": "closed", "Author": "Nasfame"}
+{"issue_number": 63579, "created_at": "2023-10-16", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "1f604"}
+{"issue_number": 63578, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": ["gopls", "Tools", "gopls/telemetry-wins"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 63577, "created_at": "2023-10-16", "closed_at": null, "labels": ["NeedsInvestigation", "Tools"], "State": "open", "Author": "lucasrod16"}
+{"issue_number": 63576, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": ["compiler/runtime"], "State": "closed", "Author": "tsenart"}
+{"issue_number": 63575, "created_at": "2023-10-16", "closed_at": null, "labels": ["LanguageChange", "v2", "Proposal", "Proposal-FinalCommentPeriod", "error-handling"], "State": "open", "Author": "sethbonnie"}
+{"issue_number": 63574, "created_at": "2023-10-16", "closed_at": null, "labels": ["FeatureRequest", "gopls", "Tools"], "State": "open", "Author": "danp"}
+{"issue_number": 63572, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": [], "State": "closed", "Author": "nagayev"}
+{"issue_number": 63571, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": ["Proposal"], "State": "closed", "Author": "metal3d"}
+{"issue_number": 63570, "created_at": "2023-10-16", "closed_at": "2023-10-17", "labels": ["Proposal"], "State": "closed", "Author": "josharian"}
+{"issue_number": 63569, "created_at": "2023-10-16", "closed_at": null, "labels": ["help wanted", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "mauri870"}
+{"issue_number": 63568, "created_at": "2023-10-16", "closed_at": null, "labels": ["OS-OpenBSD", "Builders", "NeedsFix", "new-builder"], "State": "open", "Author": "mauri870"}
+{"issue_number": 63567, "created_at": "2023-10-16", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "evanj"}
+{"issue_number": 63566, "created_at": "2023-10-16", "closed_at": "2023-10-17", "labels": ["NeedsFix"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 63565, "created_at": "2023-10-16", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "irbekrm"}
+{"issue_number": 63564, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": [], "State": "closed", "Author": "ChenYuStart"}
+{"issue_number": 63563, "created_at": "2023-10-16", "closed_at": "2023-10-31", "labels": ["NeedsDecision", "compiler/runtime"], "State": "closed", "Author": "odeke-em"}
+{"issue_number": 63562, "created_at": "2023-10-16", "closed_at": "2023-10-26", "labels": ["NeedsInvestigation", "proxy.golang.org"], "State": "closed", "Author": "aslonnie"}
+{"issue_number": 63560, "created_at": "2023-10-15", "closed_at": "2023-10-30", "labels": ["CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63559, "created_at": "2023-10-15", "closed_at": null, "labels": ["help wanted", "NeedsFix", "GoCommand"], "State": "open", "Author": "capnspacehook"}
+{"issue_number": 63558, "created_at": "2023-10-15", "closed_at": "2023-10-15", "labels": [], "State": "closed", "Author": "capnspacehook"}
+{"issue_number": 63556, "created_at": "2023-10-15", "closed_at": "2023-10-15", "labels": ["LanguageChange", "v2", "Proposal"], "State": "closed", "Author": "neperap7"}
+{"issue_number": 63555, "created_at": "2023-10-15", "closed_at": null, "labels": ["NeedsFix", "compiler/runtime"], "State": "open", "Author": "sxstd001"}
+{"issue_number": 63553, "created_at": "2023-10-15", "closed_at": "2023-10-19", "labels": [], "State": "closed", "Author": "dugenkui03"}
+{"issue_number": 63552, "created_at": "2023-10-15", "closed_at": "2023-10-20", "labels": ["Proposal"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 63548, "created_at": "2023-10-14", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "mhr3"}
+{"issue_number": 63547, "created_at": "2023-10-14", "closed_at": "2023-10-16", "labels": ["Proposal"], "State": "closed", "Author": "mohammadv184"}
+{"issue_number": 63546, "created_at": "2023-10-14", "closed_at": "2023-10-31", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "huweihuang"}
+{"issue_number": 63544, "created_at": "2023-10-14", "closed_at": "2023-10-14", "labels": ["LanguageChange", "v2", "Proposal"], "State": "closed", "Author": "vituchon"}
+{"issue_number": 63543, "created_at": "2023-10-14", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "andig"}
+{"issue_number": 63539, "created_at": "2023-10-14", "closed_at": "2023-10-14", "labels": ["Proposal"], "State": "closed", "Author": "andig"}
+{"issue_number": 63538, "created_at": "2023-10-13", "closed_at": "2023-10-24", "labels": ["gopls", "Tools"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 63537, "created_at": "2023-10-13", "closed_at": "2023-11-20", "labels": ["gopls", "Tools"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 63536, "created_at": "2023-10-13", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63535, "created_at": "2023-10-13", "closed_at": null, "labels": ["vulncheck or vulndb"], "State": "open", "Author": "zpavlinovic"}
+{"issue_number": 63534, "created_at": "2023-10-13", "closed_at": "2023-10-16", "labels": ["FeatureRequest", "gopls", "Tools"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 63532, "created_at": "2023-10-13", "closed_at": null, "labels": ["help wanted", "NeedsFix", "GoCommand"], "State": "open", "Author": "mharbison72"}
+{"issue_number": 63531, "created_at": "2023-10-13", "closed_at": "2023-10-13", "labels": [], "State": "closed", "Author": "qtgolang"}
+{"issue_number": 63529, "created_at": "2023-10-13", "closed_at": null, "labels": ["OS-Windows", "NeedsInvestigation"], "State": "open", "Author": "bt90"}
+{"issue_number": 63528, "created_at": "2023-10-13", "closed_at": "2023-10-13", "labels": ["NeedsInvestigation", "GoCommand", "modules"], "State": "closed", "Author": "seankhliao"}
+{"issue_number": 63527, "created_at": "2023-10-13", "closed_at": null, "labels": ["Proposal", "Proposal-Crypto"], "State": "open", "Author": "Thomas717-Ether"}
+{"issue_number": 63526, "created_at": "2023-10-13", "closed_at": "2023-10-13", "labels": [], "State": "closed", "Author": "liren-sun"}
+{"issue_number": 63525, "created_at": "2023-10-13", "closed_at": "2023-10-17", "labels": ["Documentation", "NeedsInvestigation"], "State": "closed", "Author": "randall77"}
+{"issue_number": 63524, "created_at": "2023-10-12", "closed_at": null, "labels": ["help wanted", "NeedsFix", "compiler/runtime"], "State": "open", "Author": "ianlancetaylor"}
+{"issue_number": 63523, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": [], "State": "closed", "Author": "meling"}
+{"issue_number": 63522, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": [], "State": "closed", "Author": "joestringer"}
+{"issue_number": 63521, "created_at": "2023-10-12", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63520, "created_at": "2023-10-12", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "elindsey"}
+{"issue_number": 63518, "created_at": "2023-10-12", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "elindsey"}
+{"issue_number": 63517, "created_at": "2023-10-12", "closed_at": null, "labels": ["NeedsInvestigation", "Tools"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63516, "created_at": "2023-10-12", "closed_at": null, "labels": ["Performance", "Security", "NeedsInvestigation"], "State": "open", "Author": "nkatsaros"}
+{"issue_number": 63515, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": ["LanguageChange", "v2", "Proposal"], "State": "closed", "Author": "metux"}
+{"issue_number": 63514, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": [], "State": "closed", "Author": "0x0elliot"}
+{"issue_number": 63513, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": ["Proposal", "WaitingForInfo"], "State": "closed", "Author": "metux"}
+{"issue_number": 63512, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": [], "State": "closed", "Author": "majiyue"}
+{"issue_number": 63511, "created_at": "2023-10-12", "closed_at": "2023-10-26", "labels": ["NeedsFix", "release-blocker"], "State": "closed", "Author": "MagicalTux"}
+{"issue_number": 63510, "created_at": "2023-10-12", "closed_at": null, "labels": ["FeatureRequest", "pkgsite"], "State": "open", "Author": "halfcrazy"}
+{"issue_number": 63509, "created_at": "2023-10-12", "closed_at": "2023-10-30", "labels": ["CherryPickApproved", "compiler/runtime"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63508, "created_at": "2023-10-11", "closed_at": null, "labels": ["Performance", "OS-Linux", "NeedsInvestigation"], "State": "open", "Author": "prattmic"}
+{"issue_number": 63507, "created_at": "2023-10-11", "closed_at": null, "labels": ["NeedsFix", "GoCommand", "modules"], "State": "open", "Author": "dmitshur"}
+{"issue_number": 63506, "created_at": "2023-10-11", "closed_at": null, "labels": ["NeedsFix", "compiler/runtime"], "State": "open", "Author": "ianlancetaylor"}
+{"issue_number": 63505, "created_at": "2023-10-11", "closed_at": "2023-10-12", "labels": ["compiler/runtime"], "State": "closed", "Author": "dr2chase"}
+{"issue_number": 63504, "created_at": "2023-10-11", "closed_at": null, "labels": ["NeedsDecision", "telemetry"], "State": "open", "Author": "hyangah"}
+{"issue_number": 63503, "created_at": "2023-10-11", "closed_at": null, "labels": ["OS-Windows", "NeedsDecision"], "State": "open", "Author": "mknyszek"}
+{"issue_number": 63502, "created_at": "2023-10-11", "closed_at": "2023-10-30", "labels": ["Documentation", "help wanted", "NeedsFix", "GoCommand"], "State": "closed", "Author": "mark-pictor-csec"}
+{"issue_number": 63501, "created_at": "2023-10-11", "closed_at": null, "labels": ["Proposal", "Proposal-FinalCommentPeriod", "Analysis"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63500, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": [], "State": "closed", "Author": "deatil"}
+{"issue_number": 63499, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": ["Proposal"], "State": "closed", "Author": "fanjiwang1992"}
+{"issue_number": 63496, "created_at": "2023-10-10", "closed_at": "2023-10-10", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63495, "created_at": "2023-10-10", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "ALTree"}
+{"issue_number": 63494, "created_at": "2023-10-10", "closed_at": "2023-10-10", "labels": ["Proposal"], "State": "closed", "Author": "glenjamin"}
+{"issue_number": 63493, "created_at": "2023-10-10", "closed_at": "2023-10-10", "labels": [], "State": "closed", "Author": "KorolevSD"}
+{"issue_number": 63492, "created_at": "2023-10-10", "closed_at": "2023-10-12", "labels": ["Performance", "NeedsInvestigation"], "State": "closed", "Author": "haruyama480"}
+{"issue_number": 63490, "created_at": "2023-10-10", "closed_at": "2023-10-10", "labels": ["compiler/runtime"], "State": "closed", "Author": "dr2chase"}
+{"issue_number": 63489, "created_at": "2023-10-10", "closed_at": "2023-10-19", "labels": ["NeedsFix", "release-blocker", "compiler/runtime"], "State": "closed", "Author": "rsc"}
+{"issue_number": 63488, "created_at": "2023-10-10", "closed_at": "2023-10-10", "labels": [], "State": "closed", "Author": "b-carneiro"}
+{"issue_number": 63487, "created_at": "2023-10-10", "closed_at": "2023-10-10", "labels": ["NeedsInvestigation", "arch-arm", "compiler/runtime"], "State": "closed", "Author": "cuonglm"}
+{"issue_number": 63485, "created_at": "2023-10-10", "closed_at": null, "labels": ["Documentation", "help wanted", "NeedsFix"], "State": "open", "Author": "EtienneMiret"}
+{"issue_number": 63484, "created_at": "2023-10-10", "closed_at": "2023-10-10", "labels": [], "State": "closed", "Author": "MakrandMZare"}
+{"issue_number": 63483, "created_at": "2023-10-10", "closed_at": null, "labels": ["NeedsInvestigation", "mobile"], "State": "open", "Author": "MrKrisYu"}
+{"issue_number": 63482, "created_at": "2023-10-10", "closed_at": null, "labels": ["Builders", "new-builder"], "State": "open", "Author": "mengzhuo"}
+{"issue_number": 63481, "created_at": "2023-10-10", "closed_at": null, "labels": ["Builders", "new-builder"], "State": "open", "Author": "mengzhuo"}
+{"issue_number": 63480, "created_at": "2023-10-10", "closed_at": null, "labels": ["Builders", "NeedsFix", "new-builder"], "State": "open", "Author": "n2vi"}
+{"issue_number": 63477, "created_at": "2023-10-09", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63476, "created_at": "2023-10-09", "closed_at": "2023-10-10", "labels": ["NeedsInvestigation", "telemetry"], "State": "closed", "Author": "timothy-king"}
+{"issue_number": 63475, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": [], "State": "closed", "Author": "iamhassanfaraji"}
+{"issue_number": 63473, "created_at": "2023-10-09", "closed_at": "2023-10-18", "labels": ["NeedsFix", "GoCommand"], "State": "closed", "Author": "wizardishungry"}
+{"issue_number": 63472, "created_at": "2023-10-09", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63471, "created_at": "2023-10-09", "closed_at": null, "labels": ["Builders", "NeedsFix", "umbrella"], "State": "open", "Author": "joedian"}
+{"issue_number": 63470, "created_at": "2023-10-09", "closed_at": "2023-10-12", "labels": ["FeatureRequest", "gopls", "Tools"], "State": "closed", "Author": "hyangah"}
+{"issue_number": 63468, "created_at": "2023-10-09", "closed_at": "2023-10-11", "labels": ["NeedsFix"], "State": "closed", "Author": "dolmen"}
+{"issue_number": 63467, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": [], "State": "closed", "Author": "ShivangShandilya"}
+{"issue_number": 63466, "created_at": "2023-10-09", "closed_at": null, "labels": ["NeedsInvestigation", "arch-wasm"], "State": "open", "Author": "HarikrishnanBalagopal"}
+{"issue_number": 63464, "created_at": "2023-10-09", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "niallnsec"}
+{"issue_number": 63463, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": [], "State": "closed", "Author": "tossp"}
+{"issue_number": 63462, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": ["NeedsFix", "compiler/runtime"], "State": "closed", "Author": "ALTree"}
+{"issue_number": 63461, "created_at": "2023-10-09", "closed_at": "2023-10-20", "labels": ["NeedsFix"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 63460, "created_at": "2023-10-09", "closed_at": "2023-10-13", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "AlexRouSg"}
+{"issue_number": 63459, "created_at": "2023-10-09", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools"], "State": "open", "Author": "myitcv"}
+{"issue_number": 63458, "created_at": "2023-10-09", "closed_at": null, "labels": ["NeedsInvestigation", "gopls", "Tools"], "State": "open", "Author": "myitcv"}
+{"issue_number": 63457, "created_at": "2023-10-09", "closed_at": null, "labels": ["Proposal", "GoCommand", "modules"], "State": "open", "Author": "mitar"}
+{"issue_number": 63456, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": [], "State": "closed", "Author": "go101"}
+{"issue_number": 63455, "created_at": "2023-10-09", "closed_at": null, "labels": ["Proposal", "error-handling"], "State": "open", "Author": "mitar"}
+{"issue_number": 63454, "created_at": "2023-10-09", "closed_at": null, "labels": ["FeatureRequest", "pkgsite"], "State": "open", "Author": "rothskeller"}
+{"issue_number": 63447, "created_at": "2023-10-08", "closed_at": "2023-10-08", "labels": [], "State": "closed", "Author": "g-talbot"}
+{"issue_number": 63445, "created_at": "2023-10-08", "closed_at": "2023-10-08", "labels": [], "State": "closed", "Author": "yunginnanet"}
+{"issue_number": 63444, "created_at": "2023-10-08", "closed_at": null, "labels": ["OS-NetBSD", "NeedsInvestigation", "arch-arm", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63443, "created_at": "2023-10-08", "closed_at": "2023-10-08", "labels": [], "State": "closed", "Author": "863377977"}
+{"issue_number": 63442, "created_at": "2023-10-07", "closed_at": "2023-11-10", "labels": ["WaitingForInfo"], "State": "closed", "Author": "rminnich"}
+{"issue_number": 63441, "created_at": "2023-10-07", "closed_at": "2023-11-07", "labels": ["WaitingForInfo", "GoCommand"], "State": "closed", "Author": "faelp22"}
+{"issue_number": 63438, "created_at": "2023-10-07", "closed_at": "2023-10-09", "labels": [], "State": "closed", "Author": "xiangxu126"}
+{"issue_number": 63437, "created_at": "2023-10-07", "closed_at": null, "labels": ["WaitingForInfo", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "Elemecca"}
+{"issue_number": 63436, "created_at": "2023-10-07", "closed_at": "2023-10-08", "labels": ["NeedsFix"], "State": "closed", "Author": "jba"}
+{"issue_number": 63434, "created_at": "2023-10-07", "closed_at": "2023-10-07", "labels": [], "State": "closed", "Author": "matemaaan"}
+{"issue_number": 63433, "created_at": "2023-10-07", "closed_at": "2023-10-10", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "johejo"}
+{"issue_number": 63432, "created_at": "2023-10-07", "closed_at": null, "labels": ["NeedsFix", "GoCommand"], "State": "open", "Author": "wallyqs"}
+{"issue_number": 63431, "created_at": "2023-10-07", "closed_at": null, "labels": ["LanguageChange", "v2", "Proposal", "Proposal-FinalCommentPeriod"], "State": "open", "Author": "Jorropo"}
+{"issue_number": 63430, "created_at": "2023-10-06", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "rhysh"}
+{"issue_number": 63429, "created_at": "2023-10-06", "closed_at": "2023-11-01", "labels": ["OS-Windows", "NeedsFix"], "State": "closed", "Author": "imsodin"}
+{"issue_number": 63428, "created_at": "2023-10-06", "closed_at": null, "labels": ["OS-Darwin", "NeedsInvestigation"], "State": "open", "Author": "twmb"}
+{"issue_number": 63427, "created_at": "2023-10-06", "closed_at": "2023-10-10", "labels": ["Security", "CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63426, "created_at": "2023-10-06", "closed_at": "2023-10-10", "labels": ["Security", "CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63425, "created_at": "2023-10-06", "closed_at": "2023-10-09", "labels": ["gopls", "Tools"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 63424, "created_at": "2023-10-06", "closed_at": null, "labels": ["Documentation", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "rhysh"}
+{"issue_number": 63423, "created_at": "2023-10-06", "closed_at": null, "labels": ["Performance", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "rhysh"}
+{"issue_number": 63422, "created_at": "2023-10-06", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "rhysh"}
+{"issue_number": 63421, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["Documentation", "telemetry"], "State": "closed", "Author": "hyangah"}
+{"issue_number": 63420, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["WaitingForInfo"], "State": "closed", "Author": "clarkmcc"}
+{"issue_number": 63419, "created_at": "2023-10-06", "closed_at": "2023-10-10", "labels": ["telemetry"], "State": "closed", "Author": "hyangah"}
+{"issue_number": 63418, "created_at": "2023-10-06", "closed_at": null, "labels": ["NeedsFix", "telemetry"], "State": "open", "Author": "hyangah"}
+{"issue_number": 63417, "created_at": "2023-10-06", "closed_at": "2023-10-10", "labels": ["Security", "NeedsFix", "release-blocker"], "State": "closed", "Author": "neild"}
+{"issue_number": 63416, "created_at": "2023-10-06", "closed_at": "2023-10-11", "labels": ["telemetry"], "State": "closed", "Author": "hyangah"}
+{"issue_number": 63415, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["gopls", "Tools"], "State": "closed", "Author": "flowchartsman"}
+{"issue_number": 63413, "created_at": "2023-10-06", "closed_at": "2023-11-14", "labels": ["Proposal", "Proposal-Accepted", "Proposal-Crypto"], "State": "closed", "Author": "FiloSottile"}
+{"issue_number": 63412, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": [], "State": "closed", "Author": "the-hotmann"}
+{"issue_number": 63410, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": [], "State": "closed", "Author": "swarajkumarsingh"}
+{"issue_number": 63409, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": [], "State": "closed", "Author": "babashark"}
+{"issue_number": 63408, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": [], "State": "closed", "Author": "sbezverk"}
+{"issue_number": 63407, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["WaitingForInfo"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 63406, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["LanguageChange", "v2", "Proposal"], "State": "closed", "Author": "himanshu-patel-dev"}
+{"issue_number": 63405, "created_at": "2023-10-06", "closed_at": null, "labels": ["Proposal", "Proposal-Crypto"], "State": "open", "Author": "ueno"}
+{"issue_number": 63404, "created_at": "2023-10-05", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "rhysh"}
+{"issue_number": 63403, "created_at": "2023-10-05", "closed_at": null, "labels": ["pkgsite"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63402, "created_at": "2023-10-05", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "maciekmm"}
+{"issue_number": 63401, "created_at": "2023-10-05", "closed_at": "2023-10-06", "labels": ["OS-Darwin", "WaitingForInfo"], "State": "closed", "Author": "p8a"}
+{"issue_number": 63399, "created_at": "2023-10-05", "closed_at": "2023-10-24", "labels": ["Proposal"], "State": "closed", "Author": "upsampled"}
+{"issue_number": 63398, "created_at": "2023-10-05", "closed_at": "2023-10-10", "labels": ["Tools"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 63396, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": [], "State": "closed", "Author": "dimkauzh"}
+{"issue_number": 63395, "created_at": "2023-10-05", "closed_at": null, "labels": ["NeedsFix", "GoCommand", "modules"], "State": "open", "Author": "rsc"}
+{"issue_number": 63394, "created_at": "2023-10-05", "closed_at": null, "labels": ["gopls", "Tools", "Refactoring"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63393, "created_at": "2023-10-05", "closed_at": "2023-11-14", "labels": ["Proposal", "Proposal-Accepted"], "State": "closed", "Author": "Deleplace"}
+{"issue_number": 63392, "created_at": "2023-10-05", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "rolandshoemaker"}
+{"issue_number": 63391, "created_at": "2023-10-05", "closed_at": "2023-10-06", "labels": [], "State": "closed", "Author": "petar-dambovaliev"}
+{"issue_number": 63390, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": ["Builders"], "State": "closed", "Author": "Jorropo"}
+{"issue_number": 63388, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": [], "State": "closed", "Author": "iamhassanfaraji"}
+{"issue_number": 63387, "created_at": "2023-10-05", "closed_at": null, "labels": ["NeedsInvestigation", "arch-s390x", "compiler/runtime"], "State": "open", "Author": "jcajka"}
+{"issue_number": 63385, "created_at": "2023-10-05", "closed_at": null, "labels": ["compiler/runtime"], "State": "open", "Author": "4a6f656c"}
+{"issue_number": 63384, "created_at": "2023-10-05", "closed_at": "2023-10-11", "labels": ["NeedsFix", "compiler/runtime"], "State": "closed", "Author": "4a6f656c"}
+{"issue_number": 63383, "created_at": "2023-10-05", "closed_at": "2023-10-10", "labels": ["WaitingForInfo", "NeedsInvestigation", "Tools", "compiler/runtime"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 63382, "created_at": "2023-10-05", "closed_at": "2023-10-07", "labels": ["WaitingForInfo", "NeedsInvestigation", "Tools", "compiler/runtime"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 63381, "created_at": "2023-10-05", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "aruneshpa"}
+{"issue_number": 63380, "created_at": "2023-10-04", "closed_at": "2023-10-04", "labels": ["LanguageChange", "v2", "Proposal", "error-handling"], "State": "closed", "Author": "saTechDev"}
+{"issue_number": 63379, "created_at": "2023-10-04", "closed_at": "2023-10-06", "labels": ["NeedsFix"], "State": "closed", "Author": "AdamKorcz"}
+{"issue_number": 63378, "created_at": "2023-10-04", "closed_at": "2023-10-09", "labels": ["NeedsFix", "compiler/runtime"], "State": "closed", "Author": "ALTree"}
+{"issue_number": 63376, "created_at": "2023-10-04", "closed_at": "2023-10-05", "labels": ["Builders", "NeedsFix", "Soon"], "State": "closed", "Author": "heschi"}
+{"issue_number": 63375, "created_at": "2023-10-04", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63374, "created_at": "2023-10-04", "closed_at": "2023-10-31", "labels": ["release-blocker", "Tools", "okay-after-rc1"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 63373, "created_at": "2023-10-04", "closed_at": "2023-10-17", "labels": ["release-blocker", "Tools", "okay-after-rc1"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 63372, "created_at": "2023-10-04", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "metux"}
+{"issue_number": 63371, "created_at": "2023-10-04", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "rolandshoemaker"}
+{"issue_number": 63370, "created_at": "2023-10-04", "closed_at": "2023-10-04", "labels": [], "State": "closed", "Author": "andydotxyz"}
+{"issue_number": 63369, "created_at": "2023-10-04", "closed_at": null, "labels": ["Proposal", "Proposal-Crypto"], "State": "open", "Author": "dennisjackson"}
+{"issue_number": 63368, "created_at": "2023-10-04", "closed_at": "2023-10-04", "labels": [], "State": "closed", "Author": "andydotxyz"}
+{"issue_number": 63367, "created_at": "2023-10-04", "closed_at": "2023-10-04", "labels": ["Tools"], "State": "closed", "Author": "andrewpollock"}
+{"issue_number": 63366, "created_at": "2023-10-04", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 63365, "created_at": "2023-10-04", "closed_at": "2023-10-13", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63363, "created_at": "2023-10-04", "closed_at": "2023-10-10", "labels": ["gopls", "Tools"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 63362, "created_at": "2023-10-04", "closed_at": "2023-10-04", "labels": [], "State": "closed", "Author": "adonovan"}
+{"issue_number": 63361, "created_at": "2023-10-04", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "zephyrtronium"}
+{"issue_number": 63359, "created_at": "2023-10-03", "closed_at": null, "labels": ["NeedsInvestigation", "release-blocker", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63358, "created_at": "2023-10-03", "closed_at": null, "labels": ["Proposal", "error-handling"], "State": "open", "Author": "ianlancetaylor"}
+{"issue_number": 63357, "created_at": "2023-10-03", "closed_at": "2023-10-25", "labels": ["NeedsFix", "GoCommand", "modules"], "State": "closed", "Author": "dmitshur"}
+{"issue_number": 63356, "created_at": "2023-10-03", "closed_at": "2023-10-04", "labels": ["NeedsFix", "GoCommand"], "State": "closed", "Author": "thanm"}
+{"issue_number": 63354, "created_at": "2023-10-03", "closed_at": null, "labels": ["Builders", "NeedsFix"], "State": "open", "Author": "cagedmantis"}
+{"issue_number": 63353, "created_at": "2023-10-03", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63352, "created_at": "2023-10-03", "closed_at": null, "labels": ["help wanted", "NeedsFix", "Tools", "Refactoring"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63351, "created_at": "2023-10-03", "closed_at": "2023-10-03", "labels": [], "State": "closed", "Author": "Jessiejaymz810s"}
+{"issue_number": 63347, "created_at": "2023-10-03", "closed_at": null, "labels": ["Performance", "NeedsInvestigation"], "State": "open", "Author": "achille-roussel"}
+{"issue_number": 63346, "created_at": "2023-10-03", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "malta895"}
+{"issue_number": 63345, "created_at": "2023-10-03", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "robpike"}
+{"issue_number": 63343, "created_at": "2023-10-03", "closed_at": "2023-10-03", "labels": [], "State": "closed", "Author": "myaaaaaaaaa"}
+{"issue_number": 63341, "created_at": "2023-10-02", "closed_at": null, "labels": ["Proposal", "compiler/runtime"], "State": "open", "Author": "rhysh"}
+{"issue_number": 63340, "created_at": "2023-10-02", "closed_at": "2023-11-15", "labels": ["Proposal", "Proposal-Accepted", "compiler/runtime"], "State": "closed", "Author": "rhysh"}
+{"issue_number": 63339, "created_at": "2023-10-02", "closed_at": "2023-10-12", "labels": ["release-blocker", "CherryPickApproved", "Tools"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63338, "created_at": "2023-10-02", "closed_at": null, "labels": ["Proposal", "NeedsInvestigation", "FeatureRequest", "compiler/runtime"], "State": "open", "Author": "seebs"}
+{"issue_number": 63337, "created_at": "2023-10-02", "closed_at": null, "labels": ["help wanted", "NeedsFix", "compiler/runtime"], "State": "open", "Author": "catenacyber"}
+{"issue_number": 63336, "created_at": "2023-10-02", "closed_at": "2023-10-05", "labels": ["NeedsFix", "Tools"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 63335, "created_at": "2023-10-02", "closed_at": "2023-10-12", "labels": ["CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63334, "created_at": "2023-10-02", "closed_at": "2023-10-02", "labels": ["NeedsFix", "release-blocker", "compiler/runtime"], "State": "closed", "Author": "mknyszek"}
+{"issue_number": 63333, "created_at": "2023-10-02", "closed_at": "2023-10-05", "labels": ["NeedsFix"], "State": "closed", "Author": "mdempsky"}
+{"issue_number": 63332, "created_at": "2023-10-02", "closed_at": null, "labels": ["Performance", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "0-issue"}
+{"issue_number": 63331, "created_at": "2023-10-02", "closed_at": null, "labels": ["Documentation", "NeedsInvestigation"], "State": "open", "Author": "rhysh"}
+{"issue_number": 63330, "created_at": "2023-10-02", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "iandees"}
+{"issue_number": 63329, "created_at": "2023-10-02", "closed_at": null, "labels": ["help wanted", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 63328, "created_at": "2023-10-02", "closed_at": null, "labels": ["Proposal", "WaitingForInfo"], "State": "open", "Author": "abdullah-alaadine"}
+{"issue_number": 63327, "created_at": "2023-10-02", "closed_at": null, "labels": ["website"], "State": "open", "Author": "odeke-em"}
+{"issue_number": 63326, "created_at": "2023-10-02", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "qiulaidongfeng"}
+{"issue_number": 63325, "created_at": "2023-10-01", "closed_at": "2023-10-01", "labels": [], "State": "closed", "Author": "berlin-ab"}
+{"issue_number": 63323, "created_at": "2023-10-01", "closed_at": "2023-10-01", "labels": [], "State": "closed", "Author": "idc77"}
+{"issue_number": 63322, "created_at": "2023-10-01", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "marten-seemann"}
+{"issue_number": 63319, "created_at": "2023-10-01", "closed_at": "2023-10-02", "labels": ["Proposal"], "State": "closed", "Author": "Ja7ad"}
+{"issue_number": 63317, "created_at": "2023-09-30", "closed_at": "2023-10-12", "labels": ["CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63316, "created_at": "2023-09-30", "closed_at": "2023-10-12", "labels": ["CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63315, "created_at": "2023-09-30", "closed_at": "2023-10-18", "labels": ["NeedsFix", "compiler/runtime"], "State": "closed", "Author": "thanm"}
+{"issue_number": 63313, "created_at": "2023-09-30", "closed_at": "2023-10-05", "labels": ["NeedsFix", "pkgsite", "website"], "State": "closed", "Author": "Manish-Giri"}
+{"issue_number": 63312, "created_at": "2023-09-30", "closed_at": null, "labels": ["Documentation", "NeedsInvestigation"], "State": "open", "Author": "candlerb"}
+{"issue_number": 63309, "created_at": "2023-09-30", "closed_at": "2023-10-02", "labels": ["Proposal"], "State": "closed", "Author": "sajjanjyothi"}
+{"issue_number": 63304, "created_at": "2023-09-30", "closed_at": "2023-09-30", "labels": [], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 63301, "created_at": "2023-09-30", "closed_at": "2023-09-30", "labels": [], "State": "closed", "Author": "master255"}
+{"issue_number": 63300, "created_at": "2023-09-29", "closed_at": "2023-09-30", "labels": ["LanguageChange", "v2", "Proposal"], "State": "closed", "Author": "cwmos"}
+{"issue_number": 63298, "created_at": "2023-09-29", "closed_at": "2023-10-02", "labels": ["Refactoring"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 63296, "created_at": "2023-09-29", "closed_at": null, "labels": ["OS-Darwin", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63295, "created_at": "2023-09-29", "closed_at": null, "labels": ["Proposal", "Proposal-Crypto"], "State": "open", "Author": "skmcgrail"}
+{"issue_number": 63293, "created_at": "2023-09-29", "closed_at": "2023-11-02", "labels": ["NeedsFix", "GoCommand", "release-blocker", "compiler/runtime"], "State": "closed", "Author": "corhere"}
+{"issue_number": 63292, "created_at": "2023-09-29", "closed_at": "2023-10-02", "labels": ["LanguageChange", "v2", "Proposal"], "State": "closed", "Author": "pmpavl"}
+{"issue_number": 63291, "created_at": "2023-09-29", "closed_at": "2023-10-10", "labels": ["gopls", "Tools"], "State": "closed", "Author": "erdauletbatalov"}
+{"issue_number": 63290, "created_at": "2023-09-29", "closed_at": null, "labels": ["help wanted", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "mfreeman451"}
+{"issue_number": 63289, "created_at": "2023-09-29", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "dfawley"}
+{"issue_number": 63287, "created_at": "2023-09-28", "closed_at": null, "labels": ["gopls"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63286, "created_at": "2023-09-28", "closed_at": null, "labels": ["gopls"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63285, "created_at": "2023-09-28", "closed_at": null, "labels": ["NeedsFix"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63283, "created_at": "2023-09-28", "closed_at": "2023-09-28", "labels": [], "State": "closed", "Author": "tkashem"}
+{"issue_number": 63282, "created_at": "2023-09-28", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63281, "created_at": "2023-09-28", "closed_at": "2023-10-03", "labels": ["NeedsInvestigation", "vulncheck or vulndb"], "State": "closed", "Author": "bplessis-swi"}
+{"issue_number": 63280, "created_at": "2023-09-28", "closed_at": "2023-09-28", "labels": ["WaitingForInfo"], "State": "closed", "Author": "tibetsam"}
+{"issue_number": 63279, "created_at": "2023-09-28", "closed_at": "2023-09-28", "labels": ["GoCommand"], "State": "closed", "Author": "soh-ew"}
+{"issue_number": 63278, "created_at": "2023-09-28", "closed_at": "2023-09-28", "labels": [], "State": "closed", "Author": "RodionGork"}
+{"issue_number": 63277, "created_at": "2023-09-28", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "zzkcode"}
+{"issue_number": 63276, "created_at": "2023-09-28", "closed_at": null, "labels": ["RaceDetector", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "walles"}
+{"issue_number": 63275, "created_at": "2023-09-28", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "thesilentg"}
+{"issue_number": 63273, "created_at": "2023-09-28", "closed_at": "2023-10-12", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "adamchristiansen"}
+{"issue_number": 63270, "created_at": "2023-09-28", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "0x1cc"}
+{"issue_number": 63269, "created_at": "2023-09-27", "closed_at": "2023-09-28", "labels": ["Testing", "NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63267, "created_at": "2023-09-27", "closed_at": null, "labels": ["NeedsInvestigation", "website"], "State": "open", "Author": "suzmue"}
+{"issue_number": 63266, "created_at": "2023-09-27", "closed_at": null, "labels": ["NeedsInvestigation", "website"], "State": "open", "Author": "suzmue"}
+{"issue_number": 63265, "created_at": "2023-09-27", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "suzmue"}
+{"issue_number": 63264, "created_at": "2023-09-27", "closed_at": "2023-10-03", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "braydonk"}
+{"issue_number": 63263, "created_at": "2023-09-27", "closed_at": null, "labels": ["gopls", "Tools"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63262, "created_at": "2023-09-27", "closed_at": "2023-11-02", "labels": ["NeedsInvestigation", "gopls", "Tools"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63261, "created_at": "2023-09-27", "closed_at": "2023-09-27", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "steelshot"}
+{"issue_number": 63260, "created_at": "2023-09-27", "closed_at": "2023-10-03", "labels": ["NeedsFix", "release-blocker", "Tools"], "State": "closed", "Author": "josharian"}
+{"issue_number": 63259, "created_at": "2023-09-27", "closed_at": "2023-10-03", "labels": ["NeedsInvestigation", "Tools"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 63258, "created_at": "2023-09-27", "closed_at": "2023-09-27", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63257, "created_at": "2023-09-27", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "mvdan"}
+{"issue_number": 63255, "created_at": "2023-09-27", "closed_at": "2023-10-27", "labels": ["WaitingForInfo", "compiler/runtime"], "State": "closed", "Author": "brave723"}
+{"issue_number": 63254, "created_at": "2023-09-27", "closed_at": null, "labels": ["pkgsite"], "State": "open", "Author": "aslatter"}
+{"issue_number": 63253, "created_at": "2023-09-26", "closed_at": null, "labels": ["NeedsInvestigation", "Tools"], "State": "open", "Author": "adonovan"}
+{"issue_number": 63250, "created_at": "2023-09-26", "closed_at": null, "labels": ["Proposal", "GoCommand"], "State": "open", "Author": "dolmen"}
+{"issue_number": 63249, "created_at": "2023-09-26", "closed_at": null, "labels": ["pkgsite", "pkgsite/cmd"], "State": "open", "Author": "aslatter"}
+{"issue_number": 63247, "created_at": "2023-09-26", "closed_at": null, "labels": ["NeedsInvestigation", "Tools"], "State": "open", "Author": "aykevl"}
+{"issue_number": 63244, "created_at": "2023-09-26", "closed_at": "2023-09-26", "labels": ["WaitingForInfo", "proxy.golang.org"], "State": "closed", "Author": "jfirebaugh"}
+{"issue_number": 63243, "created_at": "2023-09-26", "closed_at": "2023-10-03", "labels": ["OS-Windows", "Builders", "NeedsInvestigation", "arch-386"], "State": "closed", "Author": "bcmills"}
+{"issue_number": 63242, "created_at": "2023-09-26", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63241, "created_at": "2023-09-26", "closed_at": null, "labels": ["Builders", "NeedsInvestigation", "arch-mips"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63240, "created_at": "2023-09-26", "closed_at": "2023-10-03", "labels": ["OS-Windows", "Builders", "NeedsFix", "arch-386"], "State": "closed", "Author": "bcmills"}
+{"issue_number": 63239, "created_at": "2023-09-26", "closed_at": "2023-09-26", "labels": ["Testing", "Builders", "NeedsFix"], "State": "closed", "Author": "bcmills"}
+{"issue_number": 63238, "created_at": "2023-09-26", "closed_at": null, "labels": ["OS-Windows", "Proposal", "NeedsInvestigation", "Proposal-Crypto"], "State": "open", "Author": "jkroepke"}
+{"issue_number": 63237, "created_at": "2023-09-26", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "rogpeppe"}
+{"issue_number": 63236, "created_at": "2023-09-26", "closed_at": null, "labels": ["Unfortunate", "OS-Windows", "NeedsInvestigation"], "State": "open", "Author": "bcmills"}
+{"issue_number": 63235, "created_at": "2023-09-26", "closed_at": "2023-09-27", "labels": ["Proposal"], "State": "closed", "Author": "lockp111"}
+{"issue_number": 63234, "created_at": "2023-09-26", "closed_at": "2023-09-26", "labels": ["Proposal"], "State": "closed", "Author": "Inuart"}
+{"issue_number": 63233, "created_at": "2023-09-26", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "Jorropo"}
+{"issue_number": 63232, "created_at": "2023-09-26", "closed_at": "2023-09-26", "labels": ["LanguageChange", "v2", "Proposal"], "State": "closed", "Author": "marmiha"}
+{"issue_number": 63230, "created_at": "2023-09-26", "closed_at": "2023-09-26", "labels": [], "State": "closed", "Author": "fxedel"}
+{"issue_number": 63229, "created_at": "2023-09-26", "closed_at": "2023-09-26", "labels": ["NeedsInvestigation", "website"], "State": "closed", "Author": "Manish-Giri"}
+{"issue_number": 63225, "created_at": "2023-09-26", "closed_at": "2023-09-27", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "limpo1989"}
+{"issue_number": 63223, "created_at": "2023-09-25", "closed_at": "2023-11-16", "labels": ["Proposal", "Proposal-Accepted"], "State": "closed", "Author": "griesemer"}
+{"issue_number": 63222, "created_at": "2023-09-25", "closed_at": "2023-09-27", "labels": ["WaitingForInfo", "pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "siaminz"}
+{"issue_number": 63221, "created_at": "2023-09-25", "closed_at": null, "labels": ["LanguageChange", "v2", "Proposal"], "State": "open", "Author": "jimmyfrasche"}
+{"issue_number": 63220, "created_at": "2023-09-25", "closed_at": "2023-10-25", "labels": ["gopls", "Tools"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 63219, "created_at": "2023-09-25", "closed_at": "2023-09-25", "labels": [], "State": "closed", "Author": "ked1108"}
+{"issue_number": 63218, "created_at": "2023-09-25", "closed_at": "2023-10-05", "labels": ["telemetry"], "State": "closed", "Author": "findleyr"}
+{"issue_number": 63217, "created_at": "2023-09-25", "closed_at": "2023-11-08", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "KSDaemon"}
+{"issue_number": 63216, "created_at": "2023-09-25", "closed_at": null, "labels": ["Security", "CherryPickCandidate"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63215, "created_at": "2023-09-25", "closed_at": null, "labels": ["Security", "CherryPickCandidate"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63214, "created_at": "2023-09-25", "closed_at": "2023-10-05", "labels": ["Security", "release-blocker", "CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63213, "created_at": "2023-09-25", "closed_at": "2023-10-05", "labels": ["Security", "release-blocker", "CherryPickApproved"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63212, "created_at": "2023-09-25", "closed_at": null, "labels": ["Security", "NeedsFix", "release-blocker"], "State": "open", "Author": "rolandshoemaker"}
+{"issue_number": 63211, "created_at": "2023-09-25", "closed_at": "2023-10-11", "labels": ["Security", "NeedsFix", "release-blocker"], "State": "closed", "Author": "rolandshoemaker"}
+{"issue_number": 63210, "created_at": "2023-09-25", "closed_at": null, "labels": ["pkgsite"], "State": "open", "Author": "jeremybettis"}
+{"issue_number": 63209, "created_at": "2023-09-25", "closed_at": null, "labels": ["CherryPickCandidate", "compiler/runtime"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63208, "created_at": "2023-09-25", "closed_at": null, "labels": ["Security", "WaitingForInfo", "CherryPickApproved"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63207, "created_at": "2023-09-25", "closed_at": null, "labels": ["Security", "WaitingForInfo", "CherryPickApproved"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63206, "created_at": "2023-09-25", "closed_at": "2023-09-26", "labels": ["WaitingForInfo", "compiler/runtime"], "State": "closed", "Author": "ImagineYao"}
+{"issue_number": 63205, "created_at": "2023-09-25", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "dmytro-i"}
+{"issue_number": 63204, "created_at": "2023-09-25", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "jba"}
+{"issue_number": 63203, "created_at": "2023-09-25", "closed_at": "2023-09-28", "labels": ["WaitingForInfo", "NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "IKhatikVipre"}
+{"issue_number": 63202, "created_at": "2023-09-25", "closed_at": "2023-09-25", "labels": [], "State": "closed", "Author": "peter-xiao"}
+{"issue_number": 63199, "created_at": "2023-09-25", "closed_at": "2023-09-25", "labels": [], "State": "closed", "Author": "ThreatLEVELred"}
+{"issue_number": 63198, "created_at": "2023-09-25", "closed_at": "2023-09-25", "labels": ["OS-Windows", "WaitingForInfo"], "State": "closed", "Author": "zplzpl"}
+{"issue_number": 63197, "created_at": "2023-09-25", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "xrfang"}
+{"issue_number": 63196, "created_at": "2023-09-24", "closed_at": null, "labels": ["WaitingForInfo", "NeedsInvestigation"], "State": "open", "Author": "Rohsichan"}
+{"issue_number": 63194, "created_at": "2023-09-24", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "cblach"}
+{"issue_number": 63193, "created_at": "2023-09-24", "closed_at": "2023-09-26", "labels": ["NeedsInvestigation", "Tools"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 63192, "created_at": "2023-09-24", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "mateusz834"}
+{"issue_number": 63191, "created_at": "2023-09-24", "closed_at": "2023-10-25", "labels": ["WaitingForInfo", "compiler/runtime"], "State": "closed", "Author": "pwaller"}
+{"issue_number": 63190, "created_at": "2023-09-24", "closed_at": null, "labels": ["Proposal", "FeatureRequest", "mobile"], "State": "open", "Author": "qinqin0"}
+{"issue_number": 63189, "created_at": "2023-09-24", "closed_at": "2023-09-24", "labels": [], "State": "closed", "Author": "Azaretdodo"}
+{"issue_number": 63188, "created_at": "2023-09-24", "closed_at": "2023-09-24", "labels": [], "State": "closed", "Author": "valord577"}
+{"issue_number": 63187, "created_at": "2023-09-24", "closed_at": "2023-09-24", "labels": ["Proposal"], "State": "closed", "Author": "massongit"}
+{"issue_number": 63185, "created_at": "2023-09-24", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "mknyszek"}
+{"issue_number": 63183, "created_at": "2023-09-23", "closed_at": null, "labels": ["Security", "NeedsInvestigation"], "State": "open", "Author": "jupenur"}
+{"issue_number": 63178, "created_at": "2023-09-23", "closed_at": "2023-09-23", "labels": ["gopls"], "State": "closed", "Author": "adonovan"}
+{"issue_number": 63177, "created_at": "2023-09-23", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "MagicalTux"}
+{"issue_number": 63176, "created_at": "2023-09-23", "closed_at": null, "labels": ["pkgsite"], "State": "open", "Author": "nkmr-jp"}
+{"issue_number": 63173, "created_at": "2023-09-23", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "mtibben"}
+{"issue_number": 63172, "created_at": "2023-09-22", "closed_at": "2023-09-23", "labels": [], "State": "closed", "Author": "fishy"}
+{"issue_number": 63171, "created_at": "2023-09-22", "closed_at": "2023-09-22", "labels": ["Proposal"], "State": "closed", "Author": "snadrus"}
+{"issue_number": 63169, "created_at": "2023-09-22", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "mdempsky"}
+{"issue_number": 63168, "created_at": "2023-09-22", "closed_at": "2023-10-03", "labels": ["WaitingForInfo"], "State": "closed", "Author": "hy950921"}
+{"issue_number": 63167, "created_at": "2023-09-22", "closed_at": null, "labels": ["WaitingForInfo", "CherryPickApproved"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 63166, "created_at": "2023-09-22", "closed_at": "2023-09-22", "labels": ["CherryPickCandidate"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 63164, "created_at": "2023-09-22", "closed_at": "2023-09-22", "labels": [], "State": "closed", "Author": "shiyuecamus"}
+{"issue_number": 63162, "created_at": "2023-09-22", "closed_at": "2023-09-22", "labels": [], "State": "closed", "Author": "houmie"}
+{"issue_number": 63161, "created_at": "2023-09-22", "closed_at": "2023-09-22", "labels": [], "State": "closed", "Author": "JakubC-projects"}
+{"issue_number": 63158, "created_at": "2023-09-22", "closed_at": "2023-09-22", "labels": [], "State": "closed", "Author": "ImagineYao"}
+{"issue_number": 63157, "created_at": "2023-09-22", "closed_at": "2023-09-22", "labels": [], "State": "closed", "Author": "akashjain971"}
+{"issue_number": 63156, "created_at": "2023-09-22", "closed_at": "2023-09-22", "labels": [], "State": "closed", "Author": "summer-boythink"}
+{"issue_number": 63154, "created_at": "2023-09-22", "closed_at": "2023-09-22", "labels": [], "State": "closed", "Author": "istalker2"}
+{"issue_number": 63152, "created_at": "2023-09-21", "closed_at": null, "labels": ["NeedsDecision"], "State": "open", "Author": "rogpeppe"}
+{"issue_number": 63151, "created_at": "2023-09-21", "closed_at": "2023-10-21", "labels": ["OS-Darwin", "WaitingForInfo", "NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "laplantePierre"}
+{"issue_number": 63150, "created_at": "2023-09-21", "closed_at": "2023-09-21", "labels": [], "State": "closed", "Author": "Rajan-226"}
+{"issue_number": 63149, "created_at": "2023-09-21", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "bcmills"}
+{"issue_number": 63148, "created_at": "2023-09-21", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "sweharris"}
+{"issue_number": 63147, "created_at": "2023-09-21", "closed_at": null, "labels": ["Builders", "NeedsFix"], "State": "open", "Author": "heschi"}
+{"issue_number": 63146, "created_at": "2023-09-21", "closed_at": "2023-10-18", "labels": ["WaitingForInfo", "NeedsInvestigation", "vulncheck or vulndb"], "State": "closed", "Author": "whereswaldon"}
+{"issue_number": 63145, "created_at": "2023-09-21", "closed_at": "2023-09-22", "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "alexbozhenko"}
+{"issue_number": 63144, "created_at": "2023-09-21", "closed_at": "2023-09-23", "labels": ["telemetry"], "State": "closed", "Author": "hyangah"}
+{"issue_number": 63143, "created_at": "2023-09-21", "closed_at": "2023-09-22", "labels": ["telemetry"], "State": "closed", "Author": "hyangah"}
+{"issue_number": 63142, "created_at": "2023-09-21", "closed_at": null, "labels": ["telemetry"], "State": "open", "Author": "hyangah"}
+{"issue_number": 63141, "created_at": "2023-09-21", "closed_at": "2023-09-22", "labels": ["NeedsFix", "mobile"], "State": "closed", "Author": "hajimehoshi"}
+{"issue_number": 63140, "created_at": "2023-09-21", "closed_at": "2023-09-21", "labels": [], "State": "closed", "Author": "sleagon"}
+{"issue_number": 63139, "created_at": "2023-09-21", "closed_at": "2023-11-06", "labels": ["NeedsFix", "arch-wasm"], "State": "closed", "Author": "0x5457"}
+{"issue_number": 63138, "created_at": "2023-09-21", "closed_at": "2023-09-21", "labels": ["Proposal"], "State": "closed", "Author": "burdiyan"}
+{"issue_number": 63136, "created_at": "2023-09-21", "closed_at": null, "labels": ["ToolSpeed", "NeedsInvestigation", "GoCommand"], "State": "open", "Author": "goto1134"}
+{"issue_number": 63135, "created_at": "2023-09-21", "closed_at": "2023-09-21", "labels": [], "State": "closed", "Author": "yangyile1990"}
+{"issue_number": 63134, "created_at": "2023-09-21", "closed_at": "2023-09-21", "labels": ["pkgsite"], "State": "closed", "Author": "sslime336"}
+{"issue_number": 63132, "created_at": "2023-09-20", "closed_at": null, "labels": ["NeedsInvestigation", "vulncheck or vulndb"], "State": "open", "Author": "zpavlinovic"}
+{"issue_number": 63131, "created_at": "2023-09-20", "closed_at": null, "labels": ["Proposal", "Proposal-Accepted", "arch-wasm"], "State": "open", "Author": "johanbrandhorst"}
+{"issue_number": 63130, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": [], "State": "closed", "Author": "pedroalbanese"}
+{"issue_number": 63129, "created_at": "2023-09-20", "closed_at": null, "labels": ["gopls", "telemetry", "Telemetry-Proposal"], "State": "open", "Author": "findleyr"}
+{"issue_number": 63128, "created_at": "2023-09-20", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "dsnet"}
+{"issue_number": 63127, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": [], "State": "closed", "Author": "pedroalbanese"}
+{"issue_number": 63126, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": [], "State": "closed", "Author": "arjunsk"}
+{"issue_number": 63125, "created_at": "2023-09-20", "closed_at": null, "labels": ["Builders", "NeedsInvestigation", "arch-loong64"], "State": "open", "Author": "bcmills"}
+{"issue_number": 63124, "created_at": "2023-09-20", "closed_at": null, "labels": ["Proposal", "Proposal-Crypto"], "State": "open", "Author": "mjl-"}
+{"issue_number": 63122, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": [], "State": "closed", "Author": "Manikishore-S"}
+{"issue_number": 63121, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["Soon", "vulncheck or vulndb"], "State": "closed", "Author": "bcmills"}
+{"issue_number": 63120, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": [], "State": "closed", "Author": "Manikishore-S"}
+{"issue_number": 63119, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["Proposal"], "State": "closed", "Author": "bkielbasa"}
+{"issue_number": 63118, "created_at": "2023-09-20", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "mateusz834"}
+{"issue_number": 63117, "created_at": "2023-09-20", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "mjl-"}
+{"issue_number": 63116, "created_at": "2023-09-20", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "mateusz834"}
+{"issue_number": 63115, "created_at": "2023-09-20", "closed_at": "2023-11-04", "labels": ["Performance", "WaitingForInfo", "NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "necheffa"}
+{"issue_number": 63114, "created_at": "2023-09-20", "closed_at": "2023-09-21", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "hbread00"}
+{"issue_number": 63113, "created_at": "2023-09-20", "closed_at": "2023-11-13", "labels": ["WaitingForInfo", "NeedsInvestigation", "GoCommand", "modules"], "State": "closed", "Author": "ngshiheng"}
+{"issue_number": 63112, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": [], "State": "closed", "Author": "Rohsichan"}
+{"issue_number": 63110, "created_at": "2023-09-20", "closed_at": null, "labels": ["NeedsFix", "compiler/runtime"], "State": "open", "Author": "Jorropo"}
+{"issue_number": 63109, "created_at": "2023-09-20", "closed_at": "2023-09-20", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "budougumi0617"}
+{"issue_number": 63103, "created_at": "2023-09-19", "closed_at": "2023-11-09", "labels": ["help wanted", "NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "rhysh"}
+{"issue_number": 63078, "created_at": "2023-09-19", "closed_at": "2023-11-09", "labels": ["help wanted", "NeedsInvestigation", "compiler/runtime"], "State": "closed", "Author": "rhysh"}
+{"issue_number": 63043, "created_at": "2023-09-19", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "rhysh"}
+{"issue_number": 63042, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["website"], "State": "closed", "Author": "alurm"}
+{"issue_number": 62887, "created_at": "2023-09-19", "closed_at": null, "labels": ["OS-Windows", "NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "corhere"}
+{"issue_number": 62739, "created_at": "2023-09-19", "closed_at": "2023-09-21", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "lhinderberger"}
+{"issue_number": 62738, "created_at": "2023-09-19", "closed_at": "2023-09-22", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "lhinderberger"}
+{"issue_number": 62737, "created_at": "2023-09-19", "closed_at": null, "labels": ["NeedsInvestigation", "compiler/runtime"], "State": "open", "Author": "mknyszek"}
+{"issue_number": 62736, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["Proposal", "GoCommand"], "State": "closed", "Author": "Jorropo"}
+{"issue_number": 62735, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": [], "State": "closed", "Author": "Naatan"}
+{"issue_number": 62734, "created_at": "2023-09-19", "closed_at": "2023-10-13", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 62733, "created_at": "2023-09-19", "closed_at": "2023-10-24", "labels": ["Builders", "NeedsFix"], "State": "closed", "Author": "cagedmantis"}
+{"issue_number": 62732, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["vulncheck or vulndb"], "State": "closed", "Author": "chekitaderi17"}
+{"issue_number": 62731, "created_at": "2023-09-19", "closed_at": "2023-09-25", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "pschultz"}
+{"issue_number": 62730, "created_at": "2023-09-19", "closed_at": "2023-09-21", "labels": ["gopls", "Tools"], "State": "closed", "Author": "Shane-XB-Qian"}
+{"issue_number": 62729, "created_at": "2023-09-19", "closed_at": null, "labels": ["Proposal"], "State": "open", "Author": "Deleplace"}
+{"issue_number": 62728, "created_at": "2023-09-19", "closed_at": null, "labels": ["Proposal", "Proposal-Accepted"], "State": "open", "Author": "mknyszek"}
+{"issue_number": 62727, "created_at": "2023-09-19", "closed_at": null, "labels": ["OS-Dragonfly", "NeedsInvestigation"], "State": "open", "Author": "gopherbot"}
+{"issue_number": 62726, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["pkgsite", "pkgsite/package-removal"], "State": "closed", "Author": "kkrypt0nn"}
+{"issue_number": 62725, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["OS-Darwin", "arch-arm64", "compiler/runtime"], "State": "closed", "Author": "egonelbre"}
+{"issue_number": 62724, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["Testing", "NeedsFix", "GoCommand"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 62723, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["arch-arm64", "compiler/runtime"], "State": "closed", "Author": "yshcz"}
+{"issue_number": 62722, "created_at": "2023-09-19", "closed_at": null, "labels": ["NeedsInvestigation"], "State": "open", "Author": "dbuteyn"}
+{"issue_number": 62720, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["pkgsite"], "State": "closed", "Author": "tiulpin"}
+{"issue_number": 62719, "created_at": "2023-09-19", "closed_at": "2023-09-20", "labels": ["Testing", "NeedsFix", "compiler/runtime"], "State": "closed", "Author": "qiulaidongfeng"}
+{"issue_number": 62718, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": [], "State": "closed", "Author": "fasmat"}
+{"issue_number": 62717, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": ["NeedsInvestigation"], "State": "closed", "Author": "gopherbot"}
+{"issue_number": 62716, "created_at": "2023-09-19", "closed_at": "2023-09-19", "labels": [], "State": "closed", "Author": "QiuYeHong90"}
+{"issue_number": 62715, "created_at": "2023-09-19", "closed_at": "2023-10-20", "labels": ["WaitingForInfo", "gopls", "Tools"], "State": "closed", "Author": "li1234yun"}
+{"issue_number": 62712, "created_at": "2023-09-18", "closed_at": null, "labels": ["OS-Windows", "NeedsInvestigation"], "State": "open", "Author": "corhere"}
