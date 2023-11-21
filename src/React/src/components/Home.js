@@ -29,8 +29,36 @@ const drawerWidth = 240;
 // List of GitHub repositories 
 const repositories = [
   {
-    key: "angular/angular",
-    value: "Angular",
+    key: "openai/openai-cookbook",
+    value: "OpenAI Cookbook",
+  },
+  {
+    key: "openai/openai-python",
+    value: "OpenAI Python",
+  },
+  {
+    key: "openai/openai-quickstart-python",
+    value: "OpenAI Quickstart Python",
+  },
+  {
+    key: "milvus-io/pymilvus",
+    value: "Milvus Python",
+  },
+  {
+    key: "SeleniumHQ/selenium",
+    value: "Selenium",
+  },
+  {
+    key: "golang/go",
+    value: "GO",
+  },
+  {
+    key: "google/go-github",
+    value: "Google GO",
+  },
+  {
+    key: "sebholstein/angular-google-maps",
+    value: "Angular Google Maps",
   },
   {
     key: "angular/angular-cli",
@@ -43,6 +71,22 @@ const repositories = [
   {
     key: "d3/d3",
     value: "D3",
+  },
+  {
+    key: "facebook/react",
+    value: "React",
+  },
+  {
+    key: "tensorflow/tensorflow",
+    value: "Tensorflow",
+  },
+  {
+    key: "keras-team/keras",
+    value: "Keras",
+  },
+  {
+    key: "pallets/flask",
+    value: "Flask",
   },
 ];
 
