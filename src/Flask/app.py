@@ -46,7 +46,7 @@ def github():
     repo_name = body['repository']
     # Add your own GitHub Token to run it local
     token = os.environ.get(
-        'GITHUB_TOKEN', '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')
+        'GITHUB_TOKEN', 'config.github_token')
     GITHUB_URL = [
         "https://api.github.com/repos/openai/openai-cookbook",
         "https://api.github.com/repos/openai/openai-cookbook",
@@ -264,7 +264,7 @@ def github():
     }
 
     # Update your Google cloud deployed LSTM app URL (NOTE: DO NOT REMOVE "/")
-    LSTM_API_URL = "your_lstm_gcloud_url/" + "api/forecast"
+    LSTM_API_URL = "https://lstm-3eflqqxyca-uc.a.run.app/" + "api/forecast"
 
     '''
     Trigger the LSTM microservice to forecasted the created issues
