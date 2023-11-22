@@ -24,7 +24,7 @@ import ListItemText from "@mui/material/ListItemText";
 import BarCharts from "./BarCharts";
 import Loader from "./Loader";
 import { ListItemButton } from "@mui/material";
-
+import LineCharts from "./LineCharts";
 const drawerWidth = 240;
 // List of GitHub repositories 
 const repositories = [
@@ -37,12 +37,12 @@ const repositories = [
     value: "OpenAI Python",
   },
   {
-    key: "openai/openai-quickstart-python",
+    key: "openai/openai-quickstartpython",
     value: "OpenAI Quickstart Python",
   },
   {
     key: "milvus-io/pymilvus",
-    value: "Milvus Python",
+    value: "PyMilvus",
   },
   {
     key: "SeleniumHQ/selenium",
@@ -50,23 +50,23 @@ const repositories = [
   },
   {
     key: "golang/go",
-    value: "GO",
+    value: "Go",
   },
   {
     key: "google/go-github",
-    value: "Google GO",
-  },
-  {
-    key: "sebholstein/angular-google-maps",
-    value: "Angular Google Maps",
-  },
-  {
-    key: "angular/angular-cli",
-    value: "Angular-cli",
+    value: "Go GitHub",
   },
   {
     key: "angular/material",
     value: "Angular Material",
+  },
+  {
+    key: "angular/angular-cli",
+    value: "Angular CLI",
+  },
+  {
+    key: "SebastianM/angular-googlemaps",
+    value: "Angular Google Maps",
   },
   {
     key: "d3/d3",
@@ -78,7 +78,7 @@ const repositories = [
   },
   {
     key: "tensorflow/tensorflow",
-    value: "Tensorflow",
+    value: "TensorFlow",
   },
   {
     key: "keras-team/keras",
@@ -89,6 +89,7 @@ const repositories = [
     value: "Flask",
   },
 ];
+
 
 export default function Home() {
   /*
@@ -105,10 +106,19 @@ export default function Home() {
   Angular-cli, Material Design, and D3
   The repository "key" will be sent to flask microservice in a request body
   */
-  const [repository, setRepository] = useState({
-    key: "angular/angular",
-    value: "Angular",
+  const initialRepositoryState = (repo) => ({
+    key: repo.key,
+    value: repo.value,
   });
+  
+  const initialRepositoriesState = repositories.reduce(
+    (acc, repo) => ({ ...acc, [repo.value]: initialRepositoryState(repo) }),
+    {}
+  );
+  
+  const [repository, setRepository] = useState(initialRepositoriesState);
+  
+  
   /*
   
   The first element is the initial state (i.e. githubRepoData) and the second one is a function 
@@ -220,6 +230,23 @@ export default function Home() {
           <Loader />
         ) : (
           <div>
+            <LineCharts
+              title={`Issues by repository for ${repository.value} in last 1 years`}
+              data={githubRepoData?.created}
+            />
+            
+            {/* Render barchart component for a monthly created issues for a selected repositories*/}
+            <BarCharts
+              title={`Star Count for Every Repo`}
+              data={githubRepoData?.starCount}
+              axis_name="Stars"
+
+            />
+            <BarCharts
+              title={`Fork Count for Every Repo`}
+              data={githubRepoData?.forkCount}
+              axis_name="Forks"
+            />
             {/* Render barchart component for a monthly created issues for a selected repositories*/}
             <BarCharts
               title={`Monthly Created Issues for ${repository.value} in last 1 year`}
@@ -228,6 +255,11 @@ export default function Home() {
             {/* Render barchart component for a monthly created issues for a selected repositories*/}
             <BarCharts
               title={`Monthly Closed Issues for ${repository.value} in last 1 year`}
+              data={githubRepoData?.closed}
+            />
+
+            <StackedBarCharts
+              title={`Created and Closed Issues for ${repository.value} in last 1 year`}
               data={githubRepoData?.closed}
             />
             <Divider
@@ -326,6 +358,288 @@ export default function Home() {
                 />
               </div>
             </div>
+
+            //Adding CODE FROM HERE!
+            {/* Rendering Timeseries Forecasting of Pull Requests using Tensorflow and
+                Keras LSTM  */}
+            <div>
+              <Divider
+                sx={{ borderBlockWidth: "3px", borderBlockColor: "#FFA500" }}
+              />
+              <Typography variant="h5" component="div" gutterBottom>
+                Timeseries Forecasting of Pull Requests using Tensorflow and
+                Keras LSTM based on past month
+              </Typography>
+
+              <div>
+                <Typography component="h4">
+                  Model Loss for Pull Requests
+                </Typography>
+                {/* Render the model loss image for Pull Requests  */}
+                <img
+                  src={githubRepoData?.pullsImageUrls?.model_loss_image_url}
+                  alt={"Model Loss for Pull Requests"}
+                  loading={"lazy"}
+                />
+              </div>
+              <div>
+                <Typography component="h4">
+                  LSTM Generated Data for Pull Requests
+                </Typography>
+                {/* Render the LSTM generated image for Pull Requests */}
+                <img
+                  src={
+                    githubRepoData?.pullsImageUrls?.lstm_generated_image_url
+                  }
+                  alt={"LSTM Generated Data for Pull Requests"}
+                  loading={"lazy"}
+                />
+              </div>
+              <div>
+                <Typography component="h4">
+                  All Pull Requests Data for Created Pull Requests
+                </Typography>
+                {/* Render the all pull requests data image for Created Pull Requests */}
+                <img
+                  src={
+                    githubRepoData?.pullsImageUrls?.all_issues_data_image
+                  }
+                  alt={"All Pull Requests Data for Created Pull Requests"}
+                  loading={"lazy"}
+                />
+              </div>              
+            </div>
+
+            <div>
+              <Divider
+                sx={{ borderBlockWidth: "3px", borderBlockColor: "#FFA500" }}
+              />
+              <Typography variant="h5" component="div" gutterBottom>
+                Timeseries Forecasting of Created Issues using Prophet 
+              </Typography>
+              <img
+                  src={githubRepoData?.createdAtImageUrls?.forecast_plot_image_url}
+                  alt={"Timeseries Forecasting of Created Issues using Prophet"}
+                  loading={"lazy"}
+                />
+              <div>
+                <Typography component="h4">
+                  Prophet generated components Data for Created Issues
+                </Typography>
+                <img
+                  src={
+                    githubRepoData?.createdAtImageUrls?.components_forecast_plot_image_url
+                  }
+                  alt={"Prophet generated components Data for Created Issues"}
+                  loading={"lazy"}
+                />
+              </div>
+              <div>
+                <Typography component="h4">
+                  Prophet generated data of day of the week maximum number of Created Issues
+                </Typography>
+                <img
+                  src={
+                    githubRepoData?.createdAtImageUrls?.weekly_forecast_plot_image_url
+                  }
+                  alt={"Prophet generated data of day of the week maximum number of Created Issues"}
+                  loading={"lazy"}
+                />
+              </div>
+            </div>
+
+            <div>
+              <Divider
+                sx={{ borderBlockWidth: "3px", borderBlockColor: "#FFA500" }}
+              />
+              <Typography variant="h5" component="div" gutterBottom>
+                Timeseries Forecasting of Closed Issues using Prophet 
+              </Typography>
+              <div>
+                <Typography component="h4">
+                  Prophet generated Data for Close Issues
+                </Typography>
+                {/* Render the all pull requests data image for Created Pull Requests */}
+                <img
+                  src={
+                    githubRepoData?.closedAtImageUrls?.forecast_plot_image_url
+                  }
+                  alt={"Prophet generated Data for Close Issues Pull Requests"}
+                  loading={"lazy"}
+                />
+              </div>
+              <div>
+                <Typography component="h4">
+                  Prophet generated components Data for Closed Issues
+                </Typography>
+                <img
+                  src={
+                    githubRepoData?.closedAtImageUrls?.components_forecast_plot_image_url
+                  }
+                  alt={"Prophet generated components Data for Closed Issues"}
+                  loading={"lazy"}
+                />
+              </div>
+              <div>
+                <Typography component="h4">
+                Prophet generated data of day of the week maximum number of Closed Issues
+                </Typography>
+                {/* Render the all pull requests data image for Created Pull Requests */}
+                <img
+                  src={
+                    githubRepoData?.closedAtImageUrls?.weekly_forecast_plot_image_url
+                  }
+                  alt={"Prophet generated data of day of the week maximum number of Closed Issues"}
+                  loading={"lazy"}
+                />
+              </div>
+              <div>
+                <Typography component="h4">
+                Prophet generated data the month of the year that has maximum number of Closed Issues
+                </Typography>
+                {/* Render the all pull requests data image for Created Pull Requests */}
+                <img
+                  src={
+                    githubRepoData?.closedAtImageUrls?.monthly_forecast_plot_image_url
+                  }
+                  alt={"Prophet generated data the month of the year that has maximum number of Closed Issues"}
+                  loading={"lazy"}
+                />
+              </div>
+            </div>
+
+            <div>
+              <Divider
+                sx={{ borderBlockWidth: "3px", borderBlockColor: "#FFA500" }}
+              />
+              <Typography variant="h5" component="div" gutterBottom>
+                Timeseries Forecasting of Pull Requests using Prophet
+              </Typography>
+              <div>
+                <Typography component="h4">
+                  Prophet generated Data for Pull Requests
+                </Typography>
+                <img
+                  src={
+                    githubRepoData?.pullsImageUrls?.forecast_plot_image_url
+                  }
+                  alt={"Prophet generated Data for Pull Requests"}
+                  loading={"lazy"}
+                />
+              </div>
+
+              <div>
+                <Typography component="h4">
+                  Prophet generated components Data for Pull Requests
+                </Typography>
+                <img
+                  src={
+                    githubRepoData?.pullsImageUrls?.components_forecast_plot_image_url
+                  }
+                  alt={"Prophet generated components Data for Pull Requests"}
+                  loading={"lazy"}
+                />
+              </div>
+            </div>  
+
+            <div>
+              <Divider
+                sx={{ borderBlockWidth: "3px", borderBlockColor: "#FFA500" }}
+              />
+              <Typography variant="h5" component="div" gutterBottom>
+                Timeseries Forecasting of Created Issues using StatsModel 
+              </Typography>
+              <div>
+                <Typography component="h4">
+                  StatsModel generated Data for Created Issues
+                </Typography>
+                <img
+                  src={
+                    githubRepoData?.createdAtImageUrls?.statsmodel_plot_image_url
+                  }
+                  alt={"StatsModel generated Data for Created Issues"}
+                  loading={"lazy"}
+                />
+              </div>
+              <div>
+                <Typography component="h4">
+                  Actual vs StatsModel generated Data for Created Issues
+                </Typography>
+                <img
+                  src={
+                    githubRepoData?.createdAtImageUrls?.another_statsmodel_plot_image_url
+                  }
+                  alt={"Actual vs StatsModel generated Data for Created Issues"}
+                  loading={"lazy"}
+                />
+              </div>
+            </div>  
+
+            <div>
+              <Divider
+                sx={{ borderBlockWidth: "3px", borderBlockColor: "#FFA500" }}
+              />
+              <Typography variant="h5" component="div" gutterBottom>
+                Timeseries Forecasting of Closed Issues using StatsModel 
+              </Typography>
+              <div>
+                <Typography component="h4">
+                  StatsModel generated Data for Closed Issues
+                </Typography>
+                <img
+                  src={
+                    githubRepoData?.closedAtImageUrls?.statsmodel_plot_image_url
+                  }
+                  alt={"StatsModel generated Data for Closed Issues"}
+                  loading={"lazy"}
+                />
+              </div>
+              <div>
+                <Typography component="h4">
+                  Actual vs StatsModel generated Data for Closed Issues
+                </Typography>
+                <img
+                  src={
+                    githubRepoData?.closedAtImageUrls?.another_statsmodel_plot_image_url
+                  }
+                  alt={"Actual vs StatsModel generated Data for Closed Issues"}
+                  loading={"lazy"}
+                />
+              </div>
+            </div>
+            <div>
+              <Divider
+                sx={{ borderBlockWidth: "3px", borderBlockColor: "#FFA500" }}
+              />
+              <Typography variant="h5" component="div" gutterBottom>
+                Timeseries Forecasting of Pull Requests using StatsModel 
+              </Typography>
+              <div>
+                <Typography component="h4">
+                  StatsModel generated Data for Pull Requests
+                </Typography>
+                <img
+                  src={
+                    githubRepoData?.pullsImageUrls?.statsmodel_plot_image_url
+                  }
+                  alt={"StatsModel generated Data for Pull Requests"}
+                  loading={"lazy"}
+                />
+              </div>
+              <div>
+                <Typography component="h4">
+                  Actual vs StatsModel generated Data for Pull Requests
+                </Typography>
+                <img
+                  src={
+                    githubRepoData?.pullsImageUrls?.another_statsmodel_plot_image_url
+                  }
+                  alt={"Actual vs StatsModel generated Data for Pull Requests"}
+                  loading={"lazy"}
+                />
+              </div>
+            </div>
+{/* //end of add code */}
           </div>
         )}
       </Box>

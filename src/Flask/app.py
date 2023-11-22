@@ -1,19 +1,4 @@
-'''
-Goal of Flask Microservice:
-1. Flask will take the repository_name such as angular, angular-cli, material-design, D3 from the body of the api sent from React app and 
-   will utilize the GitHub API to fetch the created and closed issues. Additionally, it will also fetch the author_name and other 
-   information for the created and closed issues.
-2. It will use group_by to group the data (created and closed issues) by month and will return the grouped data to client (i.e. React app).
-3. It will then use the data obtained from the GitHub API (i.e Repository information from GitHub) and pass it as a input request in the 
-   POST body to LSTM microservice to predict and forecast the data.
-4. The response obtained from LSTM microservice is also return back to client (i.e. React app).
 
-Use Python/GitHub API to retrieve Issues/Repos information of the past 1 year for the following repositories:
-- https: // github.com/angular/angular
-- https: // github.com/angular/material
-- https: // github.com/angular/angular-cli
-- https: // github.com/d3/d3
-'''
 # Import all the required packages 
 import os
 from flask import Flask, jsonify, request, make_response, Response
@@ -24,6 +9,9 @@ from dateutil import *
 from datetime import date
 import pandas as pd
 import requests
+import matplotlib.pyplot as plt
+import numpy as np
+
 
 # Initilize flask app
 app = Flask(__name__)
@@ -53,12 +41,30 @@ This API will accept only POST request
 @app.route('/api/github', methods=['POST'])
 def github():
     body = request.get_json()
+    print(body)
     # Extract the choosen repositories from the request
     repo_name = body['repository']
     # Add your own GitHub Token to run it local
     token = os.environ.get(
-        'GITHUB_TOKEN', 'YOUR_GITHUB_TOKEN')
-    GITHUB_URL = f"https://api.github.com/"
+        'GITHUB_TOKEN', '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')
+    GITHUB_URL = [
+        "https://api.github.com/repos/openai/openai-cookbook",
+        "https://api.github.com/repos/openai/openai-cookbook",
+        "https://api.github.com/repos/openai/openai-python",
+        "https://api.github.com/repos/openai/openai-quickstart-python",
+        "https://api.github.com/repos/milvus-io/pymilvus",
+        "https://api.github.com/repos/SeleniumHQ/selenium",
+        "https://api.github.com/repos/golang/go",
+        "https://api.github.com/repos/google/go-github",
+        "https://api.github.com/repos/angular/material",
+        "https://api.github.com/repos/angular/angular-cli",
+        "https://api.github.com/repos/SebastianM/angular-google-maps",
+        "https://api.github.com/repos/d3/d3",
+        "https://api.github.com/repos/facebook/react",
+        "https://api.github.com/repos/tensorflow/tensorflow",
+        "https://api.github.com/repos/keras-team/keras",
+        "https://api.github.com/repos/pallets/flask"
+    ]
     headers = {
         "Authorization": f'token {token}'
     }
@@ -74,8 +80,8 @@ def github():
     today = date.today()
 
     issues_reponse = []
-    # Iterating to get issues for every month for the past 12 months
-    for i in range(12):
+    # Iterating to get issues for every month for the past 2 months
+    for i in range(2):
         last_month = today + dateutil.relativedelta.relativedelta(months=-1)
         types = 'type:issue'
         repo = 'repo:' + repo_name
@@ -135,41 +141,110 @@ def github():
     df_created_at = df.groupby(['created_at'], as_index=False).count()
     dataFrameCreated = df_created_at[['created_at', 'issue_number']]
     dataFrameCreated.columns = ['date', 'count']
+    df['created_at'] = pd.to_datetime(df['created_at'])
+    df['closed_at'] = pd.to_datetime(df['closed_at'])
+    # Convert specified columns to appropriate data types
+    columns_to_convert = ['issues', 'issues_closed', 'stars', 'forks']
+    df[columns_to_convert] = df[columns_to_convert].astype(int)
+    # Ensure 'repo' column is in string format (adjust if needed)
+    df['repo'] = df['repo'].astype(str)
+    
+   # A Line Chart to plot the issues for every Repo
+    repo_names = df['repo'].unique()
+    plt.figure(figsize=(10, 6))
+    for repo_name in repo_names:
+        repo_data = df[df['repo'] == repo_name]
+        plt.plot(repo_data['created_at'], repo_data['issues'], label=repo_name)
 
+    plt.title('Issues Over Time for Every Repo')
+    plt.xlabel('Date')
+    plt.ylabel('Number of Issues')
+    plt.legend()
+    plt.show()
+
+
+
+    # A Bar Chart to plot the stars for every Repo
+    plt.figure(figsize=(10, 6))
+    for repo_name in repo_names:
+        repo_data = df[df['repo'] == repo_name]
+        plt.bar(repo_data['created_at'], repo_data['stars'], label=repo_name, alpha=0.7)
+
+    plt.title('Stars for Every Repo Over Time')
+    plt.xlabel('Date')
+    plt.ylabel('Number of Stars')
+    plt.legend()
+    plt.show()
+
+    # A Bar Chart to plot the forks for every Repo
+    plt.figure(figsize=(10, 6))
+    for repo_name in repo_names:
+        repo_data = df[df['repo'] == repo_name]
+        plt.bar(repo_data['created_at'], repo_data['forks'], label=repo_name, alpha=0.7)
+
+    plt.title('Forks for Every Repo Over Time')
+    plt.xlabel('Date')
+    plt.ylabel('Number of Forks')
+    plt.legend()
+    plt.show()
+
+    # A Bar Chart to plot the issues closed for every week for every Repo
+    plt.figure(figsize=(12, 6))
+    for repo_name in repo_names:
+        repo_data = df[df['repo'] == repo_name]
+        plt.bar(repo_data['closed_at'], repo_data['issues_closed'], label=repo_name, alpha=0.7)
+
+    plt.title('Weekly Issues Closed for Every Repo')
+    plt.xlabel('Week')
+    plt.ylabel('Number of Issues Closed')
+    plt.legend()
+    plt.show()
+
+    # A Stack-Bar Chart to plot the created and closed issues for every Repo
+    plt.figure(figsize=(12, 6))
+    for repo_name in repo_names:
+        repo_data = df[df['repo'] == repo_name]
+        plt.bar(repo_data['created_at'], repo_data['issues'], label='Created - ' + repo_name, alpha=0.7)
+        plt.bar(repo_data['closed_at'], repo_data['issues_closed'], label='Closed - ' + repo_name, alpha=0.7)
+
+    plt.title('Created and Closed Issues for Every Repo Over Time')
+    plt.xlabel('Date')
+    plt.ylabel('Number of Issues')
+    plt.legend()
+    plt.show() 
+        
     '''
-    Monthly Created Issues
-    Format the data by grouping the data by month
-    ''' 
+    # Monthly Created Issues
+    # Format the data by grouping the data by month
+    # ''' 
     created_at = df['created_at']
     month_issue_created = pd.to_datetime(
         pd.Series(created_at), format='%Y-%m-%d')
     month_issue_created.index = month_issue_created.dt.to_period('m')
     month_issue_created = month_issue_created.groupby(level=0).size()
     month_issue_created = month_issue_created.reindex(pd.period_range(
-        month_issue_created.index.min(), month_issue_created.index.max(), freq='m'), fill_value=0)
+    month_issue_created.index.min(), month_issue_created.index.max(), freq='m'), fill_value=0)
     month_issue_created_dict = month_issue_created.to_dict()
     created_at_issues = []
     for key in month_issue_created_dict.keys():
         array = [str(key), month_issue_created_dict[key]]
         created_at_issues.append(array)
 
-    '''
-    Monthly Closed Issues
-    Format the data by grouping the data by month
-    ''' 
-    
+    # Weekly Closed Issues
+    # Format the data by grouping the data by week
     closed_at = df['closed_at'].sort_values(ascending=True)
-    month_issue_closed = pd.to_datetime(
+    week_issue_closed = pd.to_datetime(
         pd.Series(closed_at), format='%Y-%m-%d')
-    month_issue_closed.index = month_issue_closed.dt.to_period('m')
-    month_issue_closed = month_issue_closed.groupby(level=0).size()
-    month_issue_closed = month_issue_closed.reindex(pd.period_range(
-        month_issue_closed.index.min(), month_issue_closed.index.max(), freq='m'), fill_value=0)
-    month_issue_closed_dict = month_issue_closed.to_dict()
+    week_issue_closed.index = week_issue_closed.dt.to_period('W-Mon')  # Group by week starting on Monday
+    week_issue_closed = week_issue_closed.groupby(level=0).size()
+    week_issue_closed = week_issue_closed.reindex(pd.period_range(
+        week_issue_closed.index.min(), week_issue_closed.index.max(), freq='W-Mon'), fill_value=0)
+    week_issue_closed_dict = week_issue_closed.to_dict()
     closed_at_issues = []
-    for key in month_issue_closed_dict.keys():
-        array = [str(key), month_issue_closed_dict[key]]
+    for key in week_issue_closed_dict.keys():
+        array = [str(key), week_issue_closed_dict[key]]
         closed_at_issues.append(array)
+
 
     '''
         1. Hit LSTM Microservice by passing issues_response as body

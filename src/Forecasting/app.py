@@ -80,6 +80,7 @@ def forecast():
     X = lzip(*days.index.values)[0]
     firstDay = min(X)
 
+    
     '''
     To achieve data consistancy with both actual data and predicted values, 
     add zeros to dates that do not have orders
@@ -151,49 +152,43 @@ def forecast():
     LOCAL_IMAGE_PATH = "static/images/"
 
     # Creating the image path for model loss, LSTM generated image and all issues data image
-    MODEL_LOSS_IMAGE_NAME = "model_loss_" + type +"_"+ repo_name + ".png"
-    MODEL_LOSS_URL = BASE_IMAGE_PATH + MODEL_LOSS_IMAGE_NAME
 
-    LSTM_GENERATED_IMAGE_NAME = "lstm_generated_data_" + type +"_" + repo_name + ".png"
-    LSTM_GENERATED_URL = BASE_IMAGE_PATH + LSTM_GENERATED_IMAGE_NAME
 
-    ALL_ISSUES_DATA_IMAGE_NAME = "all_issues_data_" + type + "_"+ repo_name + ".png"
-    ALL_ISSUES_DATA_URL = BASE_IMAGE_PATH + ALL_ISSUES_DATA_IMAGE_NAME
+    CLOSED_ISSUES_FORECAST_IMAGE_NAME = "forecast_closed_issues_" + type + "_" + repo_name + ".png"
+    CLOSED_ISSUES_FORECAST_URL = BASE_IMAGE_PATH + CLOSED_ISSUES_FORECAST_IMAGE_NAME 
+   # Forecasting for created issues
+    CREATED_ISSUES_FORECAST_IMAGE_NAME = "forecast_created_issues_" + type + "_" + repo_name + ".png"
+    CREATED_ISSUES_FORECAST_URL = BASE_IMAGE_PATH + CREATED_ISSUES_FORECAST_IMAGE_NAME 
+
+    PULLS_FORECAST_IMAGE_NAME = "forecast_pulls_" + type + "_" + repo_name + ".png"
+    PULLS_FORECAST_URL = BASE_IMAGE_PATH + PULLS_FORECAST_IMAGE_NAME 
+
+    COMMITS_FORECAST_IMAGE_NAME = "forecast_commits_" + type + "_" + repo_name + ".png"
+    COMMITS_FORECAST_URL = BASE_IMAGE_PATH + COMMITS_FORECAST_IMAGE_NAME 
+
+    BRANCHES_FORECAST_IMAGE_NAME = "forecast_branches_" + type + "_" + repo_name + ".png"
+    BRANCHES_FORECAST_URL = BASE_IMAGE_PATH + BRANCHES_FORECAST_IMAGE_NAME 
+
+    CONTRIBUTORS_FORECAST_IMAGE_NAME = "forecast_contributors_" + type + "_" + repo_name + ".png"
+    CONTRIBUTORS_FORECAST_URL = BASE_IMAGE_PATH + CONTRIBUTORS_FORECAST_IMAGE_NAME 
+
+    RELEASES_FORECAST_IMAGE_NAME = "forecast_releases_" + type + "_" + repo_name + ".png"
+    RELEASES_FORECAST_URL = BASE_IMAGE_PATH + RELEASES_FORECAST_IMAGE_NAME 
+
+    FORECAST_DAY_OF_WEEK_CREATED_IMAGE_NAME = "forecast_day_of_week_created_" + type + "_" + repo_name + ".png"
+    FORECAST_DAY_OF_WEEK_CREATED_URL = BASE_IMAGE_PATH + FORECAST_DAY_OF_WEEK_CREATED_IMAGE_NAME
+
+    FORECAST_DAY_OF_WEEK_CLOSED_IMAGE_NAME = "forecast_day_of_week_closed_" + type + "_" + repo_name + ".png"
+    FORECAST_DAY_OF_WEEK_CLOSED_URL = BASE_IMAGE_PATH + FORECAST_DAY_OF_WEEK_CLOSED_IMAGE_NAME
+
+    FORECAST_MONTH_CLOSED_IMAGE_NAME = "forecast_month_closed_" + type + "_" + repo_name + ".png"
+    FORECAST_MONTH_CLOSED_URL = BASE_IMAGE_PATH + FORECAST_MONTH_CLOSED_IMAGE_NAME
 
     # Add your unique Bucket Name if you want to run it local
     BUCKET_NAME = os.environ.get(
         'BUCKET_NAME', 'Your_BUCKET_NAME')
 
     # Model summary()
-
-    # Plot the model loss image
-    plt.figure(figsize=(8, 4))
-    plt.plot(history.history['loss'], label='Train Loss')
-    plt.plot(history.history['val_loss'], label='Test Loss')
-    plt.title('Model Loss For ' + type)
-    plt.ylabel('Loss')
-    plt.xlabel('Epochs')
-    plt.legend(loc='upper right')
-    # Save the figure in /static/images folder
-    plt.savefig(LOCAL_IMAGE_PATH + MODEL_LOSS_IMAGE_NAME)
-
-    # Predict issues for test data
-    y_pred = model.predict(X_test)
-
-    # Plot the LSTM Generated image
-    fig, axs = plt.subplots(1, 1, figsize=(10, 4))
-    X = mdates.date2num(days)
-    axs.plot(np.arange(0, len(Y_train)), Y_train, 'g', label="history")
-    axs.plot(np.arange(len(Y_train), len(Y_train) + len(Y_test)),
-             Y_test, marker='.', label="true")
-    axs.plot(np.arange(len(Y_train), len(Y_train) + len(Y_test)),
-             y_pred, 'r', label="prediction")
-    axs.legend()
-    axs.set_title('LSTM Generated Data For ' + type)
-    axs.set_xlabel('Time Steps')
-    axs.set_ylabel('Issues')
-    # Save the figure in /static/images folder
-    plt.savefig(LOCAL_IMAGE_PATH + LSTM_GENERATED_IMAGE_NAME)
 
     # Plot the All Issues data images
     fig, axs = plt.subplots(1, 1, figsize=(10, 4))
@@ -203,29 +198,192 @@ def forecast():
     axs.xaxis.set_major_locator(locator)
     axs.xaxis.set_major_formatter(mdates.AutoDateFormatter(locator))
     axs.legend()
-    axs.set_title('All Issues Data')
+    axs.set_title('forecast_day_of_week_created')
     axs.set_xlabel('Date')
     axs.set_ylabel('Issues')
     # Save the figure in /static/images folder
-    plt.savefig(LOCAL_IMAGE_PATH + ALL_ISSUES_DATA_IMAGE_NAME)
+    plt.savefig(LOCAL_IMAGE_PATH + FORECAST_DAY_OF_WEEK_CREATED_IMAGE_NAME)
+    
+    # Plot the All Issues data images
+    fig, axs = plt.subplots(1, 1, figsize=(10, 4))
+    X = mdates.date2num(days)
+    axs.plot(X, Ys, 'purple', marker='.')
+    locator = mdates.AutoDateLocator()
+    axs.xaxis.set_major_locator(locator)
+    axs.xaxis.set_major_formatter(mdates.AutoDateFormatter(locator))
+    axs.legend()
+    axs.set_title('forecast_day_of_week_closed')
+    axs.set_xlabel('Date')
+    axs.set_ylabel('Issues')
+    # Save the figure in /static/images folder
+    plt.savefig(LOCAL_IMAGE_PATH + FORECAST_DAY_OF_WEEK_CLOSED_IMAGE_NAME)
 
+    # Plot the All Issues data images
+    fig, axs = plt.subplots(1, 1, figsize=(10, 4))
+    X = mdates.date2num(days)
+    axs.plot(X, Ys, 'purple', marker='.')
+    locator = mdates.AutoDateLocator()
+    axs.xaxis.set_major_locator(locator)
+    axs.xaxis.set_major_formatter(mdates.AutoDateFormatter(locator))
+    axs.legend()
+    axs.set_title('forecast_month_closed')
+    axs.set_xlabel('Date')
+    axs.set_ylabel('Issues')
+    # Save the figure in /static/images folder
+    plt.savefig(LOCAL_IMAGE_PATH + FORECAST_MONTH_CLOSED_IMAGE_NAME)
+
+   # Plot the All Issues data images
+    fig, axs = plt.subplots(1, 1, figsize=(10, 4))
+    X = mdates.date2num(days)
+    axs.plot(X, Ys, 'purple', marker='.')
+    locator = mdates.AutoDateLocator()
+    axs.xaxis.set_major_locator(locator)
+    axs.xaxis.set_major_formatter(mdates.AutoDateFormatter(locator))
+    axs.legend()
+    axs.set_title('forecast_created_issues')
+    axs.set_xlabel('Date')
+    axs.set_ylabel('Issues')
+    # Save the figure in /static/images folder
+    plt.savefig(LOCAL_IMAGE_PATH + CREATED_ISSUES_FORECAST_IMAGE_NAME) 
+    
+    # Plot the All Issues data images
+    fig, axs = plt.subplots(1, 1, figsize=(10, 4))
+    X = mdates.date2num(days)
+    axs.plot(X, Ys, 'purple', marker='.')
+    locator = mdates.AutoDateLocator()
+    axs.xaxis.set_major_locator(locator)
+    axs.xaxis.set_major_formatter(mdates.AutoDateFormatter(locator))
+    axs.legend()
+    axs.set_title('forecast_closed_issues')
+    axs.set_xlabel('Date')
+    axs.set_ylabel('Issues')
+    # Save the figure in /static/images folder
+    plt.savefig(LOCAL_IMAGE_PATH + CLOSED_ISSUES_FORECAST_IMAGE_NAME) 
+    
+    # Plot the All Issues data images
+    fig, axs = plt.subplots(1, 1, figsize=(10, 4))
+    X = mdates.date2num(days)
+    axs.plot(X, Ys, 'purple', marker='.')
+    locator = mdates.AutoDateLocator()
+    axs.xaxis.set_major_locator(locator)
+    axs.xaxis.set_major_formatter(mdates.AutoDateFormatter(locator))
+    axs.legend()
+    axs.set_title('forecast_pulls')
+    axs.set_xlabel('Date')
+    axs.set_ylabel('Issues')
+    # Save the figure in /static/images folder
+    plt.savefig(LOCAL_IMAGE_PATH + PULLS_FORECAST_IMAGE_NAME)
+
+   # Plot the All Issues data images
+    fig, axs = plt.subplots(1, 1, figsize=(10, 4))
+    X = mdates.date2num(days)
+    axs.plot(X, Ys, 'purple', marker='.')
+    locator = mdates.AutoDateLocator()
+    axs.xaxis.set_major_locator(locator)
+    axs.xaxis.set_major_formatter(mdates.AutoDateFormatter(locator))
+    axs.legend()
+    axs.set_title('forecast_commits')
+    axs.set_xlabel('Date')
+    axs.set_ylabel('Issues')
+    # Save the figure in /static/images folder
+    plt.savefig(LOCAL_IMAGE_PATH + COMMITS_FORECAST_IMAGE_NAME) 
+    
+    # Plot the All Issues data images
+    fig, axs = plt.subplots(1, 1, figsize=(10, 4))
+    X = mdates.date2num(days)
+    axs.plot(X, Ys, 'purple', marker='.')
+    locator = mdates.AutoDateLocator()
+    axs.xaxis.set_major_locator(locator)
+    axs.xaxis.set_major_formatter(mdates.AutoDateFormatter(locator))
+    axs.legend()
+    axs.set_title('forecast_branches')
+    axs.set_xlabel('Date')
+    axs.set_ylabel('Issues')
+    # Save the figure in /static/images folder
+    plt.savefig(LOCAL_IMAGE_PATH + BRANCHES_FORECAST_IMAGE_NAME) 
+
+    # Plot the All Issues data images
+    fig, axs = plt.subplots(1, 1, figsize=(10, 4))
+    X = mdates.date2num(days)
+    axs.plot(X, Ys, 'purple', marker='.')
+    locator = mdates.AutoDateLocator()
+    axs.xaxis.set_major_locator(locator)
+    axs.xaxis.set_major_formatter(mdates.AutoDateFormatter(locator))
+    axs.legend()
+    axs.set_title('forecast_contributors')
+    axs.set_xlabel('Date')
+    axs.set_ylabel('Issues')
+    # Save the figure in /static/images folder
+    plt.savefig(LOCAL_IMAGE_PATH + CONTRIBUTORS_FORECAST_IMAGE_NAME)  
+
+    # Plot the All Issues data images
+    fig, axs = plt.subplots(1, 1, figsize=(10, 4))
+    X = mdates.date2num(days)
+    axs.plot(X, Ys, 'purple', marker='.')
+    locator = mdates.AutoDateLocator()
+    axs.xaxis.set_major_locator(locator)
+    axs.xaxis.set_major_formatter(mdates.AutoDateFormatter(locator))
+    axs.legend()
+    axs.set_title('forecast_releases')
+    axs.set_xlabel('Date')
+    axs.set_ylabel('Issues')
+    # Save the figure in /static/images folder
+    plt.savefig(LOCAL_IMAGE_PATH + RELEASES_FORECAST_IMAGE_NAME)  
+    
     # Uploads an images into the google cloud storage bucket
     bucket = client.get_bucket(BUCKET_NAME)
-    new_blob = bucket.blob(MODEL_LOSS_IMAGE_NAME)
+    
+    new_blob = bucket.blob(FORECAST_DAY_OF_WEEK_CREATED_IMAGE_NAME)
     new_blob.upload_from_filename(
-        filename=LOCAL_IMAGE_PATH + MODEL_LOSS_IMAGE_NAME)
-    new_blob = bucket.blob(ALL_ISSUES_DATA_IMAGE_NAME)
+        filename=LOCAL_IMAGE_PATH + FORECAST_DAY_OF_WEEK_CREATED_IMAGE_NAME)
+        
+    new_blob = bucket.blob(FORECAST_DAY_OF_WEEK_CLOSED_IMAGE_NAME)
     new_blob.upload_from_filename(
-        filename=LOCAL_IMAGE_PATH + ALL_ISSUES_DATA_IMAGE_NAME)
-    new_blob = bucket.blob(LSTM_GENERATED_IMAGE_NAME)
+        filename=LOCAL_IMAGE_PATH + FORECAST_DAY_OF_WEEK_CLOSED_IMAGE_NAME)
+        
+    new_blob = bucket.blob(FORECAST_MONTH_CLOSED_IMAGE_NAME)
     new_blob.upload_from_filename(
-        filename=LOCAL_IMAGE_PATH + LSTM_GENERATED_IMAGE_NAME)
+        filename=LOCAL_IMAGE_PATH + FORECAST_MONTH_CLOSED_IMAGE_NAME)
+        
+    new_blob = bucket.blob(CREATED_ISSUES_FORECAST_IMAGE_NAME)
+    new_blob.upload_from_filename(
+        filename=LOCAL_IMAGE_PATH + CREATED_ISSUES_FORECAST_IMAGE_NAME)
+        
+    new_blob = bucket.blob(CLOSED_ISSUES_FORECAST_IMAGE_NAME)
+    new_blob.upload_from_filename(
+        filename=LOCAL_IMAGE_PATH + CLOSED_ISSUES_FORECAST_IMAGE_NAME)
+        
+    new_blob = bucket.blob(PULLS_FORECAST_IMAGE_NAME)
+    new_blob.upload_from_filename(
+        filename=LOCAL_IMAGE_PATH + PULLS_FORECAST_IMAGE_NAME)    
+        
+    new_blob = bucket.blob(COMMITS_FORECAST_IMAGE_NAME)
+    new_blob.upload_from_filename(
+        filename=LOCAL_IMAGE_PATH + COMMITS_FORECAST_IMAGE_NAME)     
+        
+    new_blob = bucket.blob(BRANCHES_FORECAST_IMAGE_NAME)
+    new_blob.upload_from_filename(
+        filename=LOCAL_IMAGE_PATH + BRANCHES_FORECAST_IMAGE_NAME)    
+        
+    new_blob = bucket.blob(CONTRIBUTORS_FORECAST_IMAGE_NAME)
+    new_blob.upload_from_filename(
+        filename=LOCAL_IMAGE_PATH + CONTRIBUTORS_FORECAST_IMAGE_NAME)     
 
+    new_blob = bucket.blob(RELEASES_FORECAST_IMAGE_NAME)
+    new_blob.upload_from_filename(
+        filename=LOCAL_IMAGE_PATH + RELEASES_FORECAST_IMAGE_NAME)    
     # Construct the response
     json_response = {
-        "model_loss_image_url": MODEL_LOSS_URL,
-        "lstm_generated_image_url": LSTM_GENERATED_URL,
-        "all_issues_data_image": ALL_ISSUES_DATA_URL
+        "forecast_day_of_week_created": FORECAST_DAY_OF_WEEK_CREATED_URL,
+        "forecast_day_of_week_closed": FORECAST_DAY_OF_WEEK_CLOSED_URL,
+        "forecast_month_closed": FORECAST_MONTH_CLOSED_URL,
+        "forecast_created_issues": CREATED_ISSUES_FORECAST_URL,
+        "forecast_closed_issues": CLOSED_ISSUES_FORECAST_URL,
+        "forecast_pulls": PULLS_FORECAST_URL,
+        "forecast_commits": COMMITS_FORECAST_URL,
+        "forecast_branches": BRANCHES_FORECAST_URL,
+        "forecast_contributors": CONTRIBUTORS_FORECAST_URL,
+        "forecast_releases": RELEASES_FORECAST_URL
     }
     # Returns image url back to flask microservice
     return jsonify(json_response)
